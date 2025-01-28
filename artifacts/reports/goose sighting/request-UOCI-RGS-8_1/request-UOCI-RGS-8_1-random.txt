@@ -1,0 +1,12 @@
+issue_title: Confusion with Voice Control Number Prompts
+description: Ryan encountered an issue where the voice control's 'show numbers' prompt incorrectly identified headings as clickable buttons, causing confusion. The numbers overlaid on the headings made it difficult to select the intended options. Ryan suggested either moving the numbers away from the headings or enlarging the headings to match the size of the selection circles to prevent overlap.
+timestamps: '00:01:25.730 --> 00:01:57.310'
+
+issue_title: Navigation Difficulty with Editing Answers
+description: Ryan expressed difficulty in navigating back to edit an answer. The process of swiping and attempting to find the correct area to edit was not straightforward. Additionally, after editing an answer, the flow redirected Ryan to re-enter information that was previously entered, which was found to be tedious and unnecessary.
+timestamps: '00:06:02.890 --> 00:07:30.690', '00:11:47.330 --> 00:12:22.410'
+
+issue_title: Potential Issue with Date Entry
+description: Ryan mentioned that entering dates using voice control could be problematic if the system misinterprets spoken numbers as commands for the 'show numbers' prompt. A calendar interface or dropdown menu might mitigate this issue by providing a more straightforward method for date selection.
+timestamps: '00:09:11.490 --> 00:09:23.680'
+

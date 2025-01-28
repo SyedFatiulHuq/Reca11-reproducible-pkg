@@ -1,0 +1,16 @@
+issue_title: Skip to Main Content Focus Issue
+description: Camil encountered an issue with the 'Skip to Main Content' link where pressing Enter did not clearly indicate where the focus moved to, causing confusion.
+timestamps: '00:01:38.485 --> 00:01:43.465'
+
+issue_title: Focus Indicator Clarity
+description: While Camil appreciated the color change on the 'Start Now' button indicating focus, there was confusion about the focus order after using 'Skip to Main Content'. This indicates a potential issue with the clarity of focus indication and order.
+timestamps: '00:02:00.635 --> 00:02:08.575'
+
+issue_title: Keyboard Navigation to Continue Button
+description: Camil reported a major problem with keyboard navigation, being unable to find a way to navigate to the 'Continue' button after selecting an answer using the keyboard.
+timestamps: '00:03:49.655 --> 00:05:50.865'
+
+issue_title: Inconsistent Keyboard Navigation
+description: The user reported an issue with inconsistent keyboard navigation. Specifically, they were unable to reach the 'Continue' button using only the keyboard on the first question, which could be frustrating for users who rely on alternative navigation methods like an on-screen keyboard. However, the issue did not persist in subsequent questions.
+timestamps: '00:06:58.475 --> 00:07:00.275', '00:08:08.685 --> 00:08:10.025', '00:08:26.895 --> 00:08:30.755'
+

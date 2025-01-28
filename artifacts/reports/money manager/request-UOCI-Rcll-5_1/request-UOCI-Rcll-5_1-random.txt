@@ -1,0 +1,100 @@
+issue_title: Dropdown Interaction Issue
+description: Marina attempted to activate a dropdown to enter transaction details but was unable to do so. Despite double tapping the dropdown element, which is the standard gesture for activating an element with TalkBack, nothing happened. This indicates a potential issue with the dropdown control's accessibility, as it is not responding to the expected TalkBack gestures.
+timestamps: '00:09:51.260 --> 00:09:53.189', '00:09:53.770 --> 00:09:56.560', '00:09:58.140 --> 00:10:03.009'
+
+issue_title: Dropdown Interaction Issue
+description: Marina reports that when attempting to interact with a dropdown element, nothing happens despite double tapping, which is the expected gesture for activation with TalkBack. This indicates a potential issue with the dropdown control not being properly accessible or responsive to screen reader gestures.
+timestamps: '00:09:58.140 --> 00:10:03.009', '00:10:37.200 --> 00:10:42.230', '00:10:52.350 --> 00:10:57.629', '00:11:11.620 --> 00:11:16.229'
+
+issue_title: Lack of Context for Edit Boxes
+description: Marina experiences confusion due to the lack of descriptive labels for edit boxes, which only indicate 'Enter info' without specifying the type of information required. This lack of context makes it difficult for screen reader users to understand what data should be entered in each field.
+timestamps: '00:11:52.220 --> 00:12:00.389', '00:12:01.630 --> 00:12:10.109', '00:12:20.540 --> 00:12:33.319'
+
+issue_title: No Error Message for Empty Dropdown
+description: Marina was not notified by an error message when attempting to interact with an empty dropdown, which should have informed her that she needed to create a category first. This lack of feedback can lead to confusion for screen reader users.
+timestamps: '00:13:49.250 --> 00:13:57.309'
+
+issue_title: Unlabeled Buttons
+description: Marina encounters buttons that are not properly labeled, which are read out as 'unlabeled button' by TalkBack. This can lead to confusion and difficulty in navigation for screen reader users.
+timestamps: '00:14:58.320 --> 00:15:14.630'
+
+issue_title: Slider Interaction Issue
+description: Marina encountered an issue with the slider interaction, where she found it easy to accidentally adjust the slider. She was unsure if this was a TalkBack bug or an issue with the application itself. Marina suggested that instead of a slider, another element could be used to display the percentage, which might be less prone to accidental adjustments.
+timestamps: '00:20:00.680 --> 00:20:11.489'
+
+issue_title: Edit Box Labeling Inconsistency
+description: Marina reported that the edit boxes were not properly labeled, only indicating 'Enter info' without providing context about what information should be entered. This lack of clear labeling made it difficult for her to understand what data was expected in each field, although she could infer the type of data based on the keyboard that appeared. She suggested that edit boxes should be labeled as clearly as they were on the 'add category' screen.
+timestamps: '00:21:31.870 --> 00:21:48.689'
+
+issue_title: Inconsistent TalkBack Feedback
+description: Marina experienced inconsistent feedback from TalkBack when interacting with the date selection feature. The screen reader provided different messages at different times for the same action, which caused confusion. She also noted that the date was not displayed in a single button as she expected, but rather split across multiple buttons, which was not intuitive.
+timestamps: '00:25:06.810 --> 00:25:18.879'
+
+issue_title: Screen reader focus management issue
+description: Marina expected the calendar view to close and return her to the previous screen after selecting a date, but instead, she was taken back to the home screen, and her transaction was not saved. This indicates that the screen reader focus did not guide her well, causing disorientation and confusion about the state of the application.
+timestamps: '00:28:32.300 --> 00:28:40.559', '00:28:50.050 --> 00:28:57.910', '00:30:14.570 --> 00:30:20.860'
+
+issue_title: Inconsistent error message notification
+description: Marina encountered an issue where the app did not provide clear feedback after attempting to add a transaction without having income added to the wallet first. This lack of error message or inconsistent notification led to confusion.
+timestamps: '00:32:14.580 --> 00:32:25.300', '00:32:56.630 --> 00:33:00.180'
+
+issue_title: Error message not automatically read out
+description: When Marina encountered an error due to not having income in the wallet, the error message was not automatically read out by the screen reader, which is crucial for understanding the current status and how to remediate it.
+timestamps: '00:32:14.580 --> 00:32:25.300'
+
+issue_title: Screen reader gesture misinterpretation
+description: Marina used a gesture intended to take her back to the previous screen, but it instead took her back to the home screen. This indicates that the screen reader gestures are not being interpreted correctly by the app, affecting navigation.
+timestamps: '00:34:21.300 --> 00:34:39.940'
+
+issue_title: Labeling inconsistency for screen reader
+description: Marina noticed that after swiping right from the 'Add Income' button, the label read 'edit box group' instead of a more descriptive label, which could lead to confusion for screen reader users.
+timestamps: '00:35:30.590 --> 00:36:06.110'
+
+issue_title: Screen Reader Traversal Order Issue
+description: Marina reported that the traversal order of the screen reader was reversed when navigating through the Money Manager app. This caused confusion as the expected navigation sequence did not match the actual behavior, leading to a disoriented experience.
+timestamps: '00:35:56.770 --> 00:36:06.110', '00:36:06.640 --> 00:36:14.079', '00:36:15.720 --> 00:36:18.470', '00:36:18.560 --> 00:36:20.100', '00:36:20.210 --> 00:36:24.789'
+
+issue_title: Unclear Edit Box Labels
+description: Marina encountered edit boxes that were not clearly labeled, specifically mentioning an 'Enter info' edit box that did not provide context about the information required. This lack of clear labeling can hinder a screen reader user's ability to understand and interact with the form fields appropriately.
+timestamps: '00:41:21.850 --> 00:41:25.830'
+
+issue_title: Confusing Main Screen and Lack of Context
+description: Marina found the main screen confusing as it seemed to suggest that there was already a budget plan in place, which was not the case. Additionally, there was no context provided regarding any due dates, which could lead to misunderstandings about the status of budget plans.
+timestamps: '00:42:42.400 --> 00:42:52.200'
+
+issue_title: Unlabeled Button
+description: Marina noted that an image description from TalkBack kicked in because a button was not labeled. This indicates that the button's purpose was not clear to the screen reader, which can be problematic for users relying on assistive technology to understand and navigate the app.
+timestamps: '00:43:07.210 --> 00:43:20.320'
+
+issue_title: Screen Reader Focus and Content Clarity
+description: Marina, the tester, encountered issues with the screen reader focus and content clarity when trying to understand the budget plan information. The screen reader was reading out extraneous information without context, making it difficult for her to comprehend the purpose of the information being conveyed. This was particularly problematic when the app was color-coding plans, which was not accessible to her as a TalkBack user.
+timestamps: '00:46:18.710 --> 00:46:31.229', '00:46:40.980 --> 00:46:50.659', '00:47:11.440 --> 00:47:23.940', '00:47:25.520 --> 00:47:32.640', '00:47:52.010 --> 00:48:00.550', '00:48:18.110 --> 00:48:20.120'
+
+issue_title: Inaccessible Visual Cues
+description: The app uses color coding to indicate the status of budget plans, which is not conveyed to TalkBack users. Marina suggested that an alternative method, such as using an asterisk or other non-visual cues, should be implemented to communicate this information to screen reader users.
+timestamps: '00:47:25.520 --> 00:47:32.640', '00:47:52.010 --> 00:48:00.550', '00:48:18.110 --> 00:48:20.120'
+
+issue_title: Chart Accessibility
+description: Marina experienced difficulty with the chart accessibility in the budget analysis section. The screen reader was not effectively conveying the chart information, reading out numbers without context. She suggested that charts should be described in detail in text form for screen reader users.
+timestamps: '00:49:36.790 --> 00:49:50.579', '00:52:00.520 --> 00:52:18.879'
+
+issue_title: Screen Reader Focus Issue
+description: Marina reported that when using TalkBack, the screen reader only read 'Web View' and did not provide any further information or context. This caused confusion as it did not guide her to the next actionable element, leading to disorientation.
+timestamps: '00:53:45.220 --> 00:53:57.490'
+
+issue_title: Inaccessible Button
+description: Marina and Interviewer both noted that there was a button on the screen that was not accessible with TalkBack, which seems to be a critical functionality as it was expected to lead to settings but did not work.
+timestamps: '00:54:09.450 --> 00:54:11.710', '00:55:21.820 --> 00:55:28.299', '00:55:37.950 --> 00:55:43.140'
+
+issue_title: Lack of Onboarding or Introduction
+description: Marina mentioned that there was no onboarding or introduction to guide a new user through the necessary steps before starting to add expenses, which can be disorienting and lead to a poor user experience.
+timestamps: '00:57:31.950 --> 00:57:47.180'
+
+issue_title: Inaccessible Charts and Analysis
+description: Marina expressed dissatisfaction with the inability to view charts and the monthly expenses analysis in an accessible manner, which is a significant part of the app's functionality.
+timestamps: '00:57:54.650 --> 00:58:00.169', '00:58:00.900 --> 00:58:10.109'
+
+issue_title: Inaccessible Slider for Budget Categories
+description: Marina found it interesting that the app uses a slider for budget categories, which may not be the most accessible choice for screen reader users.
+timestamps: '00:59:07.750 --> 00:59:18.730'
+

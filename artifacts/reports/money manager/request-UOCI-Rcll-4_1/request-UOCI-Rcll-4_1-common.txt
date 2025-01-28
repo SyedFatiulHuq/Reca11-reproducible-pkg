@@ -1,0 +1,68 @@
+issue_title: Installation Issues with Non-Google Play Apps
+description: Josh encountered an error when trying to open the .APK file for the app 'No Scribe' from Google Drive, receiving a message stating he didn't have access to the Internet, despite being connected. This issue persisted when attempting to open the file directly from Google Chrome, where he received a 'can't open file' message. These issues prevented Josh from installing the app necessary for the test.
+timestamps: '00:16:31.200 --> 00:16:43.289', '00:18:26.700 --> 00:18:44.550', '00:20:04.480 --> 00:20:13.880'
+
+issue_title: Screen reader focus and label clarity
+description: The tester, Josh, experienced confusion with the screen reader focus and labeling of input fields when trying to add a transaction. Specifically, he encountered multiple edit boxes labeled 'enter info' without clear indication of what information was required for each field. This lack of clarity and focus management made it difficult for him to understand what data to input where, leading to a potential barrier in completing the task.
+timestamps: '00:34:49.389 --> 00:34:57.500'
+
+issue_title: Inconsistent error message handling
+description: Josh encountered an issue where the screen reader did not provide any feedback or error message when he was unable to open a file. This lack of error notification could lead to confusion and uncertainty about the status of the action he was attempting to perform.
+timestamps: '00:28:21.920 --> 00:28:28.680'
+
+issue_title: Unclear Edit Box Labeling
+description: Josh encountered an issue where the label of the 'enter info' edit box did not change after selecting a category, which led to confusion about what information should be entered in the box.
+timestamps: '00:37:54.350 --> 00:38:03.620', '00:38:04.760 --> 00:38:07.980'
+
+issue_title: Inaccessible Date Picker
+description: Josh found it challenging to navigate through the date picker, indicating that the component may not be accessible or intuitive for screen reader users.
+timestamps: '00:39:02.780 --> 00:39:05.050'
+
+issue_title: Inaccessible Analysis Feature
+description: Josh reported that the analysis feature might require a premium version and was not accessible with the current version of the app. The options for the analysis were not clear or accessible.
+timestamps: '00:42:11.520 --> 00:42:19.000'
+
+issue_title: Non-Interactive Link
+description: Josh attempted to click on a link that was supposed to provide more information, but the link was not interactive and nothing happened upon double tapping.
+timestamps: '00:43:44.080 --> 00:43:46.289'
+
+issue_title: Webview Inaccessibility
+description: Josh mentioned that the webview window was not accessible at all, as TalkBack was skipping right over it, indicating a lack of proper accessibility implementation for screen reader users.
+timestamps: '00:44:29.420 --> 00:44:32.829'
+
+issue_title: Inaccessible Web View
+description: Josh encountered an issue with the web view within the app, which was not allowing interaction with TalkBack. This made it difficult to access certain parts of the application, leading to a lack of control and disorientation.
+timestamps: '00:44:58.140 --> 00:45:04.199', '00:45:10.890 --> 00:45:18.520', '00:45:22.190 --> 00:45:25.270'
+
+issue_title: Inaccessible Settings Panel
+description: Josh reported that tapping on the settings option did not yield any result, indicating that the panel might be inaccessible or the option itself might be non-functional.
+timestamps: '00:46:32.750 --> 00:46:41.970'
+
+issue_title: Inaccessible Monthly Expense Analysis
+description: Josh found the monthly expense analysis screen to be inaccessible, which prevented him from accessing important financial analysis data.
+timestamps: '00:49:18.240 --> 00:49:26.219', '00:50:11.190 --> 00:50:16.530'
+
+issue_title: Unlabeled Buttons
+description: Josh encountered unlabeled buttons, which did not provide any information about their function or purpose, making it difficult to navigate and understand the app's features.
+timestamps: '00:50:52.030 --> 00:50:57.539'
+
+issue_title: Inability to Edit Category Names
+description: Josh attempted to edit the name of a budget category but was unable to do so. The screen reader kept repeating 'You cannot change the category name money manager' without providing a clear reason or solution for the issue. This lack of feedback and inability to perform the action was confusing and hindered the task.
+timestamps: '00:54:50.580 --> 00:55:07.519', '00:55:30.180 --> 00:55:36.339', '00:56:36.570 --> 00:56:38.640', '00:57:21.580 --> 00:57:31.079'
+
+issue_title: Screen Reader Focus Not Managed
+description: Interviewer noted that TalkBack wasn't focusing on the total expenses amount, even though it was visible on the screen. This indicates that the screen reader focus was not managed properly, causing disorientation for the user.
+timestamps: '01:01:17.500 --> 01:01:22.719'
+
+issue_title: Misleading Information on Budget Plan Deadline
+description: Josh encountered a message stating 'The deadline of this plan has passed' when trying to add a budget plan, despite there being no current plans. This misleading information could cause confusion for the user.
+timestamps: '01:01:42.090 --> 01:02:10.110'
+
+issue_title: Misleading Button Label
+description: A button was labeled 'Add Income' when it was actually for adding an expense. This misleading label could cause confusion for the user.
+timestamps: '01:06:24.840 --> 01:06:33.050'
+
+issue_title: Confusing Interface Elements
+description: Josh encountered interface elements that were not clearly labeled or described, leading to confusion. Specifically, Josh found multiple edit boxes with the same name 'enter info' and was unsure what information was required for each. This lack of clear labeling can disorient users and make it difficult to complete tasks.
+timestamps: '00:34:49.389 --> 00:34:57.500'
+

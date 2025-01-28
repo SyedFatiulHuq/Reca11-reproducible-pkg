@@ -1,0 +1,12 @@
+issue_title: Confusion with Voice Control Number Prompts
+description: Ryan reported that the voice control's 'show numbers' prompt was confusing because it placed numbers over the Yes and No headings, making them appear as clickable buttons. This caused difficulty in selecting the intended options as the numbers overlapped with the actual buttons.
+timestamps: '00:01:25.730 --> 00:01:57.310'
+
+issue_title: Difficulty Editing Date Input with Voice Control
+description: Ryan experienced issues when trying to edit the date input using voice control. The numbers spoken were confused with the voice control prompts, leading to a tedious process of turning voice control on and off to correct the input. A calendar or dropdown menu was suggested as a potential solution to make the process less cumbersome.
+timestamps: '00:09:11.490 --> 00:09:48.569'
+
+issue_title: Redundant Navigation Steps After Editing
+description: After editing the type of goose seen, Ryan was redirected to re-enter the date of the sighting, which was already provided. This redundant step was found to be tedious and unnecessary, suggesting that the editing process should not require users to re-enter previously submitted information.
+timestamps: '00:11:28.970 --> 00:12:22.410'
+

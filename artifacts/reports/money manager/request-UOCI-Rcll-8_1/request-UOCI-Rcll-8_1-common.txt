@@ -1,0 +1,36 @@
+issue_title: Screen reader focus did not guide users well
+description: Jennifer experienced difficulty when trying to interact with the 'Category name' and 'Product category' elements. The screen reader focus did not move to the expected locations, causing confusion and preventing her from completing the task of adding an expense category.
+timestamps: '00:01:23.549 --> 00:01:29.570', '00:03:32.170 --> 00:03:47.690', '00:04:06.140 --> 00:04:12.009', '00:04:32.290 --> 00:04:45.430', '00:06:24.310 --> 00:06:29.849'
+
+issue_title: Error messages across the page are inconsistent
+description: Jennifer was not provided with consistent feedback or error messages when interacting with elements that did not respond to her actions, such as the 'Product category' drop-down list. This lack of feedback left her unsure if the page had loaded or if she was making mistakes.
+timestamps: '00:04:06.140 --> 00:04:12.009', '00:06:24.310 --> 00:06:29.849'
+
+issue_title: Ensure that focus follows the field with an associated error
+description: Jennifer encountered an issue where the focus did not follow the fields that required correction. For example, when trying to add an expense category, the focus did not lead her to the correct input fields, causing her to become disoriented and unable to proceed.
+timestamps: '00:04:06.140 --> 00:04:12.009', '00:06:24.310 --> 00:06:29.849'
+
+issue_title: Ensure the error message is automatically read out by a screen reader
+description: Jennifer did not receive automatic readouts of error messages or feedback when elements such as the 'Product category' drop-down list did not function as expected. This made it difficult for her to understand what was happening and how to proceed.
+timestamps: '00:04:06.140 --> 00:04:12.009', '00:06:24.310 --> 00:06:29.849'
+
+issue_title: Screen reader focus and navigation issues
+description: Jennifer experienced difficulty with screen reader focus and navigation within the app. She struggled to find the correct buttons and categories, often expressing confusion and needing to backtrack. This indicates that the screen reader focus did not guide her well through the app's interface, causing disorientation and inefficiency in completing tasks.
+timestamps: '00:11:13.150 --> 00:11:16.139', '00:13:14.580 --> 00:13:15.540', '00:13:25.540 --> 00:13:27.970', '00:14:06.060 --> 00:14:07.220', '00:16:06.340 --> 00:16:11.839', '00:17:00.850 --> 00:17:11.879', '00:20:41.870 --> 00:20:46.720'
+
+issue_title: Inconsistent error message handling
+description: Jennifer seemed to encounter issues with error messages not being consistently announced or handled by the screen reader. This lack of consistency likely caused confusion and made it difficult for her to understand what actions were required to proceed.
+timestamps: '00:14:29.630 --> 00:14:33.020', '00:17:00.850 --> 00:17:11.879', '00:20:41.870 --> 00:20:46.720'
+
+issue_title: Difficulty accessing error messages
+description: The tester had trouble accessing error messages more than once, which suggests that the app does not provide an easy way to revisit error messages. This can be problematic for users who need to review the errors to understand and correct them.
+timestamps: '00:17:00.850 --> 00:17:11.879'
+
+issue_title: Inability to edit category names
+description: Jennifer encountered an issue where she was unable to change the name of a budget category. Despite trying to edit the category name, the app did not allow her to make changes, which could be a violation of the principle of being able to perceive and operate the interface.
+timestamps: '00:27:00.090 --> 00:27:02.030', '00:27:19.370 --> 00:27:34.200'
+
+issue_title: Difficulty understanding analysis results
+description: Jennifer expressed that she did not understand the analysis results well, indicating that the information was not presented in an accessible or clear manner for screen reader users.
+timestamps: '00:34:37.800 --> 00:34:53.919'
+

@@ -1,0 +1,8 @@
+issue_title: Difficulty Interacting with Placeholder Text
+description: Noah experienced difficulty when trying to click into a text box using the placeholder text as a reference for the voice command. The presence of symbols like dashes in the placeholder text (e.g., 'black spur-winged goose') caused issues with the voice recognition software, which did not respond to the command as expected. Noah suggested that it would be better if the example text was placed outside the text box or if the text box was left blank to avoid confusion.
+timestamps: '00:01:54.460 --> 00:02:17.260'
+
+issue_title: Unexpected Repetition of Form Fields
+description: After changing an answer and clicking 'continue,' Noah expected to return to the summary page but was instead asked to re-enter the date information that had already been provided. This behavior was not anticipated and could lead to confusion or frustration for users who expect their previous inputs to be retained after making a change.
+timestamps: '00:04:58.850 --> 00:05:11.489'
+

@@ -1,0 +1,16 @@
+issue_title: Keyboard Navigation Issue with Continue Button
+description: The user encountered a significant issue with keyboard navigation. They were unable to navigate to the 'Continue' button using the keyboard after selecting an answer with the radio buttons. Despite trying various keyboard commands, the user could not reach the 'Continue' button, which is a major problem for users who rely solely on keyboard navigation.
+timestamps: '00:03:49.655 --> 00:05:56.495'
+
+issue_title: Inconsistent Keyboard Navigation
+description: The user reported an issue with inconsistent keyboard navigation. Specifically, they were unable to reach the 'Continue' button using only the keyboard on the first question, which could be frustrating for users who rely on alternative navigation methods like an on-screen keyboard. However, the issue did not persist in subsequent questions.
+timestamps: '00:06:43.705 --> 00:07:00.275', '00:08:08.685 --> 00:08:22.565'
+
+issue_title: Focus Indicator Clarity
+description: The user expressed satisfaction with the focus indicator clarity, as the selected fields were highlighted in yellow, making it clear where the focus was. This feedback suggests that the focus indicator was implemented well, contrasting with the white background and aiding the user in knowing their position on the page.
+timestamps: '00:07:05.035 --> 00:07:21.105'
+
+issue_title: Inability to Reach 'Continue' Button with Keyboard on Question One
+description: The user reported a significant issue with the accessibility of the website, specifically being unable to reach the 'Continue' button using keyboard navigation on question one. This problem was unique to question one, as the user could access the 'Continue' button on subsequent questions without any issues. The inability to use keyboard navigation for this button could hinder users who rely on alternative navigation methods, such as those using on-screen keyboards or other assistive technologies.
+timestamps: '00:16:06.605 --> 00:16:13.205'
+

@@ -1,0 +1,12 @@
+issue_title: Confusing Placeholder Text
+description: Caitlin encountered placeholder text that was confusing. The text 'ghost goose' appeared in a field where she was supposed to enter the type of goose she saw. This was not clear to her, and she initially thought she needed to type something in that field. The placeholder text should be clear and unambiguous to avoid confusion.
+timestamps: '00:04:13.330 --> 00:04:18.680'
+
+issue_title: Misleading Link Text
+description: Caitlin found the link text 'change biscuits' and 'cake' to be nonsensical and not indicative of their function. She expected something like 'change' or 'edit' which would be more descriptive of the action that the link would perform. The link text should be clear and meaningful to ensure users understand what action will be taken when they activate the link.
+timestamps: '00:08:15.150 --> 00:08:40.969'
+
+issue_title: Misleading Button Label
+description: Caitlin expressed confusion regarding the labeling of the 'Continue' button on the submission page. She suggested that if the button's purpose is to submit the application, it should be labeled 'Submit' instead of 'Continue,' as the latter implies there might be more steps to follow in the application process. This issue could lead to uncertainty for users about the status of their application submission.
+timestamps: '00:14:36.540 --> 00:14:50.889'
+

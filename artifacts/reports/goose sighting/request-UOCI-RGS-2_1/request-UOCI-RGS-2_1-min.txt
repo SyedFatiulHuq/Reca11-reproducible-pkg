@@ -1,0 +1,28 @@
+issue_title: Small Text Size for Answer Options
+description: The tester reported that the size of the answer options in the survey was not working well for them. The text was really small, which made it difficult to read, even though the selection area was adequately large. The tester suggested that making the text bigger would be beneficial.
+timestamps: '00:05:36.145 --> 00:05:41.165'
+
+issue_title: Low Contrast for Instructions
+description: The tester found the font for the instructions under the survey questions to be really light, making it difficult to read. They suggested that if the instructions were a little darker, it would be really helpful.
+timestamps: '00:06:16.595 --> 00:06:30.455'
+
+issue_title: Lack of Dropdown for Goose Species
+description: The tester suggests that a dropdown with names of goose species would be helpful for users who may not be aware of the different types, indicating that the current design may not provide sufficient guidance for users to input the correct information.
+timestamps: '00:07:56.275 --> 00:08:16.015'
+
+issue_title: No Date Validation or Error Messaging
+description: The tester reports that there is no validation of the date input and no error message when an incorrect date is entered (e.g., a month as '13' which doesn't exist). This could lead to confusion and errors in data entry, especially for users with low vision who may type incorrectly.
+timestamps: '00:09:22.245 --> 00:09:43.085'
+
+issue_title: Change Link Not Bold Enough
+description: The tester finds the 'change' link on the 'check your answers' page not bold enough, requiring additional magnification to identify it. Making it bolder would improve visibility and ease of use for users with low vision.
+timestamps: '00:10:24.385 --> 00:10:36.895'
+
+issue_title: Inconvenient Answer Revision Process
+description: The tester finds it inconvenient that revising an answer takes them back to the survey question instead of allowing them to change it in place on the 'check your answers' page. This requires navigating through subsequent questions again, which can be cumbersome.
+timestamps: '00:11:13.445 --> 00:11:28.725'
+
+issue_title: Lack of Close Button on Dialog Box
+description: The tester notes the absence of a close button on a dialog box, which could lead to confusion about how to dismiss it. The tester had to click on the link again to close the dialog box, which is not an intuitive action.
+timestamps: '00:12:52.185 --> 00:13:07.585'
+

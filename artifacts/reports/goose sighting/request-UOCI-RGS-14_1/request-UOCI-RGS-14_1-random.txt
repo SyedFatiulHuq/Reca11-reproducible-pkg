@@ -1,0 +1,20 @@
+issue_title: Keyboard Navigation Issue with Continue Button
+description: The user encountered a significant issue with keyboard navigation, as they were unable to navigate to the 'Continue' button after selecting an answer using the radio buttons. Despite trying various keyboard commands, the user could not reach the 'Continue' button, which is a major problem for those relying solely on keyboard navigation.
+timestamps: '00:03:49.655 --> 00:05:56.495'
+
+issue_title: Inconsistent Keyboard Navigation
+description: The tester experienced inconsistent behavior when using keyboard navigation to reach the 'Continue' button. While on question two, the tester was able to navigate to the 'Continue' button without issue, question one presented a problem where the tester could not reach the 'Continue' button using only the keyboard.
+timestamps: '00:06:58.475 --> 00:07:00.275', '00:08:08.685 --> 00:08:10.025', '00:08:38.665 --> 00:08:43.345'
+
+issue_title: Focus Indicator Clarity
+description: The tester noted that the focus indicator changed color from green to yellow, which was unexpected. Although the tester did not express difficulty with this, it could potentially cause confusion for users who rely on consistent visual cues for navigation.
+timestamps: '00:05:58.965 --> 00:06:03.265', '00:06:06.905 --> 00:06:15.055'
+
+issue_title: Skip to Main Content Requires Multiple Tabs
+description: The tester observed that the 'Skip to main content' link required two tab presses to actually navigate to the main content, which could be considered a minor inconvenience for users relying on keyboard navigation.
+timestamps: '00:06:43.705 --> 00:06:56.055'
+
+issue_title: Inability to Reach 'Continue' Button with Keyboard on Question One
+description: The user reported a significant issue with the accessibility of the website, specifically being unable to reach the 'Continue' button using keyboard navigation on question one. This problem was unique to question one as the user could navigate fine with the keyboard on other questions. This issue affects users who rely on keyboard navigation to interact with web content, potentially preventing them from completing the form.
+timestamps: '00:16:06.605 --> 00:16:13.205'
+

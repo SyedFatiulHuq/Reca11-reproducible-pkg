@@ -1,0 +1,56 @@
+issue_title: Screen Reader Navigation Issues
+description: The user, Ben, seems to be having trouble navigating the app with the screen reader. The repeated phrases like 'open navigation for', 'budget category check', and 'money mentor' suggest that the screen reader is not guiding him effectively through the app's interface. This could lead to confusion and difficulty in completing tasks efficiently.
+timestamps: '00:29:32.250 --> 00:30:08.250'
+
+issue_title: Inconsistent Screen Reader Feedback
+description: Ben is experiencing inconsistent feedback from the screen reader, as indicated by his repeated attempts to interact with elements like 'budget analysis' and 'monthly expenses analysis'. This inconsistency could cause confusion and make it difficult for him to understand the app's structure and the results of his actions.
+timestamps: '00:30:08.840 --> 00:30:44.430'
+
+issue_title: Unlabeled Button
+description: Ben encountered an issue with an unlabeled button, which he assumed was the 'Add' button based on previous experience. However, this was not clearly indicated by the screen reader, leading to uncertainty and a guesswork approach.
+timestamps: '00:32:03.190 --> 00:32:08.329', '00:39:53.200 --> 00:40:01.550', '00:40:07.120 --> 00:40:12.170'
+
+issue_title: Dropdown Interaction Failure
+description: Ben reported that when he double-tapped on a dropdown category, nothing happened, indicating a failure in the interaction with dropdown elements using the screen reader.
+timestamps: '00:33:50.730 --> 00:33:55.829'
+
+issue_title: Ambiguous Input Fields
+description: Ben expressed confusion regarding two input fields labeled 'enter info year,' as it was not clear which one to interact with. This ambiguity could lead to input errors or difficulty in completing the form.
+timestamps: '00:34:06.940 --> 00:34:16.370'
+
+issue_title: Inaccessible Error Message
+description: Ben encountered an error message that was not automatically read out by the screen reader, which could lead to a lack of awareness about the status of the action he was trying to perform.
+timestamps: '00:36:03.710 --> 00:36:11.599'
+
+issue_title: OCR Feature Interference
+description: Ben attempted to resolve an issue by turning off the OCR feature in TalkBack, suggesting that the OCR might be interfering with the proper functioning of the app's accessibility features.
+timestamps: '00:37:45.790 --> 00:38:38.940'
+
+issue_title: Screen Reader Navigation Issues
+description: The tester experienced issues with screen reader navigation, as indicated by their repeated attempts to locate and interact with UI elements. This suggests that the screen reader focus was not guiding the user well, leading to confusion and difficulty in performing tasks.
+timestamps: '00:43:04.030 --> 00:43:06.140', '00:43:15.210 --> 00:43:19.469', '00:44:06.830 --> 00:44:16.510', '00:44:53.090 --> 00:44:58.539', '00:45:01.290 --> 00:45:07.650', '00:45:45.820 --> 00:45:49.419', '00:46:01.110 --> 00:46:09.429', '00:46:28.330 --> 00:46:34.109', '00:47:13.730 --> 00:47:14.930', '00:47:45.530 --> 00:48:05.700', '00:48:06.580 --> 00:48:19.670', '00:48:47.570 --> 00:49:07.969', '00:49:22.840 --> 00:49:27.670', '00:49:37.730 --> 00:49:38.410', '00:49:40.370 --> 00:49:43.350', '00:49:44.520 --> 00:49:46.540', '00:49:48.530 --> 00:49:52.530', '00:49:56.400 --> 00:49:59.640', '00:50:03.210 --> 00:50:03.980', '00:50:04.280 --> 00:50:05.370', '00:50:06.900 --> 00:50:11.859', '00:50:42.950 --> 00:50:45.369', '00:50:45.950 --> 00:50:54.569', '00:50:55.520 --> 00:50:58.029', '00:50:58.060 --> 00:50:59.510', '00:51:03.700 --> 00:51:06.580', '00:51:07.950 --> 00:51:33.060', '00:51:33.480 --> 00:51:35.789', '00:51:35.900 --> 00:51:38.319', '00:51:41.330 --> 00:51:42.520', '00:51:42.700 --> 00:51:51.440', '00:51:51.550 --> 00:51:53.820', '00:51:54.420 --> 00:51:59.730', '00:52:00.600 --> 00:52:02.979', '00:52:03.060 --> 00:52:06.650', '00:52:06.810 --> 00:52:09.319', '00:52:23.570 --> 00:52:27.349', '00:52:27.940 --> 00:52:35.870', '00:52:36.080 --> 00:52:45.430', '00:52:46.160 --> 00:52:47.750'
+
+issue_title: Screen reader focus issues
+description: The tester, Ben, experienced issues with the screen reader focus not moving to the expected elements, such as when trying to view the total expenses or when attempting to access the budget analysis. This caused confusion and made it difficult for Ben to navigate the app effectively.
+timestamps: '00:57:34.180 --> 00:57:40.309', '00:58:56.480 --> 00:58:57.890'
+
+issue_title: Error message not read out by screen reader
+description: Ben encountered an issue where the screen reader did not read out an error message regarding the budget plan deadline, leading to confusion about the status of the plan.
+timestamps: '00:56:35.520 --> 00:56:41.689'
+
+issue_title: Inaccessible chart information
+description: Ben reported that the chart conveying monthly expenses was not accessible, as the screen reader only announced the presence of a chart without providing any meaningful data. Ben suggested that a table would be a more accessible alternative.
+timestamps: '01:00:40.990 --> 01:00:48.990'
+
+issue_title: Total Expenses Text Not Accessible
+description: Ben reported that the total expenses text is not labeled in a way that is accessible with TalkBack. This means that as a screen reader user, he is unable to see or hear the total expense amount, which is a crucial part of managing finances within the app.
+timestamps: '01:02:59.910 --> 01:03:06.560'
+
+issue_title: Unlabeled Buttons
+description: Ben mentioned that there are some unlabeled buttons within the app, specifically pointing out the 'Add' button. This lack of labeling can cause confusion for screen reader users, as they rely on these labels to understand the function of each button.
+timestamps: '01:03:41.230 --> 01:03:55.709'
+
+issue_title: Fields Not Clearly Labeled
+description: Ben found that the fields for entering the title and dollar amount for expenses were not clearly labeled. He had to deduce which field was for what based on the type of keyboard that popped up, which is not an ideal way for screen reader users to interact with form fields.
+timestamps: '01:04:43.900 --> 01:04:49.350'
+

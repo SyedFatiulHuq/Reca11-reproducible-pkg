@@ -1,0 +1,72 @@
+issue_title: Screen reader focus management
+description: The user seems to be having difficulty with the screen reader focus management. The user's speech indicates that they are trying to navigate through the app's features such as budget categories, budget analysis, and monthly expenses, but the focus does not seem to be moving to expected locations, causing confusion.
+timestamps: '00:29:32.250 --> 00:30:08.250'
+
+issue_title: Error message accessibility
+description: The user appears to be encountering issues with error messages not being automatically read out by the screen reader. This is evident when the user is trying to interact with the app's features and is not receiving clear feedback, which could indicate that error messages are not being announced consistently or at all.
+timestamps: '00:30:49.310 --> 00:31:01.060'
+
+issue_title: Unlabeled Button
+description: Ben encountered an issue where the 'Add' button was not labeled, which could be a bug with TalkBack or the app itself. This made it difficult for him to identify the button's function without guessing.
+timestamps: '00:32:03.190 --> 00:32:08.329', '00:40:02.680 --> 00:40:06.919'
+
+issue_title: Dropdown Interaction Failure
+description: Ben reported that when he double-tapped on a category dropdown, nothing happened, indicating a failure in the interaction with dropdown elements.
+timestamps: '00:33:50.730 --> 00:33:58.159'
+
+issue_title: Ambiguous Input Fields
+description: Ben was confused by two input fields labeled 'enter info year,' as it was not clear which one to interact with.
+timestamps: '00:34:06.940 --> 00:34:16.370'
+
+issue_title: Inaccessible Error Messages
+description: Ben seemed to have trouble with error messages not being automatically read out by the screen reader, which could lead to confusion and difficulty in rectifying issues.
+timestamps: '00:36:03.710 --> 00:36:14.910'
+
+issue_title: Inconsistent Labeling
+description: Ben had to guess the function of a button due to inconsistent labeling, as he remembered an unlabeled button from before that said 'add.'
+timestamps: '00:40:02.680 --> 00:40:06.919'
+
+issue_title: Non-Intuitive Category Reflection
+description: Ben found that the categories in one section of the app did not intuitively reflect the categories of the budget category, which made the app less user-friendly.
+timestamps: '00:41:41.760 --> 00:41:52.419'
+
+issue_title: Complex Error Messages
+description: Ben struggled with complex error messages while trying to add a budget category. The error messages were not concise, causing difficulty for the screen reader user to understand and rectify the error.
+timestamps: '00:44:27.390 --> 00:44:37.600'
+
+issue_title: Screen reader does not announce total expenses
+description: The screen reader does not announce the total expenses, which is a critical piece of information for managing finances within the app. The user is unable to determine their total spending, which affects their ability to track and manage their budget effectively.
+timestamps: '00:57:26.330 --> 00:57:34.169', '00:57:34.180 --> 00:57:40.309'
+
+issue_title: Inaccessible chart information
+description: The app uses charts to convey financial information, which the screen reader announces as present but does not provide accessible data from. The user suggests that a table would be a more accessible alternative, as charts are typically not accessible to screen reader users.
+timestamps: '01:00:40.990 --> 01:00:43.740', '01:00:44.270 --> 01:00:48.990', '01:00:49.630 --> 01:00:55.349'
+
+issue_title: Generic error message
+description: The app provides a generic error message regarding budget plans that is not specific to the user's situation, leading to confusion. The message indicates a deadline has passed even though it has not, which could mislead the user.
+timestamps: '00:56:44.130 --> 00:56:51.660'
+
+issue_title: Color Coding Not Conveyed to Screen Reader
+description: Ben suggests changing the color coding to actual text, indicating that the color coding used in the app is not conveyed to screen reader users, which can be an issue for users who rely on screen readers to understand visual cues.
+timestamps: '01:02:32.480 --> 01:02:38.739'
+
+issue_title: Total Expenses Value Not Accessible
+description: Ben reports that the total expenses value is not labeled in a way that is accessible with TalkBack, meaning that he is unable to 'see' or access the total expense amount using the screen reader.
+timestamps: '01:02:59.910 --> 01:03:06.560'
+
+issue_title: Unlabeled Buttons
+description: Ben mentions that there are some unlabeled buttons within the app, which could be confusing for screen reader users, especially if the TalkBack recognition feature is not turned on.
+timestamps: '01:03:25.270 --> 01:03:40.249', '01:03:41.230 --> 01:03:55.709'
+
+issue_title: Fields Not Clearly Labeled
+description: Ben had to deduce which fields were for the title and which were for the dollar amount when adding an expense. He suggests that clear labels would be helpful, indicating that the fields were not adequately labeled for screen reader users.
+timestamps: '01:04:16.570 --> 01:04:41.359'
+
+issue_title: OCR Feature Interference
+description: Ben attempted to resolve an issue by turning off the OCR feature in TalkBack, suggesting that the OCR might be interfering with the proper functioning of the app's accessibility features.
+timestamps: '00:37:45.790 --> 00:38:38.940'
+
+issue_title: Screen Reader Navigation Issues
+description: The tester experienced issues with screen reader navigation, as indicated by their repeated attempts to locate and interact with UI elements. This suggests that the screen reader focus was not guiding the user well, leading to confusion and difficulty in performing tasks.
+timestamps: '00:43:04.030 --> 00:43:06.140', '00:43:15.210 --> 00:43:19.469', '00:44:06.830 --> 00:44:16.510', '00:44:53.090 --> 00:44:58.539', '00:45:01.290 --> 00:45:07.650', '00:45:45.820 --> 00:45:49.419', '00:46:01.110 --> 00:46:09.429', '00:46:28.330 --> 00:46:34.109', '00:47:13.730 --> 00:47:14.930', '00:47:45.530 --> 00:48:05.700', '00:48:06.580 --> 00:48:19.670', '00:48:47.570 --> 00:49:07.969', '00:49:22.840 --> 00:49:27.670', '00:49:37.730 --> 00:49:38.410', '00:49:40.370 --> 00:49:43.350', '00:49:44.520 --> 00:49:46.540', '00:49:48.530 --> 00:49:52.530', '00:49:56.400 --> 00:49:59.640', '00:50:03.210 --> 00:50:03.980', '00:50:04.280 --> 00:50:05.370', '00:50:06.900 --> 00:50:11.859', '00:50:42.950 --> 00:50:45.369', '00:50:45.950 --> 00:50:54.569', '00:50:55.520 --> 00:50:58.029', '00:50:58.060 --> 00:50:59.510', '00:51:03.700 --> 00:51:06.580', '00:51:07.950 --> 00:51:33.060', '00:51:33.480 --> 00:51:35.789', '00:51:35.900 --> 00:51:38.319', '00:51:41.330 --> 00:51:42.520', '00:51:42.700 --> 00:51:51.440', '00:51:51.550 --> 00:51:53.820', '00:51:54.420 --> 00:51:59.730', '00:52:00.600 --> 00:52:02.979', '00:52:03.060 --> 00:52:06.650', '00:52:06.810 --> 00:52:09.319', '00:52:23.570 --> 00:52:27.349', '00:52:27.940 --> 00:52:35.870', '00:52:36.080 --> 00:52:45.430', '00:52:46.160 --> 00:52:47.750'
+

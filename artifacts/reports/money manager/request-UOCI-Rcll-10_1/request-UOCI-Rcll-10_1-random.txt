@@ -1,0 +1,44 @@
+issue_title: Unlabeled Button
+description: Phoenix encountered an unlabeled button which they guessed was an 'Add' button for a category. This lack of labeling can cause confusion and does not provide the necessary information for screen reader users.
+timestamps: '00:02:26.840 --> 00:02:38.000'
+
+issue_title: Misleading Button Label
+description: Phoenix found that a button labeled 'Add Income' actually saved the category instead of adding income. This misleading label can cause confusion for users who rely on accurate descriptions to understand the function of controls.
+timestamps: '00:04:30.290 --> 00:04:51.410'
+
+issue_title: Difficulty Adding Expenses
+description: Phoenix experienced difficulty in understanding how to add expenses to the categories. They tried double tapping on the categories and other elements but could not find a way to add expenses, indicating a lack of intuitive design and clear instructions for screen reader users.
+timestamps: '00:06:08.290 --> 00:07:55.700', '00:08:20.030 --> 00:09:11.330'
+
+issue_title: Slider Lacks Descriptive Labels
+description: Phoenix encountered a slider that changes values, but it was not clear what the slider was for. The screen reader only read out percentages like '5%', '10%', etc., without providing context or a description of what the slider was adjusting.
+timestamps: '00:09:15.560 --> 00:09:26.250'
+
+issue_title: Unlabeled Input Fields
+description: Phoenix found multiple input fields that were unlabeled, making it impossible to know what information was supposed to be entered into them. This lack of labels caused confusion about whether to enter a description of a purchase or the amount spent, among other details.
+timestamps: '00:14:24.220 --> 00:14:39.189'
+
+issue_title: Unclear Income Entry Requirement
+description: Phoenix was unsure whether the income entry was supposed to be annual or monthly, as the application did not specify. This ambiguity could lead to incorrect data entry and confusion.
+timestamps: '00:16:56.900 --> 00:17:11.919'
+
+issue_title: Notification Verbosity
+description: Phoenix suggests that the notification given after adding a transaction is too verbose and could be shortened for efficiency. They recommend changing the notification to simply say 'transaction added' instead of the longer message currently provided.
+timestamps: '00:19:24.220 --> 00:19:30.539'
+
+issue_title: Difficulty Editing Budget Categories
+description: Phoenix experienced difficulty when trying to edit budget categories. They attempted to double tap and hold to bring up options but were unsuccessful. They also tried accessing more options without success, indicating a potential issue with the screen reader focus and discoverability of interactive elements.
+timestamps: '00:20:07.580 --> 00:20:25.330'
+
+issue_title: Unlabeled 'Create a Plan' Button
+description: Phoenix reports that the 'Create a Plan' button is unlabeled, which caused confusion as they initially thought it was part of the zoom controls. They suggest adding a label to the button to make it identifiable.
+timestamps: '00:22:31.300 --> 00:22:50.849'
+
+issue_title: Inaccessible Analysis Charts
+description: Phoenix finds the analysis charts to be inaccessible, as the charts do not break down individual elements in a clear manner, and the screen reader does not provide descriptive labels for the chart content. This makes it difficult for them to understand the information being presented.
+timestamps: '00:24:43.560 --> 00:25:53.089'
+
+issue_title: Lack of Descriptive Labels and Information
+description: Phoenix notes that there is no information provided in the monthly analysis section of the app, and the screen reader only reads 'Web View' without any indication of the content. They suggest adding descriptors for the charts or any visual content to make it accessible.
+timestamps: '00:26:05.620 --> 00:26:40.740'
+

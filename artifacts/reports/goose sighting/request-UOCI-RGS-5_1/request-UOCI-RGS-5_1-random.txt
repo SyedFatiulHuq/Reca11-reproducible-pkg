@@ -1,0 +1,12 @@
+issue_title: Inconsistent Dark Mode Implementation
+description: Thomas reported that the dark mode implementation on the website is inconsistent. The top half of the screen remained white while the bottom half was black, which is not the expected behavior of dark mode. This inconsistency caused difficulty for Thomas, as he relies on dark mode to prevent headaches and seizures.
+timestamps: '00:02:04.600 --> 00:02:30.190'
+
+issue_title: Date Input Field Usability Issue
+description: Thomas encountered a usability issue with the date input field. He expected the input field to automatically switch from day to month to year after typing two digits for the day and month and four digits for the year. Instead, he had to manually tab or click over, which he found to be less fluid and more cumbersome.
+timestamps: '00:04:03.610 --> 00:05:05.120'
+
+issue_title: Form Field Content Erasure
+description: Thomas experienced an issue where attempting to change a single piece of information, like the color of the goose's feathers, resulted in all previously entered information being erased. This required him to re-enter all the information, which was more work and caused frustration.
+timestamps: '00:05:18.480 --> 00:06:23.790'
+

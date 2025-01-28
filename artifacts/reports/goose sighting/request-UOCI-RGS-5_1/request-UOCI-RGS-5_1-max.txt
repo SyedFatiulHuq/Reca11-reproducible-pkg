@@ -1,0 +1,12 @@
+issue_title: Inconsistent Dark Mode Implementation
+description: Thomas reported that the dark mode implementation on the website is inconsistent, with only the bottom half of the screen being in dark mode while the top half remains white. This inconsistency causes discomfort and can lead to headaches for users who prefer or require dark mode due to visual impairments or other conditions.
+timestamps: '00:02:04.600 --> 00:02:17.859', '00:02:23.390 --> 00:02:28.249'
+
+issue_title: Date Input Field Usability
+description: Thomas encountered difficulty with the date input field, which does not automatically switch from day to month to year after the appropriate number of digits are entered. This requires manual navigation between fields, which is not fluid and creates an unnecessary burden for the user.
+timestamps: '00:04:03.610 --> 00:05:12.420'
+
+issue_title: Form Field Data Retention
+description: When attempting to revise an answer, Thomas found that changing one field erased all previously entered data, requiring him to re-enter all information. This lack of data retention in form fields when making edits is inefficient and creates additional work for the user.
+timestamps: '00:05:18.480 --> 00:06:23.100', '00:06:57.310 --> 00:07:11.600', '00:07:20.430 --> 00:07:37.500', '00:08:23.210 --> 00:09:03.460'
+

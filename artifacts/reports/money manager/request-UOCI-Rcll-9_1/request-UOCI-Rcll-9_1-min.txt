@@ -1,0 +1,68 @@
+issue_title: Lack of Onboarding Guidance
+description: Marina expressed difficulty in figuring out how to add expense categories due to the absence of an onboarding guide. This made it challenging for her to understand how to get started with the app.
+timestamps: '00:01:09.100 --> 00:01:36.009'
+
+issue_title: Mislabeling of Buttons
+description: Marina found the 'Add Income' button to be mislabeled and suggested it should be labeled as 'Save' to better reflect its function.
+timestamps: '00:04:52.910 --> 00:05:00.969'
+
+issue_title: Inadequate Feedback on Currency
+description: TalkBack did not provide adequate feedback on the currency when Marina added income, only stating the amount without specifying the currency unit.
+timestamps: '00:05:16.440 --> 00:05:29.520'
+
+issue_title: Unclear Edit Box Labels
+description: Marina noted that the edit boxes only indicated the character limit without describing what information should be entered, leading to confusion.
+timestamps: '00:06:43.880 --> 00:06:58.039'
+
+issue_title: Unlabeled Buttons
+description: Marina encountered buttons that were unlabeled, which could lead to confusion about their purpose and how to interact with them.
+timestamps: '00:09:13.320 --> 00:09:20.569'
+
+issue_title: Confusion in Adding Expense Categories
+description: Marina expressed confusion about how to add an expense category, as she was unable to find an option to do so in the app's interface. This caused her to navigate through various screens without success, indicating a lack of clear guidance or labeling for this task.
+timestamps: '00:10:11.450 --> 00:10:33.290', '00:11:05.700 --> 00:11:13.199'
+
+issue_title: Unlabeled Buttons
+description: Marina encountered unlabeled buttons while trying to add a budget category, which made it difficult for her to understand the function of these buttons using TalkBack.
+timestamps: '00:14:21.390 --> 00:14:24.899', '00:17:02.840 --> 00:17:10.239', '00:17:23.650 --> 00:17:31.029'
+
+issue_title: Mislabeling of Buttons
+description: Marina reported that the 'Add Income' button was incorrectly labeled on the budget category screen, which should have been labeled as 'Save' or something similar to indicate the correct action.
+timestamps: '00:15:52.060 --> 00:16:04.649', '00:19:12.610 --> 00:19:13.820'
+
+issue_title: Inconsistent Button Placement
+description: Marina suggested that the 'Save' button should be placed on the upper right and a 'Cancel' button on the upper left for better usability, but found that the current placement was not intuitive.
+timestamps: '00:16:19.660 --> 00:16:26.139'
+
+issue_title: Slider Interaction Issue
+description: Marina reports that the slider, which is meant to represent the percentage of the budget spent, can be adjusted without actually adding any expenses. This behavior is not expected and could lead to confusion for users who rely on accurate feedback from the slider to understand their budget status.
+timestamps: '00:21:28.130 --> 00:21:34.089', '00:22:01.750 --> 00:22:05.079', '00:28:00.860 --> 00:28:21.309'
+
+issue_title: Edit Boxes Not Properly Labeled
+description: Marina encounters edit boxes that are not properly labeled, which makes it unclear what type of information should be entered into them. This lack of clarity can be particularly challenging for screen reader users who rely on descriptive labels to navigate and interact with content.
+timestamps: '00:22:50.090 --> 00:23:15.149', '00:24:20.490 --> 00:24:36.299'
+
+issue_title: Inconsistent Error Messaging
+description: When attempting to change a budget category name, Marina experiences an error message that is inconsistent and confusing. The error message indicates that the category name cannot be changed, yet the keyboard appears, suggesting that editing is possible. This inconsistency can be disorienting and frustrating for users.
+timestamps: '00:29:33.860 --> 00:29:54.940'
+
+issue_title: Unlabeled Buttons
+description: Marina encountered unlabeled buttons which made it difficult to understand their function and how to interact with them. This issue can cause confusion and hinder the ability to navigate and use the application effectively.
+timestamps: '00:32:24.140 --> 00:32:26.029', '00:32:26.360 --> 00:32:39.449'
+
+issue_title: Inconsistent Error Messaging
+description: Marina experienced an error message that incorrectly stated she couldn't change the name of a budget category, even though she was able to do so. This inconsistency can lead to confusion and mistrust in the application's feedback system.
+timestamps: '00:31:44.610 --> 00:31:52.860'
+
+issue_title: Lack of Contextual Information
+description: Marina expressed a need for more details and contextual information regarding the purpose of creating a budget plan within the application. The lack of guidance can leave users uncertain about the steps they need to take and the benefits of the feature.
+timestamps: '00:32:57.600 --> 00:33:10.010'
+
+issue_title: Inaccessible Chart Data
+description: Marina was unable to access the data in the charts using TalkBack, as it only read 'web view' without providing any further information. This issue prevents users from accessing important financial data and analysis, which is a core function of the application.
+timestamps: '00:38:44.890 --> 00:39:27.399'
+
+issue_title: Screen Reader Focus Issues
+description: Marina expected the focus to move to the next edit box when using an external keyboard, but this did not happen. Proper focus management is crucial for screen reader users to understand where they are on the page and to navigate efficiently.
+timestamps: '00:34:00.550 --> 00:34:10.749'
+

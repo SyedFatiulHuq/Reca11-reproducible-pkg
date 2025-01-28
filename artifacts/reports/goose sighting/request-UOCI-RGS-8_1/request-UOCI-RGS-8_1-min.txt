@@ -1,0 +1,12 @@
+issue_title: Confusion with Voice Control Number Prompts
+description: Ryan reported confusion due to the Voice Control's 'show numbers' prompt treating non-clickable headings (Yes and No) as clickable elements, causing numbers to overlay them. This made it difficult to select the intended options as the numbers were covering the text.
+timestamps: '00:01:25.730 --> 00:01:57.310'
+
+issue_title: Difficulty Editing Date Input with Voice Control
+description: Ryan experienced difficulty when trying to edit the date input using Voice Control. The numbers he was voicing for the date were being confused with the numbers from the 'show numbers' prompt, leading to a tedious process of turning Voice Control on and off to correct the input. A suggestion was made that a calendar or dropdown menu might simplify this process.
+timestamps: '00:09:11.490 --> 00:09:23.680'
+
+issue_title: Redundant Navigation Steps After Editing
+description: After editing the type of goose seen, Ryan was redirected to re-enter the date he saw the goose, which he found tedious and unnecessary since he only intended to edit the type of goose and not the date. This indicates a usability issue where the form could be more intuitive by not requiring users to re-enter information that has not been changed.
+timestamps: '00:11:28.970 --> 00:12:22.410'
+

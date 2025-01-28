@@ -1,0 +1,8 @@
+issue_title: Difficulty Interacting with Placeholder Text
+description: Noah experienced difficulty when trying to interact with the placeholder text within a text box using voice commands. The presence of the placeholder text 'black spur-winged goose' caused confusion, as Noah expected to be able to click into the text box by saying the placeholder text, but this did not work. Noah suggested that it would be better if the example text was placed outside the text box or if the text box was left blank to avoid this confusion.
+timestamps: '00:01:55.700 --> 00:02:17.260'
+
+issue_title: Unexpected Repetition of Form Fields
+description: After editing an answer and attempting to continue, Noah was unexpectedly asked to re-enter information for a form field that had already been filled in previously. This behavior was not anticipated and could lead to confusion or frustration for users who expect their edited answers to be saved and not prompted for again.
+timestamps: '00:04:58.850 --> 00:05:11.489'
+

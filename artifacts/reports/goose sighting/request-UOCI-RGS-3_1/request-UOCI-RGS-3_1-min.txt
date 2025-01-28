@@ -1,0 +1,4 @@
+issue_title: Difficulty Interacting with Placeholder Text
+description: Noah experienced difficulty when trying to interact with the placeholder text within a text box using voice commands. The presence of placeholder text such as 'black spur-winged goose' caused confusion, as Noah expected to be able to click into the text box by saying the placeholder text. However, this did not work, and Noah suggested that it would be better if the example text was placed outside the text box or if the text box was left blank to avoid this issue.
+timestamps: '00:01:55.700 --> 00:02:17.260'
+

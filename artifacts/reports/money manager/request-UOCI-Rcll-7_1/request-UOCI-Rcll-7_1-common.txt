@@ -1,0 +1,92 @@
+issue_title: Unlabeled Dropdown List
+description: Jack reported that the dropdown list for selecting a product category was not labeled, which made it unclear what the list was for. TalkBack attempted to interpret the icon, but Jack noted that nothing can replace proper UI labels. This issue could lead to confusion and difficulty in using the app for screen reader users.
+timestamps: '00:24:01.750 --> 00:24:10.420', '00:24:28.630 --> 00:24:40.949'
+
+issue_title: Dropdown List Not Functioning
+description: Jack encountered a problem where the product category dropdown list did not show any list or pop up anything when he double-tapped on it. This issue prevented him from proceeding with adding a transaction, as he could not select a category for the expense.
+timestamps: '00:25:04.530 --> 00:25:10.369', '00:25:16.670 --> 00:25:17.979'
+
+issue_title: Dropdown List and Edit Box Accessibility Issue
+description: The dropdown list and edit boxes are not functioning correctly for the screen reader user. Despite the focus being on the edit box, the keyboard is not popping up, preventing the user from entering information. This issue suggests a bug in the UI framework or a lack of proper accessibility implementation for these controls.
+timestamps: '00:25:50.580 --> 00:25:57.009', '00:26:47.190 --> 00:26:50.840', '00:27:05.860 --> 00:27:09.210', '00:27:19.740 --> 00:27:27.439', '00:28:06.240 --> 00:28:09.830', '00:28:59.810 --> 00:29:05.730', '00:29:16.900 --> 00:29:20.769'
+
+issue_title: Unlabeled Button
+description: The 'Add' button is unlabeled, which does not provide the screen reader user with the necessary context to understand the button's function. This lack of labeling can lead to confusion and difficulty in navigating the app.
+timestamps: '00:29:50.070 --> 00:29:55.059'
+
+issue_title: Misleading Button Label
+description: The 'Add Income' button is mislabeled and should say 'Add Category' instead. This incorrect labeling can mislead the user about the button's purpose.
+timestamps: '00:30:50.380 --> 00:30:58.440'
+
+issue_title: Non-Descriptive Edit Box Labels
+description: The labels for the edit boxes are not descriptive enough, with one saying 'Enter info' and the other 'Enter info dollar sign.' These labels should be changed to something more descriptive, such as 'Enter line item' and 'Enter amount' to provide better context for the user.
+timestamps: '00:32:40.710 --> 00:33:03.440'
+
+issue_title: Lack of Contextual Clues for Dropdown List
+description: The dropdown list appears to be broken because the app does not provide contextual clues that the user needs to add categories before adding line items. An introductory screen or some guidance on initial setup would be beneficial for user orientation.
+timestamps: '00:33:48.550 --> 00:34:24.569'
+
+issue_title: Inconsistent Button Placement
+description: The 'Add Transaction' button is located at the bottom of the screen, which is inconsistent with the placement of similar buttons in other applications and within the app's own home screen. This inconsistency can make it cumbersome for users to find and use the button.
+timestamps: '00:35:11.879 --> 00:35:19.810'
+
+issue_title: Error Message Not Clearly Indicating Required Actions
+description: Jack encountered an issue where the app indicated something was empty and that he couldn't buy anything, but it wasn't clear what actions he needed to take to resolve this. This lack of clarity could lead to confusion and frustration for users who rely on screen readers.
+timestamps: '00:35:46.340 --> 00:35:49.270'
+
+issue_title: Inconsistent Error Messaging
+description: Jack expressed frustration that the app lets users attempt actions and only informs them they can't do them after the fact. This inconsistency in error messaging can be disorienting and time-consuming for screen reader users, as they may have to reset and start over.
+timestamps: '00:36:54.570 --> 00:36:57.449'
+
+issue_title: Lack of Guidance for Initial Setup
+description: Jack suggested that the app should guide users through initial setup, such as setting up categories and income before adding line items. The current lack of guidance could lead to a confusing user experience, especially for screen reader users who may not easily navigate back and forth to correct the setup order.
+timestamps: '00:37:07.430 --> 00:37:41.480'
+
+issue_title: Unclear Presentation of Budget Information
+description: Jack noted that the presentation of budget information, such as '$60, $150', could be confusing for screen reader users. It's not clear whether these are two separate line items or a comparison of spent versus budgeted amounts. A clearer presentation, such as stating 'X dollars out of X dollars', would be more accessible.
+timestamps: '00:41:32.810 --> 00:41:43.719'
+
+issue_title: Missing Labels on Interactive Elements
+description: Jack pointed out that some buttons, like the 'Add' button, lacked proper labels, which could lead to confusion for screen reader users as they wouldn't know the button's purpose. Proper labeling is essential for accessibility.
+timestamps: '00:44:46.220 --> 00:45:45.219'
+
+issue_title: Budget Plans Not Labeled
+description: The tester, Jack, reported that the budget plans were not labeled, making it difficult to understand which plan was being referred to in the app. This lack of labeling caused confusion when the app indicated that the wallet contained enough money for 'this plan' without specifying which plan it was referring to.
+timestamps: '00:45:55.930 --> 00:45:58.149', '00:46:00.910 --> 00:46:02.640', '00:46:03.710 --> 00:46:09.270', '00:46:10.490 --> 00:46:13.919'
+
+issue_title: Character Limit Feedback
+description: Jack encountered issues with the character limit feedback in an edit box. The app did not provide adequate notification when the character limit was exceeded, such as an alert or sound, leading to confusion and the need for manual checking of character count.
+timestamps: '00:47:15.120 --> 00:47:15.780', '00:47:17.300 --> 00:47:18.859', '00:47:19.200 --> 00:47:26.170', '00:47:26.980 --> 00:47:29.050', '00:47:30.920 --> 00:47:42.260', '00:47:43.290 --> 00:47:48.659', '00:47:48.710 --> 00:47:51.520', '00:47:51.870 --> 00:48:04.109', '00:48:04.130 --> 00:48:07.220', '00:48:07.700 --> 00:48:08.830', '00:48:10.430 --> 00:48:19.699', '00:48:20.720 --> 00:48:23.370', '00:48:23.570 --> 00:48:29.909', '00:48:30.120 --> 00:48:34.219', '00:48:36.850 --> 00:48:48.389', '00:48:48.470 --> 00:48:52.940'
+
+issue_title: Inaccessible Color Coding
+description: The app used color coding to indicate the status of budget plans, which Jack pointed out was inaccessible to users with visual impairments, including color blindness. He suggested alternative methods such as disabling controls for plans that are not affordable, to make the status more accessible to all users.
+timestamps: '00:52:38.350 --> 00:52:40.089', '00:52:40.110 --> 00:52:51.340', '00:52:51.750 --> 00:52:54.310', '00:52:55.580 --> 00:53:02.790', '00:53:03.040 --> 00:53:08.160', '00:53:08.630 --> 00:53:10.090', '00:53:10.820 --> 00:53:21.829', '00:53:22.800 --> 00:53:26.309', '00:53:26.470 --> 00:53:29.370', '00:53:29.820 --> 00:53:31.759', '00:53:32.010 --> 00:53:36.860', '00:53:38.220 --> 00:53:43.800', '00:53:44.840 --> 00:53:52.009', '00:53:52.330 --> 00:53:54.259', '00:53:55.070 --> 00:53:56.350', '00:53:56.820 --> 00:54:04.119', '00:54:05.350 --> 00:54:10.439', '00:54:11.010 --> 00:54:14.469', '00:54:16.120 --> 00:54:21.790'
+
+issue_title: Color as the Only Means of Conveying Information
+description: The tester, Interviewer, indicated that the application uses color as the only means of identifying different plans, which can be problematic for users who are colorblind or have difficulty distinguishing colors.
+timestamps: '00:55:08.060 --> 00:55:26.280'
+
+issue_title: Non-Descriptive Chart Elements
+description: Jack reported that the pie chart elements were not descriptive enough for screen reader users, as they were labeled with generic terms like 'any chart trial version' and 'Javascript chart utilities' which do not convey meaningful information about the chart content.
+timestamps: '00:55:50.490 --> 00:56:30.359'
+
+issue_title: Inaccessible Web View Content
+description: Jack encountered a web view that was described as a blank web view with no accessible content other than navigation buttons, indicating that the content was not accessible to screen reader users.
+timestamps: '00:57:42.290 --> 00:58:11.510'
+
+issue_title: Non-Interactive Elements Appearing Interactive
+description: Jack found that there was a button at the end of a page that could not be accessed, suggesting that it was either not labeled properly or not visible to the screen reader, which can be confusing for users.
+timestamps: '00:58:13.330 --> 00:58:25.230'
+
+issue_title: Edit Boxes for Uneditable Content
+description: Jack mentioned that edit boxes for category names could not be changed, yet they were not disabled, which led to confusion and the possibility of users attempting to interact with elements that are not interactive.
+timestamps: '00:58:47.700 --> 00:59:22.180'
+
+issue_title: Settings Not Accessible
+description: Jack reported that the settings option did not appear when trying to access it, indicating a potential issue with the navigation or visibility of the settings for screen reader users.
+timestamps: '00:59:47.020 --> 01:00:24.330'
+
+issue_title: Suboptimal Placement of Interactive Elements
+description: Jack suggested that the 'add transaction' button should be placed in the top right-hand corner instead of at the bottom of the screen to make it more accessible and easier to find.
+timestamps: '01:00:54.660 --> 01:01:11.580'
+

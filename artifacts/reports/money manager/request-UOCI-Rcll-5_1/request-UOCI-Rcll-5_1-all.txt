@@ -1,0 +1,116 @@
+issue_title: Dropdown Interaction Issue
+description: Marina attempted to activate a dropdown to enter transaction details but was unable to do so. Despite double-tapping the dropdown element, nothing happened, indicating a possible issue with the dropdown control's accessibility or interaction model for screen reader users.
+timestamps: '00:09:51.260 --> 00:09:53.189', '00:09:53.770 --> 00:09:56.560', '00:09:58.140 --> 00:10:03.009'
+
+issue_title: Screen Reader Image Recognition Confusion
+description: Marina experienced confusion due to TalkBack's image recognition feature. When interacting with the dropdown, TalkBack announced 'detected icon down', which seems to be an image recognition feature kicking in. This could lead to confusion for screen reader users as it might not be clear whether the element is a dropdown or an image, and what action should be taken.
+timestamps: '00:09:19.590 --> 00:09:28.650'
+
+issue_title: Accessibility Service Permission Issue
+description: Marina encountered a problem when trying to enable the accessibility service for NoteScribe. The settings were restricted and initially unavailable, which required additional steps to adjust the settings. This could be a barrier for users who are not familiar with navigating complex settings or for those who use screen readers.
+timestamps: '00:04:42.350 --> 00:04:53.340', '00:04:53.340 --> 00:04:55.320', '00:06:09.280 --> 00:06:10.560', '00:06:13.080 --> 00:06:13.950'
+
+issue_title: Dropdown Interaction Issue
+description: Marina reports that when she double taps on the dropdown element, nothing happens. She expects TalkBack to play a specific sound indicating that the button has been activated, but this does not occur, leaving her unable to interact with the dropdown as intended.
+timestamps: '00:09:58.140 --> 00:10:03.009', '00:10:37.200 --> 00:10:42.230', '00:10:52.350 --> 00:10:57.629', '00:11:11.620 --> 00:11:16.229'
+
+issue_title: Lack of Context for Edit Boxes
+description: Marina finds that the edit boxes only indicate 'Enter info' without providing context as to what information should be entered. This lack of descriptive labeling causes confusion and does not give TalkBack users enough information to understand what is expected in each field.
+timestamps: '00:11:49.540 --> 00:12:00.389', '00:12:12.230 --> 00:12:20.120', '00:13:13.050 --> 00:13:15.700'
+
+issue_title: No Error Message for Empty Dropdown
+description: When attempting to interact with an empty dropdown, Marina does not receive any error message or notification explaining why the dropdown is not functioning. This lack of feedback leaves her uncertain about the status of her actions.
+timestamps: '00:13:49.250 --> 00:13:57.309'
+
+issue_title: Unlabeled Button
+description: Marina encounters a button that is not properly labeled, which is identified by TalkBack as an 'unlabeled button'. This could lead to confusion and difficulty in navigation for screen reader users.
+timestamps: '00:14:54.660 --> 00:15:27.689'
+
+issue_title: Mislabeled Button
+description: Marina points out that a button is mislabeled, which could cause confusion about its function. The button is related to adding income but is not clearly indicated as such.
+timestamps: '00:17:54.800 --> 00:18:10.309'
+
+issue_title: Slider Interaction Issues
+description: Marina reports difficulty interacting with sliders, indicating that it's easy to accidentally adjust them. She is unsure if this is a TalkBack issue or a problem with the app itself. She suggests that instead of a slider, another element that still shows the percentage could be used to improve accessibility.
+timestamps: '00:20:00.680 --> 00:20:11.489'
+
+issue_title: Inconsistent TalkBack Feedback
+description: Marina notes that TalkBack provides different feedback for the same element at different times, which can be confusing. She also points out that the date selection interface is unclear, with a calendar view at the top and a number keyboard at the bottom, leading to confusion about the purpose of the number keyboard.
+timestamps: '00:25:06.810 --> 00:27:24.869'
+
+issue_title: Screen reader focus management issue
+description: Marina expected the calendar view to close and return her to the Add screen after selecting a date, but instead, she was taken back to the home screen, and her transaction did not save. This indicates that the screen reader focus did not guide her well, causing disorientation and confusion about the state of the application.
+timestamps: '00:28:32.300 --> 00:28:40.559', '00:28:50.050 --> 00:28:57.910', '00:30:14.570 --> 00:30:20.860'
+
+issue_title: Inconsistent error message notification
+description: Marina encountered an issue where the app did not add her transaction, and she was not sure what she was doing wrong. Interviewer clarified that the app required her to add income before adding a transaction, but the app did not provide this information upfront, leading to confusion.
+timestamps: '00:32:26.380 --> 00:32:47.329', '00:33:00.440 --> 00:33:12.030'
+
+issue_title: Gesture navigation issue
+description: Marina attempted to use a gesture to navigate back to the previous screen, but it took her back to the home screen instead. This indicates a problem with the gesture navigation where the expected action did not match the actual outcome.
+timestamps: '00:34:21.300 --> 00:34:44.199'
+
+issue_title: Traversal Order Reversed
+description: Marina reports that the traversal order on the screen is reversed, which is causing confusion. She expected to see the 'add amounts' edit box followed by the 'add income' button when swiping right, but the order appears to be the opposite.
+timestamps: '00:35:56.770 --> 00:36:06.110', '00:36:06.640 --> 00:36:14.079', '00:36:15.720 --> 00:36:18.470', '00:36:18.560 --> 00:36:20.100', '00:36:20.210 --> 00:36:24.789'
+
+issue_title: Edit Boxes Not Properly Labeled
+description: Marina encounters edit boxes that are not properly labeled, only indicating 'Enter info' which does not provide enough context for the data expected to be entered.
+timestamps: '00:41:21.850 --> 00:41:25.830'
+
+issue_title: Confusing Main Screen and Lack of Guidance
+description: Marina finds the main screen confusing as it does not provide a straightforward way to set up a budget, and there is no guidance on the initial steps such as adding income or categories before expenses.
+timestamps: '00:40:17.760 --> 00:40:49.620'
+
+issue_title: Misleading Information on Budget Plan Screen
+description: Marina is confused by the budget plan screen as it suggests there is already a budget plan in place and does not provide context or due dates for the plans.
+timestamps: '00:42:38.230 --> 00:42:52.200'
+
+issue_title: Screen reader focus and extraneous information
+description: Marina encountered an issue where extraneous information was presented at the top of the screen without context, causing confusion. This information was related to color coding for budget plans, which is not accessible to screen reader users. Marina expressed uncertainty about the purpose of this information and how it relates to the tasks she was performing.
+timestamps: '00:46:31.970 --> 00:46:50.659', '00:47:20.970 --> 00:47:23.940', '00:48:01.610 --> 00:48:03.900'
+
+issue_title: Inaccessible chart information
+description: Marina reported that the chart information was not conveyed well through the screen reader, as it was just reading a bunch of numbers without context. She suggested that an alternative would be to describe the chart in detail in text form for screen reader users.
+timestamps: '00:49:36.790 --> 00:49:50.579', '00:52:00.520 --> 00:52:18.879'
+
+issue_title: Screen Reader Inadequate Feedback
+description: Marina reports that when using TalkBack, the screen reader only announced 'Web View' and did not provide any further information or read anything else aloud. This lack of feedback left her disoriented and unsure of her location within the app.
+timestamps: '00:53:45.220 --> 00:53:57.490'
+
+issue_title: Inaccessible Button
+description: Marina and Interviewer both acknowledge that there is a button on the screen that is not accessible with TalkBack, which seems to be a critical functionality issue as it prevents the user from accessing certain features of the app.
+timestamps: '00:53:58.630 --> 00:54:04.680'
+
+issue_title: Settings Button Not Working
+description: Marina attempted to access the settings by double-tapping on the 'More options' button, but it did not take her to the settings screen, indicating a malfunctioning button that is critical for adjusting app preferences.
+timestamps: '00:55:21.820 --> 00:55:28.299'
+
+issue_title: Lack of Onboarding or Introduction
+description: Marina points out that there is no onboarding or introduction process to guide new users through the necessary steps before they can start adding expenses, which can be confusing and unwelcoming for first-time users.
+timestamps: '00:57:31.950 --> 00:57:47.180'
+
+issue_title: Inaccessible Charts and Analysis
+description: Marina expresses frustration that she is unable to view charts or use the monthly expenses analysis in an accessible manner, which significantly limits the app's functionality for users who rely on screen readers.
+timestamps: '00:57:54.650 --> 00:58:00.169'
+
+issue_title: Error message not automatically read out
+description: When Marina encountered an error due to not having income in the wallet, the error message was not automatically read out by the screen reader, which is crucial for understanding the current status and how to remediate it.
+timestamps: '00:32:14.580 --> 00:32:25.300'
+
+issue_title: Labeling inconsistency for screen reader
+description: Marina noticed that after swiping right from the 'Add Income' button, the label read 'edit box group' instead of a more descriptive label, which could lead to confusion for screen reader users.
+timestamps: '00:35:30.590 --> 00:36:06.110'
+
+issue_title: Inaccessible Slider for Budget Categories
+description: Marina found it interesting that the app uses a slider for budget categories, which may not be the most accessible choice for screen reader users.
+timestamps: '00:59:07.750 --> 00:59:18.730'
+
+issue_title: Keyboard Display Bug
+description: Marina finds that after editing an expense, the number keyboard remains on the screen when it should have been hidden, suggesting a bug. This could lead to confusion as it's not clear why the keyboard is still displayed and what its purpose is at that point in the interaction.
+timestamps: '00:26:54.180 --> 00:27:17.599'
+
+issue_title: Confusing Date Selection Interface
+description: Marina found the date selection interface confusing because it presented a calendar view at the top of the screen and a number keyboard at the bottom. This inconsistency in the UI could lead to confusion about how to properly select a date.
+timestamps: '00:26:54.180 --> 00:27:00.199'
+

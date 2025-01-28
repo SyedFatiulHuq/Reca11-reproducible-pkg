@@ -1,0 +1,12 @@
+issue_title: Inconsistent Heading Levels
+description: Doug noticed that the page skipped from a heading level 1 to a heading level 3, which is not consistent with the expected heading hierarchy. This can be confusing for screen reader users who rely on headings to understand the structure of the content.
+timestamps: '00:05:14.030 --> 00:05:29.820'
+
+issue_title: Mislabeling of Interactive Elements
+description: Doug found that the labels for interactive elements, such as the link to change answers, were unclear or ran together. For example, a link was labeled 'change cake' and another label 'change date' was run together, making it difficult to understand.
+timestamps: '00:07:43.790 --> 00:08:17.550'
+
+issue_title: Unlabeled Image
+description: Doug encountered an unlabeled image, which would not provide any context or information to screen reader users about the content of the image.
+timestamps: '00:09:43.490 --> 00:09:53.770'
+

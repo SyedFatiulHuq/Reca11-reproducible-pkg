@@ -1,0 +1,72 @@
+issue_title: Delayed Feedback from Screen Reader
+description: Matt experienced a delay in feedback from TalkBack after selecting the 'Add Expense' button, which led him to believe that the action had not been performed. This caused confusion and made him unsure if the app had registered his input.
+timestamps: '00:03:44.290 --> 00:03:52.689'
+
+issue_title: Dropdown Interaction Issue
+description: Matt encountered an issue with a dropdown element where he was unable to interact with it despite it being presented as a selectable option. This lack of interaction feedback from the dropdown led to confusion and hindered the task progression.
+timestamps: '00:04:38.370 --> 00:04:54.060'
+
+issue_title: Misleading Navigation and Labeling
+description: Matt found the navigation misleading when attempting to add an expense, as he was directed to a transaction screen instead. Additionally, the 'Budget Categories' option was not clearly labeled as 'Expense Categories,' which could have provided clearer guidance.
+timestamps: '00:05:45.370 --> 00:06:00.740'
+
+issue_title: Unlabeled Button
+description: Matt reported that a button was identified as 'unlabeled' by both TalkBack and his braille display, which made it unclear what action the button would perform. Proper labeling is essential for screen reader users to understand the function of UI elements.
+timestamps: '00:10:04.440 --> 00:10:07.070'
+
+issue_title: Misleading Button Label
+description: Matt encountered a button labeled 'add income' when he was expecting to add a category. This caused confusion as he was unsure if the button would add the income or the category, indicating a potential issue with the button's labeling and functionality being unclear.
+timestamps: '00:11:34.480 --> 00:11:40.230', '00:11:51.700 --> 00:11:52.710'
+
+issue_title: Lack of Confirmation Feedback
+description: After adding a category, Matt expected an announcement confirming the action, but there was no spoken feedback. This lack of confirmation could lead to uncertainty about whether the action was successful.
+timestamps: '00:12:10.990 --> 00:12:18.680'
+
+issue_title: Redundant Prompts
+description: Matt noted that the prompt 'Write the maximum amount of money you can spend in this category' was announced twice by TalkBack, which he found unnecessary and led to extra swiping and navigation.
+timestamps: '00:13:36.390 --> 00:13:47.480'
+
+issue_title: Unlabeled Button
+description: Matt reported that the 'Add' button was unlabeled, which required him to swipe around to confirm the action he had just taken. This could lead to difficulty in navigation and understanding the interface.
+timestamps: '00:14:09.040 --> 00:14:09.190'
+
+issue_title: Seek Control Lacks Context
+description: Matt found a seek control (slider) that announced percentages without context, making it unclear what the control was adjusting. This lack of clarity could hinder the user's ability to interact with the control effectively.
+timestamps: '00:16:01.270 --> 00:16:47.060'
+
+issue_title: Unclear Input Fields
+description: Matt was unsure about the purpose of an input field labeled 'Enter info' and found no context provided for what information was expected. This ambiguity could lead to incorrect data entry or confusion.
+timestamps: '00:18:51.490 --> 00:19:23.340'
+
+issue_title: Error message not automatically read out
+description: Matt encountered an issue where after attempting to add a new transaction, there was no error message provided to indicate that the transaction was not confirmed or added. This lack of feedback could lead to confusion for screen reader users as they might not be aware that the action was not successful.
+timestamps: '00:20:54.670 --> 00:21:02.570'
+
+issue_title: Delayed feedback for added transaction
+description: Matt reported a delay in the appearance and speech feedback of the 'Add Transaction' button after selecting a date from the calendar. This delay could disorient screen reader users as they might not be sure if their action was registered or if they need to perform the action again.
+timestamps: '00:26:03.120 --> 00:26:18.130'
+
+issue_title: Verbose confirmation message
+description: Matt found the confirmation message after adding a transaction to be verbose and containing unnecessary technical details like 'product label equals' and 'amount equals'. This verbosity could overwhelm screen reader users and make it difficult to quickly understand the outcome of their action.
+timestamps: '00:26:31.900 --> 00:27:07.069'
+
+issue_title: Inability to change category name
+description: Matt was unable to change the category name for a budget category, and the application did not provide a reason why the action could not be completed. This lack of feedback and inability to perform an expected action can be frustrating for users and does not meet accessibility standards.
+timestamps: '00:28:19.150 --> 00:28:56.150'
+
+issue_title: Inability to Edit Category Name
+description: The tester was unable to change the name of a budget category and received no error message or explanation as to why the action could not be completed. This lack of feedback left the tester disoriented and unable to complete the task.
+timestamps: '00:29:50.160 --> 00:30:08.900'
+
+issue_title: Lack of Guidance for Plan Description
+description: The tester expressed confusion when trying to enter a plan description, noting that there was no guidance or information provided on what to type, which could be particularly challenging for new users.
+timestamps: '00:32:25.130 --> 00:32:37.800'
+
+issue_title: Unclear Budget Plan Deadline Interface
+description: The tester encountered an issue with the budget plan deadline interface, where the app incorrectly indicated that the deadline had passed despite the tester setting a future date. Additionally, the tester found the navigation for selecting the next month unclear, as it only provided page numbers without context.
+timestamps: '00:34:41.989 --> 00:34:57.770'
+
+issue_title: Inaccessible Analysis Section
+description: The tester reported that the analysis section appeared to be empty, with no data being read out by the screen reader, suggesting that the content may not be accessible or properly labeled for screen reader users.
+timestamps: '00:36:36.220 --> 00:36:57.220'
+

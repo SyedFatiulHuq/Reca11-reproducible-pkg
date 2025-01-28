@@ -1,0 +1,60 @@
+issue_title: Screen Reader Navigation Issues
+description: The user, Ben, seems to be having trouble navigating the app with the screen reader. There are repeated instances where Ben is trying to find and interact with elements such as 'budget category', 'open navigation', and 'more options', but there is no clear indication that the screen reader is effectively guiding him through the app's interface. This suggests that the focus management for the screen reader is not working as expected, causing disorientation and difficulty in completing tasks.
+timestamps: '00:29:40.080 --> 00:29:47.430', '00:30:08.840 --> 00:30:11.940', '00:31:22.810 --> 00:31:25.080'
+
+issue_title: Unlabeled Button
+description: Ben encountered an issue where the 'Add' button was not labeled, which could be a bug with TalkBack or the app itself. This made it difficult for him to identify the button's function without guessing.
+timestamps: '00:32:03.190 --> 00:32:08.329', '00:32:09.560 --> 00:32:12.430', '00:40:02.680 --> 00:40:06.919', '00:40:07.120 --> 00:40:12.170'
+
+issue_title: Dropdown Interaction Failure
+description: Ben reported that when he double-tapped on a dropdown category, nothing happened. This indicates a failure in the interaction model for dropdown elements, which is critical for screen reader users to make selections.
+timestamps: '00:33:50.730 --> 00:33:55.829', '00:33:56.060 --> 00:33:58.159'
+
+issue_title: Ambiguous Input Fields
+description: Ben was confused by two input boxes both labeled 'enter info year' and was unsure which one to use. This lack of clarity can lead to input errors and frustration for users relying on screen readers.
+timestamps: '00:34:06.940 --> 00:34:16.370'
+
+issue_title: Inconsistent Error Messaging
+description: Ben encountered an issue where the error message 'Your wallet is empty' was not automatically read out by the screen reader, which could lead to confusion about the status of the transaction.
+timestamps: '00:36:03.710 --> 00:36:14.910'
+
+issue_title: Inaccessible Budget Category Editing
+description: Ben struggled to edit a budget category due to an unlabeled button and non-intuitive interaction, which made it difficult for him to perform the task without guessing.
+timestamps: '00:39:50.530 --> 00:39:53.050', '00:40:44.160 --> 00:40:52.770', '00:41:41.760 --> 00:41:52.419'
+
+issue_title: Screen Reader Navigation Issues
+description: The user, Ben, experienced issues with screen reader navigation. Ben mentioned that the screen seemed to freeze and only the first page was visible, indicating a potential focus management problem. This confusion could lead to disorientation for screen reader users as they might not be aware of their current position within the app.
+timestamps: '00:43:19.650 --> 00:43:26.199', '00:43:40.810 --> 00:43:48.430'
+
+issue_title: Inconsistent Error Messaging
+description: Ben encountered a situation where the screen reader did not provide feedback after certain actions, such as adding a budget category. This lack of consistent error messaging could lead to confusion for screen reader users, as they might wait for feedback that never comes.
+timestamps: '00:44:39.400 --> 00:44:42.820'
+
+issue_title: Difficulty Editing Categories
+description: Ben struggled to edit the name of a budget category. This could be due to unclear instructions or a lack of proper focus management, making it difficult for screen reader users to perform the task.
+timestamps: '00:49:10.080 --> 00:49:11.599', '00:49:37.730 --> 00:49:38.410'
+
+issue_title: Screen reader does not announce total expenses
+description: The screen reader does not announce the total expenses when navigating through the expenses section. The user expected the screen reader to provide the total amount spent, but it only read out individual expenses without summing them up.
+timestamps: '00:57:26.330 --> 00:57:40.309'
+
+issue_title: Screen reader unable to focus on certain elements
+description: The screen reader is unable to focus on certain elements, such as a button at the end of an analysis section. This prevents the user from accessing all the features of the application.
+timestamps: '00:58:56.480 --> 00:58:57.890'
+
+issue_title: Charts not accessible to screen reader users
+description: Charts used to convey monthly expenses are not accessible to screen reader users. The user suggests that a table would be a more accessible alternative to present the same information.
+timestamps: '01:00:40.990 --> 01:00:55.349'
+
+issue_title: Total Expenses Text Not Accessible with TalkBack
+description: Ben reported that the total expenses text is not labeled in a way that is accessible with TalkBack, making it impossible for him to see the total expense amount.
+timestamps: '01:02:59.910 --> 01:03:06.560'
+
+issue_title: Unlabeled Buttons
+description: Ben mentioned that there are some unlabeled buttons within the app, which could be confusing for users who do not have the TalkBack recognition feature turned on. Specifically, he suggested labeling the 'Add' button to ensure it is read correctly by the screen reader.
+timestamps: '01:03:38.630 --> 01:03:55.709'
+
+issue_title: Fields Not Clearly Labeled
+description: Ben found that the fields for entering the title and dollar amount for an expense were not clearly labeled, which made it difficult to understand their purpose without trial and error. He suggested that clear labels would be helpful.
+timestamps: '01:04:43.900 --> 01:04:49.350'
+

@@ -1,0 +1,16 @@
+issue_title: Inconsistent Heading Levels
+description: Doug noticed that the page skipped from a heading level one to a heading level three, which can be confusing for screen reader users who rely on a logical order of headings to navigate content. This violates the expected heading hierarchy, making it difficult to understand the structure and flow of the page.
+timestamps: '00:05:14.030 --> 00:05:29.820', '00:05:30.290 --> 00:05:32.339'
+
+issue_title: Mislabelled Links for Editing Answers
+description: Doug encountered links with unclear labels such as 'change cake' and 'change gate' when attempting to edit answers. These labels do not convey the purpose of the links, making it difficult for screen reader users to understand what action will be taken when activating the links.
+timestamps: '00:07:43.790 --> 00:07:56.659', '00:08:04.330 --> 00:08:17.550', '00:08:19.670 --> 00:08:27.429', '00:10:14.130 --> 00:10:23.920'
+
+issue_title: Unlabeled Image
+description: Doug identified an unlabeled image on the page, which would not provide any context or information to screen reader users, making it inaccessible.
+timestamps: '00:09:43.490 --> 00:09:53.770'
+
+issue_title: Text and Labels Running Together
+description: Doug found instances where text and labels were running together, such as 'change date' being read as 'changedate', which can cause confusion and make it difficult for screen reader users to understand and interact with the content.
+timestamps: '00:08:19.670 --> 00:08:27.429', '00:10:14.130 --> 00:10:23.920'
+

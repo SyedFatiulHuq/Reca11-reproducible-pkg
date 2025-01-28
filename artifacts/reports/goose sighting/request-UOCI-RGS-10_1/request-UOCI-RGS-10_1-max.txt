@@ -1,0 +1,20 @@
+issue_title: Confusing Link Labels
+description: Caitlin encountered links with labels that did not make sense, such as 'change biscuits' and 'cake', which she expected to be something like 'change' or 'answer'. This confusion could lead to difficulty in navigating and understanding the purpose of the links.
+timestamps: '00:08:10.630 --> 00:08:15.079', '00:08:15.150 --> 00:08:24.990'
+
+issue_title: Screen Reader Focus Issue
+description: Caitlin experienced an issue where TalkBack lost focus for no apparent reason, which could lead to disorientation while navigating the page.
+timestamps: '00:03:19.830 --> 00:03:27.790'
+
+issue_title: Mislabeling of the Continue Button
+description: Caitlin expressed confusion regarding the labeling of the 'Continue' button on the submission page, suggesting that it should be labeled 'Submit' to accurately reflect the action being taken. The label 'Continue' implied that there was more to the application process, which was not the case.
+timestamps: '00:14:36.540 --> 00:14:50.889'
+
+issue_title: Screen Keyboard Usability Issue
+description: Caitlin reported difficulty with the on-screen keyboard, noting that lifting a finger could inadvertently cause the selection to move to the next letter, leading to input errors.
+timestamps: '00:10:39.080 --> 00:10:49.230'
+
+issue_title: Data Loss on Form Field
+description: Caitlin experienced an issue where the date she entered was removed from the form field, which she described as 'unfortunate'. This indicates a potential problem with the form field retaining entered data.
+timestamps: '00:11:57.470 --> 00:12:04.040'
+

@@ -1,0 +1,32 @@
+issue_title: Small Text Size for Answer Options
+description: The tester reported that the size of the answer options in the survey was not working well for them. The text was really small, which made it difficult to read, even though the selection area was adequately sized. The tester suggested that making the text bigger would be beneficial.
+timestamps: '00:05:36.145 --> 00:05:41.165'
+
+issue_title: Low Contrast for Instructions
+description: The tester found the font for the instructions under the survey questions to be really light, making it difficult to read. They suggested that if the instructions were a little darker, it would be really helpful.
+timestamps: '00:06:16.595 --> 00:06:30.455'
+
+issue_title: Lack of Dropdown for Goose Species
+description: The tester suggested that having a dropdown with the names of goose species would be helpful, especially for users who are not aware of the different types of geese.
+timestamps: '00:07:56.275 --> 00:08:16.015'
+
+issue_title: No Date Validation or Error Messaging
+description: The tester reported that there was no validation of the date entered in the form, and no error message was displayed when an incorrect date was inputted. This could lead to confusion and errors, especially for users with low vision who may type incorrectly.
+timestamps: '00:09:22.245 --> 00:09:43.085'
+
+issue_title: Change Link Not Bold Enough
+description: The tester found the 'change' link on the review page not bold enough, which required additional magnification to identify and interact with.
+timestamps: '00:10:24.385 --> 00:10:36.895'
+
+issue_title: Inconvenient Answer Revision Process
+description: The tester found it inconvenient that revising an answer on the review page redirected them back to the survey question instead of allowing them to edit it in place.
+timestamps: '00:11:13.445 --> 00:11:28.725'
+
+issue_title: Lack of Close Button on Dialog Box
+description: The tester noted the absence of a close button on the dialog box, which could lead to confusion on how to close it.
+timestamps: '00:12:55.645 --> 00:13:07.585'
+
+issue_title: Small Font Size for Options
+description: The tester suggested increasing the font size for options, as there was a lot of whitespace available, which would help screen magnification users like themselves.
+timestamps: '00:14:09.915 --> 00:14:24.605'
+

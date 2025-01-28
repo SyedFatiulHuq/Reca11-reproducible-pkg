@@ -1,0 +1,8 @@
+issue_title: Confusing Link Labels
+description: Caitlin encountered links with labels that did not make sense, such as 'change biscuits' and 'cake', which she expected to be something like 'change' or 'answer'. This confusion could lead to difficulty in navigating and understanding the purpose of the links.
+timestamps: '00:08:10.630 --> 00:08:15.079', '00:08:15.150 --> 00:08:24.990'
+
+issue_title: Mislabeling of the Continue Button
+description: Caitlin expressed confusion regarding the labeling of the 'Continue' button on the submission page, suggesting that it should be labeled 'Submit' to accurately reflect the action being taken. The label 'Continue' implied that there was more to the application process, which was not the case.
+timestamps: '00:14:36.540 --> 00:14:50.889'
+

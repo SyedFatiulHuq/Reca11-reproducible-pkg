@@ -1,0 +1,76 @@
+issue_title: Lack of Onboarding Guidance
+description: Marina expressed difficulty in figuring out how to add expense categories due to the absence of an onboarding guide. This made it challenging for her to understand how to get started with the app.
+timestamps: '00:01:09.100 --> 00:01:36.009'
+
+issue_title: Mislabeling of Buttons
+description: Marina found the 'Add Income' button to be mislabeled and suggested it should be labeled as 'Save' to better reflect its function.
+timestamps: '00:04:52.910 --> 00:05:00.969'
+
+issue_title: Inadequate Feedback on Currency
+description: After adding income, TalkBack did not specify the currency, only stating the amount, which could lead to confusion about the type of currency being referred to.
+timestamps: '00:05:16.440 --> 00:05:29.520'
+
+issue_title: Unclear Edit Box Labels
+description: Marina noted that the edit boxes only indicated the character limit without describing what information should be entered, leading to confusion.
+timestamps: '00:06:43.880 --> 00:06:58.039'
+
+issue_title: Inaccessible Dropdown for Categories
+description: Marina expected a dropdown to appear when selecting the category for a new transaction, but nothing happened, indicating a possible issue with the dropdown accessibility.
+timestamps: '00:06:06.210 --> 00:06:35.760'
+
+issue_title: Unlabeled Buttons
+description: Marina encountered buttons that were unlabeled, which could prevent her from understanding their purpose and how to interact with them.
+timestamps: '00:09:13.320 --> 00:09:20.569'
+
+issue_title: Confusion in Navigating to Expense Categories
+description: Marina expressed confusion about how to add an expense category, as she was unable to find the option to do so within the app. This indicates a lack of clear navigation and potentially poor labeling or organization of the app's features, which can disorient users, especially those relying on screen readers.
+timestamps: '00:10:11.450 --> 00:10:33.290', '00:11:01.090 --> 00:11:13.199', '00:12:09.900 --> 00:12:25.269'
+
+issue_title: Unlabeled Buttons
+description: Marina reported finding an unlabeled button, which would be problematic for screen reader users as they would not be able to understand the button's function. Proper labeling is crucial for accessibility.
+timestamps: '00:14:15.730 --> 00:14:24.899', '00:17:02.840 --> 00:17:10.239', '00:19:34.220 --> 00:19:39.939'
+
+issue_title: Slider Interaction Issue
+description: Marina reports that the slider, which is meant to represent the percentage of the budget spent, can be adjusted even before any expenses are added. This behavior is not expected as the slider should only be adjustable after expenses are incurred, reflecting the actual spending.
+timestamps: '00:21:28.130 --> 00:21:54.579', '00:28:00.860 --> 00:28:38.500'
+
+issue_title: Edit Boxes Not Properly Labeled
+description: Marina encounters edit boxes that are not properly labeled, which makes it difficult to understand what information is supposed to be entered in each field. TalkBack only announces 'Enter info edit box' without providing context or guidance on the expected input.
+timestamps: '00:22:50.090 --> 00:23:15.149', '00:24:20.490 --> 00:24:36.299'
+
+issue_title: Dropdown List Interaction Issue
+description: Marina experiences an issue with the product category dropdown list. After selecting a category, the screen reader repeats the category name but does not confirm the selection in a clear manner, potentially causing confusion.
+timestamps: '00:23:24.800 --> 00:23:47.419'
+
+issue_title: Inconsistent Error Messaging
+description: Marina attempts to change a budget category name but receives an error message that is inconsistent. The error message indicates that the category name cannot be changed, yet the keyboard appears, suggesting that editing is possible. This inconsistency can lead to confusion.
+timestamps: '00:29:33.860 --> 00:29:54.940'
+
+issue_title: Misleading Transaction Confirmation
+description: After adding a transaction, Marina notes that the confirmation message sounds like technical jargon, stating 'budget category equals one' and other technical details. A clearer confirmation message such as 'expense saved' would be more user-friendly.
+timestamps: '00:27:01.770 --> 00:27:32.120'
+
+issue_title: Lack of Contextual Information
+description: Marina expressed a need for more details and contextual information on the purpose of creating a budget plan. Without clear instructions or purpose, users may find it difficult to understand what is expected of them on the screen.
+timestamps: '00:32:57.600 --> 00:33:10.010'
+
+issue_title: Screen Reader Focus Management
+description: Marina expected the focus to move to the next edit box when using an external keyboard, but this did not happen. Proper focus management is crucial for screen reader users to understand where they are on the page and to navigate efficiently.
+timestamps: '00:34:00.550 --> 00:34:10.749'
+
+issue_title: Screen Reader Not Announcing Edit Mode
+description: The screen reader did not announce that Marina was in edit mode when she double-tapped to edit text. This lack of feedback can leave users uncertain about the state of the UI and their interactions with it.
+timestamps: '00:33:42.600 --> 00:33:47.529'
+
+issue_title: Inaccessible Charts
+description: Marina was unable to access the information in the charts using TalkBack. The screen reader only read 'web view' and did not provide any data from the charts, making it impossible for her to understand the visual content.
+timestamps: '00:38:44.890 --> 00:39:27.399'
+
+issue_title: Inconsistent Button Placement
+description: Marina suggested that the 'Save' button should be placed on the upper right and a 'Cancel' button on the upper left for better usability, but found that the current placement was not intuitive.
+timestamps: '00:16:19.660 --> 00:16:26.139'
+
+issue_title: Suggestion for AI-Described Charts
+description: Marina suggested using AI to describe charts for screen reader users, which could be a potential solution to make charts accessible by providing a verbal description of the visual data.
+timestamps: '00:39:27.640 --> 00:40:08.929'
+

@@ -1,0 +1,8 @@
+issue_title: Screen Reader Navigation Issue
+description: The tester experienced a navigation issue where the tab key did not move focus to the 'Continue' button as expected. The tester knew the button was there but had to manually switch out of focus mode to find and activate it. This indicates a potential focus management problem that could disorient screen reader users and hinder their ability to proceed through the form.
+timestamps: '00:04:16.910 --> 00:05:23.360'
+
+issue_title: Unexpected Clearing of Form Data
+description: The tester reported an unexpected behavior where the date fields were cleared after navigating back to change a previous answer. Although not identified as an accessibility issue, it could lead to confusion and additional effort for users who may not expect their previously entered data to be lost.
+timestamps: '00:08:52.410 --> 00:09:00.100'
+

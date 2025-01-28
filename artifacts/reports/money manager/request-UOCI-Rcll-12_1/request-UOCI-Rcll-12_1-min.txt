@@ -1,0 +1,68 @@
+issue_title: Confusing Interface for Adding Categories
+description: Caitlin expressed confusion about how to add categories, as the interface was not clear. She initially thought the button said 'add expense' instead of 'add category' and struggled to find where to add categories. This confusion was compounded by an unlabeled button, which she had to assume was the 'add' button based on its location. The lack of clear labeling and instructions made it difficult for her to navigate and understand the app's functionality.
+timestamps: '00:04:38.899 --> 00:04:45.610', '00:06:01.930 --> 00:06:08.990', '00:06:22.440 --> 00:06:29.150', '00:06:36.320 --> 00:06:37.530', '00:09:11.250 --> 00:09:12.490', '00:09:19.790 --> 00:09:23.679'
+
+issue_title: Unlabeled Buttons
+description: Caitlin encountered an unlabeled button while trying to add a budget category. This made it difficult for her to understand what action the button would perform, leading to uncertainty and a reliance on guesswork. The lack of proper labeling violates accessibility standards and hinders the user experience for screen reader users.
+timestamps: '00:06:22.440 --> 00:06:29.150', '00:09:19.790 --> 00:09:23.679'
+
+issue_title: Inconsistent Error Message Announcements
+description: Caitlin faced issues with error messages not being announced consistently. She was unsure if the maximum amount for a category was being displayed or announced, which could lead to confusion if there were any restrictions or errors related to category limits. This inconsistency can cause screen reader users to miss important feedback.
+timestamps: '00:07:59.250 --> 00:08:02.129', '00:09:11.250 --> 00:09:12.490'
+
+issue_title: Inconsistent Button Labeling
+description: Caitlin reported that the 'Add Income' button was not consistently labeled across different screens, which caused confusion. On one screen, the button was swipable to the right, while on another screen, it had to be swiped back to the left. Consistent labeling and placement of interactive elements are crucial for screen reader users to navigate the application effectively.
+timestamps: '00:13:12.430 --> 00:13:34.189'
+
+issue_title: Unclear Element Labels
+description: Caitlin found it difficult to understand the purpose of certain elements due to unclear labeling. For example, buttons that were just labeled as 'Enter Info' were not descriptive enough to indicate their function, which could be entering a monetary amount or a text description. Clear and descriptive labels are essential for screen reader users to interact with elements confidently.
+timestamps: '00:15:17.050 --> 00:15:31.489'
+
+issue_title: Screen Reader Navigation Issues
+description: Caitlin experienced difficulty with the screen reader when trying to enter data using the on-screen keyboard. The focus was not remaining on the edit field, causing disorientation. Additionally, navigating through the calendar to add a transaction was tedious, as the screen reader required swiping through every date. Suggestions included closing the calendar after a date is selected or having the 'Add Transaction' button at the top of the screen.
+timestamps: '00:10:23.030 --> 00:10:25.890', '00:11:16.730 --> 00:11:39.070', '00:18:36.310 --> 00:19:07.589'
+
+issue_title: Lack of Element Type Identification
+description: Caitlin mentioned that certain elements, such as radio buttons or checkable items, were not identified by the screen reader as such. This lack of identification makes it unclear how to interact with these elements, which can lead to confusion and difficulty in completing tasks.
+timestamps: '00:14:03.370 --> 00:14:18.250'
+
+issue_title: Inconsistent and Confusing Error Messages
+description: Caitlin encountered confusing error messages when adding transactions. The screen reader read out strings like 'concession but 53 equals 1 production equals program' and 'connection but if you're equals 2 but nothing equals there,' which were not meaningful. This made it difficult for her to understand if the transactions were successfully added or if there was an error.
+timestamps: '00:19:56.970 --> 00:20:00.180', '00:21:49.710 --> 00:21:51.659', '00:21:52.810 --> 00:21:58.550'
+
+issue_title: Screen Reader Not Reading Total Expenses
+description: The screen reader failed to read the total expenses amount to Caitlin, even after multiple attempts to interact with the element. This prevented her from verifying her total spending, which is a critical feature of the app.
+timestamps: '00:23:50.120 --> 00:23:55.969', '00:23:57.540 --> 00:24:04.439'
+
+issue_title: Difficulty Editing Budget Category Names
+description: Caitlin experienced issues when trying to edit the name of a budget category. The screen reader provided confusing feedback, stating 'you cannot change the name money manager,' which contradicted the editable state of the field. This inconsistency made it unclear whether she could actually edit the category name.
+timestamps: '00:24:53.700 --> 00:25:01.089'
+
+issue_title: Unlabeled Buttons
+description: Caitlin found unlabeled buttons, such as an 'add' button, which were not properly announced by the screen reader. This lack of labels made it difficult for her to navigate and understand the purpose of these buttons.
+timestamps: '00:27:09.420 --> 00:27:21.939'
+
+issue_title: Repetitive and Redundant Screen Reader Output
+description: The screen reader output was repetitive, reading certain phrases twice, such as 'Your wallet contains enough money for this plan' and 'The deadline of this plan has passed.' This redundancy could lead to confusion and a poor user experience.
+timestamps: '00:26:51.830 --> 00:27:09.289'
+
+issue_title: Repeated and Incorrect Deadline Information
+description: Caitlin reported that the app incorrectly repeated the deadline information twice and also stated that the deadline had passed, which was not true as it was set for the next month. This could lead to confusion and misinformation for the user.
+timestamps: '00:29:22.340 --> 00:29:31.909'
+
+issue_title: Unclear Instructions for Analysis Results
+description: Caitlin expressed confusion regarding the instructions for checking the analysis results, indicating that the instructions were unclear.
+timestamps: '00:29:37.880 --> 00:29:49.539'
+
+issue_title: Inconsistent Feedback on Selection
+description: Caitlin noticed that the app did not consistently provide feedback when items were selected, such as saying 'checked' after tapping on an option. This inconsistency could lead to uncertainty about whether an action was successfully completed.
+timestamps: '00:30:23.080 --> 00:30:30.260'
+
+issue_title: Accessibility Issues with Analysis Screens
+description: Caitlin found the analysis screens to be confusing and not particularly accessible to a screen reader. She mentioned that the pie chart screen was somewhat accessible but still confusing, and the other analysis screen was completely inaccessible.
+timestamps: '00:31:03.140 --> 00:31:10.040', '00:35:31.570 --> 00:35:45.490'
+
+issue_title: Elements Not Identified Correctly
+description: Caitlin pointed out that several elements on the screens were not identified as their particular element type, such as buttons, links, or radio buttons. This lack of proper labeling can make navigation and understanding of the app's functionality difficult for screen reader users.
+timestamps: '00:34:07.340 --> 00:34:17.930'
+

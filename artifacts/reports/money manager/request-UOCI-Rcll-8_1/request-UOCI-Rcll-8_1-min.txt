@@ -1,0 +1,36 @@
+issue_title: Screen reader focus issues
+description: Jennifer experienced difficulty when trying to interact with the dropdown list to add an expense category. Despite double-tapping on the dropdown list, nothing happened, indicating a focus management issue where the screen reader did not guide her to the expected location or action.
+timestamps: '00:04:06.140 --> 00:04:12.009', '00:04:32.290 --> 00:04:45.430'
+
+issue_title: Inaccessible dropdown list
+description: The dropdown list for adding an expense category was not accessible. Jennifer could not activate the dropdown list to select a category, which suggests that the element may not be properly coded for screen reader interaction.
+timestamps: '00:04:06.140 --> 00:04:12.009', '00:04:32.290 --> 00:04:45.430'
+
+issue_title: Inconsistent error message handling
+description: Jennifer encountered an issue where she could not enter information into the app, and no error message or feedback was provided. This lack of feedback left her confused and unsure of how to proceed, indicating a problem with how error messages are handled and communicated to screen reader users.
+timestamps: '00:06:58.420 --> 00:06:59.140', '00:07:52.920 --> 00:07:53.600'
+
+issue_title: Screen reader focus and navigation issues
+description: Jennifer experienced difficulty with screen reader focus and navigation. She seemed to struggle with finding the correct buttons and categories, often expressing confusion and needing to backtrack. This indicates that the screen reader focus did not guide her well through the app, causing disorientation and inefficiency.
+timestamps: '00:11:13.150 --> 00:11:16.139', '00:13:14.580 --> 00:13:15.540', '00:13:25.540 --> 00:13:27.970', '00:14:06.060 --> 00:14:07.220', '00:16:06.340 --> 00:16:11.839', '00:17:00.850 --> 00:17:11.879', '00:18:26.160 --> 00:18:27.570', '00:19:43.850 --> 00:19:46.730', '00:20:41.870 --> 00:20:46.720'
+
+issue_title: Inconsistent error message handling
+description: Jennifer encountered issues with error messages not being consistently announced or handled by the screen reader. This caused confusion as she was not sure if actions were completed or saved, and she had to search for confirmation of her actions.
+timestamps: '00:17:51.150 --> 00:17:52.740', '00:20:37.340 --> 00:20:41.760'
+
+issue_title: Difficulty adding and editing categories
+description: Jennifer struggled to add and edit categories, indicating a lack of clear instructions or feedback from the app when interacting with these elements. This could be due to poor focus management or unclear labeling of interactive elements.
+timestamps: '00:13:25.540 --> 00:13:27.970', '00:14:06.060 --> 00:14:07.220', '00:16:06.340 --> 00:16:11.839'
+
+issue_title: Screen reader navigation issues with the calendar
+description: Jennifer experienced significant difficulty navigating the calendar with TalkBack. She mentioned getting stuck and becoming confused while trying to scroll through the calendar to select a date. This indicates that the screen reader focus was not guiding her well, leading to disorientation and difficulty in completing the task.
+timestamps: '00:22:03.480 --> 00:22:12.250', '00:22:33.830 --> 00:22:45.750', '00:35:31.090 --> 00:35:48.389'
+
+issue_title: Inability to edit category names
+description: Jennifer attempted to edit a budget category name but was unable to do so. She received a message indicating that the category name could not be changed, which was confusing and did not allow her to complete the task as intended.
+timestamps: '00:27:00.090 --> 00:27:06.359', '00:27:19.370 --> 00:27:34.200'
+
+issue_title: Confusing analysis results
+description: Jennifer expressed that she did not understand the analysis results presented by the app. This suggests that the information was not conveyed in an accessible or clear manner, making it difficult for her to interpret the data.
+timestamps: '00:34:37.800 --> 00:34:53.919', '00:37:08.590 --> 00:37:21.970'
+

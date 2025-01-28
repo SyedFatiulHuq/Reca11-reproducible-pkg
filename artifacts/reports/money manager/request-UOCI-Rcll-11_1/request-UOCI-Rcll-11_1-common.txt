@@ -1,0 +1,72 @@
+issue_title: Delayed TalkBack Feedback
+description: Matt experienced a delay in TalkBack feedback after selecting the 'Add Expense' button, which led him to believe that the action had not been performed. This delay caused confusion and could lead to repeated attempts or uncertainty about the app's responsiveness.
+timestamps: '00:03:44.290 --> 00:03:52.689'
+
+issue_title: Dropdown Interaction Issue
+description: Matt encountered an issue with a dropdown element where TalkBack did not provide any speech feedback or braille display input, leaving him unable to interact with the dropdown to select a product category. This lack of feedback made it unclear whether the element was interactive.
+timestamps: '00:04:38.370 --> 00:04:54.060'
+
+issue_title: Misleading Add Expense Button
+description: Matt was misled by the 'Add Expense' button, which took him to a transaction screen instead of allowing him to create an expense category. This misdirection caused confusion about the app's navigation and the intended actions.
+timestamps: '00:05:45.370 --> 00:05:47.640'
+
+issue_title: Unlabeled Button
+description: Matt identified an unlabeled button in braille, which TalkBack described as an 'unlabeled button' on a green background. The absence of a proper label for the button makes it difficult for screen reader users to understand the button's purpose.
+timestamps: '00:10:04.440 --> 00:10:07.070'
+
+issue_title: Misleading Button Label
+description: Matt encountered a button labeled 'add income' after entering budget details for a category. He expected this button to add the income, but it seemed to be for adding the category instead. This was confusing and misleading, as Matt mentioned that if the button is indeed for adding categories, it should be labeled appropriately.
+timestamps: '00:11:34.480 --> 00:11:40.230', '00:11:51.700 --> 00:11:52.710'
+
+issue_title: Lack of Confirmation Feedback
+description: After adding a category, Matt expected an audible confirmation that the category was added successfully, along with the budget amount. However, there was no such announcement, which left him unsure if the action was completed without additional verification.
+timestamps: '00:12:10.990 --> 00:12:18.680'
+
+issue_title: Redundant Prompts
+description: Matt noted that the prompt 'Write the maximum amount of money you can spend in this category' was announced twice by TalkBack, which he found unnecessary and led to extra swiping and navigation.
+timestamps: '00:13:36.390 --> 00:13:47.480'
+
+issue_title: Unlabeled Button
+description: Matt reported that the 'Add' button was unlabeled, which required him to swipe around to confirm the action he had just taken. This lack of labeling could lead to confusion and difficulty in navigation.
+timestamps: '00:14:09.040 --> 00:14:09.190'
+
+issue_title: Unclear Seek Control
+description: Matt found a seek control (slider) that was announcing percentages without any context. He was unsure what the percentages were related to, and there was no indication of the dollar amounts or categories associated with the percentages.
+timestamps: '00:16:01.270 --> 00:16:54.820'
+
+issue_title: Ambiguous Input Fields
+description: Matt encountered multiple 'enter info' edit boxes without clear context or labels, making it difficult to understand what information was expected in each field. This lack of clarity made it challenging to input the correct data.
+timestamps: '00:18:33.460 --> 00:18:59.170'
+
+issue_title: No Error Message for Unsuccessful Transaction
+description: Matt attempted to add a new transaction but found no way to confirm it and received no error message, leaving him uncertain of the transaction status.
+timestamps: '00:20:54.670 --> 00:21:02.570'
+
+issue_title: Delayed Feedback for Add Transaction Button
+description: Matt experienced a delay in the appearance and speech feedback of the 'Add Transaction' button after selecting a date, which could cause confusion and disrupt the workflow.
+timestamps: '00:26:03.120 --> 00:26:18.130'
+
+issue_title: Verbose Confirmation Message
+description: After adding a transaction, Matt found the confirmation message to be verbose and suggested it would be better to have a concise summary of the action taken.
+timestamps: '00:26:31.900 --> 00:27:07.069'
+
+issue_title: Inability to Change Category Name
+description: Matt was unable to change the category name when editing a budget category and received no explanation or error message as to why the change was not permitted.
+timestamps: '00:28:19.150 --> 00:28:52.060'
+
+issue_title: Lack of Guidance for Plan Description
+description: While creating a budget plan, Matt expressed confusion about what to type in the plan description field. The application did not provide any guidance or examples, which would have been helpful for new users.
+timestamps: '00:32:25.130 --> 00:32:37.800'
+
+issue_title: Unclear Plan Deadline Date Interface
+description: Matt struggled with the plan deadline date interface, finding it unclear and lacking information on what to do. He had to guess the purpose of certain fields and how to interact with them.
+timestamps: '00:32:54.040 --> 00:33:42.809'
+
+issue_title: Incorrect Deadline Status Message
+description: The application incorrectly indicated that the deadline of the budget plan had passed, even though Matt had set it for a future date. This caused confusion and could lead to misinterpretation of the plan's status.
+timestamps: '00:34:41.989 --> 00:34:57.770'
+
+issue_title: Inaccessible Analysis Charts
+description: Matt found the analysis charts to be inaccessible. The screen reader did not provide sufficient information about the charts, and some elements appeared to be empty or not interactable, which prevented him from fully understanding his expenses per category.
+timestamps: '00:35:50.530 --> 00:36:14.780', '00:36:44.800 --> 00:36:57.220'
+

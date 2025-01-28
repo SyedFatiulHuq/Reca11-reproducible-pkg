@@ -1,0 +1,8 @@
+issue_title: Screen reader focus management issue
+description: The tester experienced a focus management issue where the screen reader got stuck and did not move focus to the 'Continue' button as expected. The tester had to manually switch out of focus mode to find and activate the 'Continue' button, indicating a potential problem with focus management for screen reader users.
+timestamps: '00:04:16.910 --> 00:05:23.360'
+
+issue_title: Unexpected clearing of form data
+description: The tester reported that after using the browser's back button to return to a previous page to change an answer, the date fields were unexpectedly cleared. This behavior may not be an accessibility issue per se, but it could lead to confusion or additional work for users who need to re-enter data.
+timestamps: '00:08:52.410 --> 00:09:00.100'
+
