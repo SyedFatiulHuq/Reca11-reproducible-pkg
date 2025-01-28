@@ -1,0 +1,1817 @@
+WEBVTT
+
+1
+00:13:40.460 --> 00:13:41.190
+Jennifer: Oh.
+
+2
+00:14:57.760 --> 00:14:58.590
+Jennifer: hello!
+
+3
+00:15:00.490 --> 00:15:07.630
+Interviewer: Hello, Jennifer! How are you? Good! How are you? I'm doing good, too. That's good. So
+
+4
+00:15:07.840 --> 00:15:13.219
+Interviewer: But today have you been able to install the Node Scribe app.
+
+5
+00:15:13.900 --> 00:15:14.750
+Yes.
+
+6
+00:15:15.650 --> 00:15:20.840
+Jennifer: I've I've got it downloaded, anyway. I haven't really opened it up yet.
+
+7
+00:15:22.360 --> 00:15:26.869
+Jennifer: But I've got it. But have you been able to install it? Yes.
+
+8
+00:15:28.050 --> 00:15:29.040
+Oh.
+
+9
+00:15:29.220 --> 00:15:48.790
+Jennifer: because we've been having, like installation issues with some other testers. Oh, geez, I mean, I think I installed it. Yeah, that's the way it goes. We will find out soon enough.
+
+10
+00:15:50.340 --> 00:15:55.359
+Interviewer: Alright. So I'd like to introduce myself. I know we've met before. I'm <interviewer>.
+
+11
+00:15:55.480 --> 00:16:08.829
+Interviewer: I'm <identity>. So today, we'd like to analyze the accessibility of an open source enter application money manager. I see you've installed.
+
+12
+00:16:09.060 --> 00:16:13.799
+Interviewer: and money manager is an app that helps you keep track of your expenses.
+
+13
+00:16:13.920 --> 00:16:25.899
+Interviewer: There are features like adding transactions, adding your income. You can create budget plans to track your spending, and also the app provides some analysis of your spending habit
+
+14
+00:16:26.600 --> 00:16:36.760
+Interviewer: great. So before opening money manager, I'll ask you to set up the subscribe, and that is strictly for our research purpose.
+
+15
+00:16:36.790 --> 00:16:46.859
+Interviewer: But it does. It's it is a background service that monitors, how you interact with the money manager app. So we'd like to see like how the interaction is going on.
+
+16
+00:16:46.990 --> 00:16:47.760
+Jennifer: Sure.
+
+17
+00:16:48.470 --> 00:16:49.870
+Interviewer: Okay. And
+
+18
+00:16:50.410 --> 00:17:01.860
+Interviewer: so after reset data, I would ask you to explore the money manager app without any instructions from me. So during this exploration phase, you will
+
+19
+00:17:01.890 --> 00:17:11.020
+Interviewer: please think aloud because it is essential for our research that we hear what you're thinking and what you're interacting, and so on.
+
+20
+00:17:11.319 --> 00:17:26.530
+Interviewer: Sure sounds good. And in this phase, if you encounter any obstacles or blockers, take some time to explore a solution by yourself, and you can abandon that task if you think it is impossible. But I won't intervene.
+
+21
+00:17:26.829 --> 00:17:27.720
+Jennifer: Okay.
+
+22
+00:17:28.440 --> 00:17:37.270
+Interviewer: and after that exploration. Do you think that you've explored all the apps, pages, and all its functionalities?
+
+23
+00:17:37.630 --> 00:17:41.329
+Interviewer: We will like, I will ask you to conduct certain tests.
+
+24
+00:17:42.160 --> 00:17:47.319
+Interviewer: and at the end of the interview I will ask you to
+
+25
+00:17:47.430 --> 00:17:58.459
+Interviewer: list out all the accessibility or usability issues that you may have faced. So I would ask you to like, revise some of the issues that you may have encountered.
+
+26
+00:17:58.780 --> 00:17:59.660
+Jennifer: Okay.
+
+27
+00:18:00.110 --> 00:18:09.519
+Interviewer: does all that make sense? Yes. okay, great. So, and if during this session. If you need any break or stop any time, please let me.
+
+28
+00:18:10.490 --> 00:18:11.350
+Jennifer: Okay.
+
+29
+00:18:11.720 --> 00:18:21.039
+Jennifer: okay, so let's start with setting up the nodeescribe app. So can you open the notescribe, sonny, go to Node Scribe.
+
+30
+00:18:21.740 --> 00:18:24.109
+Jennifer: Don't strike. Start service button.
+
+31
+00:18:24.860 --> 00:18:31.460
+Interviewer: Okay, let's start. Let's start the service. Start service
+
+32
+00:18:31.650 --> 00:18:44.510
+Jennifer: download apps edit Node Scribe service off meeting load off node, scribe service off. So I have to turn it on settings restricted, setting out a list restricted setting
+
+33
+00:18:44.780 --> 00:18:47.489
+Jennifer: for your security. This setting is currently unavailable.
+
+34
+00:18:48.040 --> 00:18:52.830
+Interviewer: But this you have to go to your security
+
+35
+00:18:53.000 --> 00:18:56.789
+Interviewer: settings, and you'll have to allow this app.
+
+36
+00:18:56.830 --> 00:19:05.410
+Jennifer: Okay, button security settings, accessibility cloudscribe service off and list. Shelley items one to 110'clock
+
+37
+00:19:06.110 --> 00:19:07.650
+Jennifer: accessibility.
+
+38
+00:19:08.190 --> 00:19:14.780
+Jennifer: But accessibility. Do I need to stop sharing my screen for this?
+
+39
+00:19:15.450 --> 00:19:18.610
+Interviewer: You don't have to, but if you feel comfortable. Then you can.
+
+40
+00:19:19.240 --> 00:19:21.390
+Jennifer: Maybe I better, because I don't. Wanna
+
+41
+00:19:21.950 --> 00:19:34.079
+Jennifer: I'm only I'm not supposed to.
+
+42
+00:19:34.440 --> 00:19:45.999
+Jennifer: So stop share button. There we go, stop, share, stop, stop share. Button Jennifer connected to Otto. Chairman 6 of 9, showing. Item 5 to 10 or 10
+
+43
+00:19:46.330 --> 00:19:55.060
+Jennifer: currently active speaker. Okay, so I have to go to my security back home. Button. So where is it? Exactly? Where do I go?
+
+44
+00:19:55.590 --> 00:20:05.829
+Interviewer: It should be through your settings and your settings, and then there should be some selectable screenshot
+
+45
+00:20:06.290 --> 00:20:18.460
+Jennifer: settings. Okay, let me go to my settings.
+
+46
+00:20:18.460 --> 00:20:43.399
+Jennifer: Gmail messages, probe settings, settings, notifications, scan device, button
+
+47
+00:21:11.400 --> 00:21:14.460
+Interviewer: check, which, setting to go to
+
+48
+00:21:14.870 --> 00:21:35.720
+Interviewer: more privacy settings, auto mail activity control
+
+49
+00:21:36.390 --> 00:21:45.759
+Jennifer: notes, right? One of accessibility. Zoom. Make sure that select the speed of switch interaction and select a magnification of extra dim extra dim
+
+50
+00:21:45.900 --> 00:21:57.419
+Jennifer: color and motion display size and display, talkback screen reader, reading, mode, mode, stripe service off restricted setting, zoom, picture adventure over your security setting is currently a little bit more out of listed.
+
+51
+00:21:57.820 --> 00:22:21.260
+Jennifer: Learn more. But
+
+52
+00:22:21.400 --> 00:22:26.069
+Jennifer: oh, so I guess I gotta go and add permissions. Learn how to change, add permissions, Linkedin.
+
+53
+00:22:26.290 --> 00:22:50.059
+Jennifer: Oh, so that's what I have to do. I guess I have to go into app permissions. Sounds like
+
+54
+00:22:50.210 --> 00:23:19.559
+Jennifer: permission controller, zoom, picture
+
+55
+00:23:19.560 --> 00:23:29.700
+Jennifer: app security.
+
+56
+00:23:29.900 --> 00:23:40.639
+Jennifer: more settings, more security, more privacy settings, auto collapsed button out of settings, zoom, picture and pick.
+
+57
+00:23:40.700 --> 00:23:44.279
+Jennifer: That's digital building and Google system about
+
+58
+00:23:44.370 --> 00:23:50.000
+Jennifer: Simpson's book collapsed current news at Jennifer passwords under safety as a verbal location.
+
+59
+00:23:50.170 --> 00:24:04.550
+Right?
+
+60
+00:24:04.740 --> 00:24:20.470
+Jennifer: Yeah. Admin
+
+61
+00:24:20.540 --> 00:24:26.969
+Jennifer: uninstall button or stop button notifications off permissions. No permissions requested disabled.
+
+62
+00:24:27.470 --> 00:24:35.749
+Jennifer: Okay? It says it's disabled. So I want to double tap on that. It says no permissions requested, and it's disabled. So I want to enable it.
+
+63
+00:24:36.860 --> 00:24:43.420
+Interviewer: Yes, but the so, from what I was what I'm seeing in the instructions. It says something
+
+64
+00:24:43.600 --> 00:24:51.120
+Interviewer: like, Allow restricted settings like that is the option you should be hearing storage and cache mobile data and Wi-fi both
+
+65
+00:24:51.150 --> 00:24:57.229
+Jennifer: screen time. 1B min battery usage, load back, open by default. Allow the new step settings, heading.
+
+66
+00:24:57.340 --> 00:24:59.700
+Jennifer: follow-up activity of a store edit
+
+67
+00:24:59.720 --> 00:25:06.340
+Interviewer: through recent depths. Right?
+
+68
+00:25:07.430 --> 00:25:12.399
+Interviewer: Well, it it. That's yeah. I mean, that was the option I had.
+
+69
+00:25:12.450 --> 00:25:26.399
+Jennifer: apps. Zoom 5B min is gonna be just apps, not recent apps. I'm sorry you have to have to go through all this messages, default apps.
+
+70
+00:25:26.500 --> 00:25:39.760
+Jennifer: assistant special app sucks. Is that what I want?
+
+71
+00:25:40.010 --> 00:25:43.700
+Jennifer: Because it says 2 apps can use unrestricted data.
+
+72
+00:25:47.130 --> 00:26:02.549
+Jennifer: I I'd be great if I could see the settings. But do things alright, I'll I'll I'm just afraid it's gonna show you like my name and stuff, and I'm not supposed to do that. That's the only thing I don't wanna get in trouble.
+
+73
+00:26:02.620 --> 00:26:21.350
+Jennifer: Ii think some other testers also showed this part. And I think, it's all right. II haven't. Okay. Alright, I'll I'll do it then. I just I just I don't wanna get in trouble. Let's see.
+
+74
+00:26:21.440 --> 00:26:25.139
+Jennifer: selectable and total blazor selectable. Yeah, you are at Chrome.
+
+75
+00:26:25.360 --> 00:26:28.750
+Jennifer: Oh. hold on, let me get to it.
+
+76
+00:26:28.900 --> 00:26:38.330
+Jennifer: So okay, Jennifer Jennifer minimize zoom. We record chat button for reaction share. Button 6 of share button, 6 of 9.
+
+77
+00:26:38.850 --> 00:27:03.500
+Jennifer: Microsoft settings.
+
+78
+00:27:03.500 --> 00:27:13.040
+Jennifer: Okay, settings, notifications. Notification is the start. Sound colors, same ions to the right.
+
+79
+00:27:13.720 --> 00:27:14.460
+Interviewer: Yeah.
+
+80
+00:27:14.900 --> 00:27:30.910
+Jennifer: Accessibility
+
+81
+00:27:31.270 --> 00:27:32.260
+Interviewer: code.
+
+82
+00:27:32.730 --> 00:27:36.169
+Interviewer: right? For a few click scroll down
+
+83
+00:27:36.250 --> 00:27:42.700
+Jennifer: recently opened apps at Zoom, Google Place. Chrome notescribe. See? All idiot general editing.
+
+84
+00:27:42.790 --> 00:27:44.519
+Jennifer: There's a labs called
+
+85
+00:27:44.650 --> 00:27:53.150
+Jennifer: Assistant, a Google screen time, 20 unused apps, 0 and used app app battery usage, special app access. 2 amps can use unrestricted data.
+
+86
+00:27:53.720 --> 00:27:56.410
+Interviewer: Okay, but not here.
+
+87
+00:27:56.610 --> 00:28:02.610
+Interviewer: It shouldn't be here. But II still want to see that if it is.
+
+88
+00:28:02.780 --> 00:28:05.639
+Jennifer: that's all. The further I can go. Perhaps I would have listed.
+
+89
+00:28:05.770 --> 00:28:18.030
+Jennifer: Okay, let's go to no script. Where do you wanna go navigate up but listed
+
+90
+00:28:18.310 --> 00:28:24.659
+Interviewer: and make sure. More options, more options.
+
+91
+00:28:24.740 --> 00:28:28.079
+Jennifer: settings, enlist.
+
+92
+00:28:28.110 --> 00:28:29.290
+Interviewer: Okay.
+
+93
+00:28:29.660 --> 00:28:35.929
+Jennifer: away. So so deep. I just tap on this right?
+
+94
+00:28:36.590 --> 00:28:37.270
+Interviewer: Yeah.
+
+95
+00:28:38.000 --> 00:28:44.120
+Jennifer: Verify to showing numeric password cables verify to editing, password, edit box out.
+
+96
+00:28:44.220 --> 00:28:47.570
+Jennifer: No worries. I can see anything. I pull it in
+
+97
+00:28:47.980 --> 00:28:56.010
+Jennifer: 0. One bullet, 3, 1, 1, 1, 3, 5, one. Next
+
+98
+00:28:57.000 --> 00:29:19.550
+Jennifer: password, 6 characters.
+
+99
+00:29:20.000 --> 00:29:31.089
+Jennifer: selectable limit, Google playstore selectable. URL pro notes right accessibility, navigate up, button, download it apps edit notes, drive service off
+
+100
+00:29:31.280 --> 00:29:44.890
+Jennifer: service, navigate up button, use mode service, off switch
+
+101
+00:29:45.260 --> 00:29:54.820
+Jennifer: service.
+
+102
+00:29:55.260 --> 00:30:00.510
+Jennifer: Where do I go. We can open money. Manager. Oh, okay, alright. Alright.
+
+103
+00:30:01.730 --> 00:30:10.710
+Jennifer: Okay. Yeah. I understand. Okay, let me turn the volume up.
+
+104
+00:30:10.870 --> 00:30:11.640
+Jennifer: Oh.
+
+105
+00:30:13.670 --> 00:30:42.100
+Jennifer: Friday, okay. So you just kinda like me to look around the app and and just kind of you know. Open the menus and the drawers and all that stuff, and just imagine, like you installed this application, and you know that this application is used for tracking expenditure.
+
+106
+00:30:42.220 --> 00:30:46.249
+Jennifer: Do you have an idea of what it function? What it's functionality is.
+
+107
+00:30:46.290 --> 00:30:50.000
+Interviewer: So you can also play around with these features.
+
+108
+00:30:50.730 --> 00:30:59.949
+Jennifer: Sure, alright. So first, I'm gonna just kind of look at the the home screen here. So I'm just gonna start swiping to the right. 6 messes
+
+109
+00:31:00.320 --> 00:31:04.490
+Jennifer: more options. Button category. Name your expenses this month.
+
+110
+00:31:04.690 --> 00:31:06.000
+Jennifer: Total expenses.
+
+111
+00:31:06.080 --> 00:31:18.809
+Jennifer: Add expense button. Button. Okay? So this is just like a general annotation button, add expense, button, total expense or expense, open navigation or
+
+112
+00:31:18.860 --> 00:31:28.840
+Jennifer: manager who manage your budget, check month's expenses, money manager, who manage your budget, drag your expenses and control your plan checked amongst expenses, budget categories.
+
+113
+00:31:29.110 --> 00:31:40.730
+Jennifer: Let's put your analysis. Monthly expenses, analysis budget labs. annotation. But also, okay, so these are different categories. Budget plan monthly expenses, budget analysis
+
+114
+00:31:40.810 --> 00:31:47.829
+Jennifer: budget plans. I'm gonna double tap on that. Because I'm curious.
+
+115
+00:31:47.960 --> 00:31:54.470
+Jennifer: Budget plans more options. But okay, so this is what it contains. Enough money for this land.
+
+116
+00:31:54.990 --> 00:31:58.789
+Jennifer: Your wallet contains enough money for this land. The deadline of his lamb has passed it
+
+117
+00:31:59.010 --> 00:32:01.930
+Jennifer: that, like a physical app has mastered clap button.
+
+118
+00:32:02.100 --> 00:32:07.399
+Jennifer: annotation, button, mental zoom, clap, button, rental money manager.
+
+119
+00:32:07.870 --> 00:32:20.369
+Jennifer: Fab. Okay? I wonder what that is? I'm going to double tap on that button, because I'm curious about what it is. Oh, this is where you label it.
+
+120
+00:32:20.400 --> 00:32:23.770
+Jennifer: Plant description, edit dogs.
+
+121
+00:32:23.780 --> 00:32:29.919
+Jennifer: labs, budget, edit box, lamp, deadline date. Oh, so I guess this is where you kind of
+
+122
+00:32:30.760 --> 00:32:32.040
+Jennifer: 2023.
+
+123
+00:32:32.210 --> 00:32:57.869
+Jennifer: This is where you kind of write down everything like that. You want your plan to be the name the plan next month, September first went September second, 2020,
+
+124
+00:32:57.990 --> 00:33:09.339
+Jennifer: and that's that. Let's see here. September thirtieth. Add plan. Button happens. If I do that, I'm gonna double tap in the add plan, button
+
+125
+00:33:13.400 --> 00:33:39.920
+Jennifer: more options, budget, glance, more options. Your wallet contains enough money, more options, budget land. Okay? So now I think it got me back where I was. Open navigation door button. Okay, so open money manager, manager, button expenses, budget categories, budget categories, check that open navigation door button. Okay? Now, I'm on the budget categories. I checked that one budget categories and it leave. It has a title. I like that more options, button category. Name
+
+126
+00:33:40.380 --> 00:33:41.300
+Jennifer: claudent
+
+127
+00:33:41.520 --> 00:33:42.810
+Jennifer: clap button.
+
+128
+00:33:43.170 --> 00:33:59.940
+Jennifer: Let's see what this is all about. Is this. So then this is where I can label things like, enter my budget. Category
+
+129
+00:34:01.030 --> 00:34:07.939
+Jennifer: category and budget category budget writes a maximum amount adding a button
+
+130
+00:34:08.050 --> 00:34:12.639
+Jennifer: annotation button. I don't really want to do that. How do I get out of here.
+
+131
+00:34:24.350 --> 00:34:33.849
+Jennifer: The budget had more options, but category, more options. But options, what does this do? Well, it enlisted, adding settings.
+
+132
+00:34:33.969 --> 00:34:39.989
+Jennifer: annotation settings, attic.
+
+133
+00:34:40.300 --> 00:34:49.709
+Jennifer: my wallet doesn't have any money in it.
+
+134
+00:34:50.100 --> 00:34:57.799
+Jennifer: Dollars close close. I'll close that manager more options. Do you want me to keep exploring, or
+
+135
+00:34:58.290 --> 00:35:02.950
+Jennifer: you can. You can start using features as well as you like. Oh, sure. So
+
+136
+00:35:03.470 --> 00:35:11.680
+Jennifer: okay, let's see, what do I wanna try budget open navigation budget tab more options
+
+137
+00:35:11.730 --> 00:35:13.810
+Interviewer: and give you a scenario.
+
+138
+00:35:13.910 --> 00:35:15.790
+Jennifer: Yeah, why don't you do that?
+
+139
+00:35:16.080 --> 00:35:26.749
+Interviewer: That sounds so like. let's say, like, yesterday you went to some of your one of your favorite restaurants, and you ate there, and you want to add that expense to your
+
+140
+00:35:26.810 --> 00:35:36.190
+Interviewer: to this app. And then today you order something from Amazon, let's say, and then you want to add that expense as well.
+
+141
+00:35:36.740 --> 00:35:41.470
+Jennifer: Okay, let's see here. But budget
+
+142
+00:35:41.640 --> 00:35:55.199
+Jennifer: category, name budget, lab budget, budget, category info at carried presenter 0 budget. Write the maximum amount of money you can spend in this category edit box. I think this is how I would do it carried presenter 0 50,
+
+143
+00:35:55.640 --> 00:35:58.390
+Jennifer: because I've maybe put like restaurants.
+
+144
+00:36:01.970 --> 00:36:04.109
+Jennifer: Category next character centers.
+
+145
+00:36:05.480 --> 00:36:06.150
+Yeah.
+
+146
+00:36:06.990 --> 00:36:11.759
+Jennifer: budget. Black characters entered 0 budget. Black characters entered 0 ability
+
+147
+00:36:12.260 --> 00:36:17.889
+Jennifer: budget right? The maximum amount of money you can spend in this category edit box. Oh, here's the edit box. Okay?
+
+148
+00:36:18.140 --> 00:36:26.410
+Jennifer: Oh, this is amount of money I can spend. Oh, maybe this isn't what I wanted to do.
+
+149
+00:36:26.800 --> 00:36:35.999
+Jennifer: Maybe I don't want to do this. Okay, we'll go back.
+
+150
+00:36:36.530 --> 00:36:39.779
+Jennifer: Oh, but Budget Category, and what
+
+151
+00:36:40.020 --> 00:36:47.150
+Jennifer: category name characters entered budget price of maximum Attica budget characters, category budget category.
+
+152
+00:36:47.360 --> 00:37:00.310
+Jennifer: stop, share, button window share audio annotation, but add income button window budget, category info add income writes a maximum amount of budget, writes a character center.
+
+153
+00:37:00.580 --> 00:37:14.339
+Jennifer: bad button, window navigation, money manager, lab, button, button budget, more options, budget, category, open navigation or money manager, manager. Months expenses.
+
+154
+00:37:14.390 --> 00:37:24.069
+Jennifer: Maybe that's what we want. We want the month's expenses. Why don't I do that? I'll double tap here, open navigation category. Name
+
+155
+00:37:24.240 --> 00:37:27.349
+Jennifer: your expenses this month. Total expenses
+
+156
+00:37:27.430 --> 00:37:31.679
+Jennifer: add expense button. Button. So we want to add an expense
+
+157
+00:37:32.320 --> 00:37:35.720
+Jennifer: at the transaction product category. Okay.
+
+158
+00:37:36.160 --> 00:37:41.680
+Jennifer: drop-down listed product category. Okay, so I'm gonna open the dropdown list
+
+159
+00:37:42.960 --> 00:37:53.710
+Jennifer: product cat. drop-down listed edit box, dropdown list. Okay? So I'm double tapping on the drop-down list. And nothing's happening.
+
+160
+00:37:55.050 --> 00:37:58.399
+Jennifer: No mixed editing or attacks ran an election
+
+161
+00:37:59.950 --> 00:38:01.980
+Jennifer: temperamental edit box. Hmm!
+
+162
+00:38:03.240 --> 00:38:06.960
+Jennifer: Dropdown listed. I don't know why this dropdown list won't open.
+
+163
+00:38:07.630 --> 00:38:11.250
+Jennifer: I double tap on it. Product category.
+
+164
+00:38:12.070 --> 00:38:14.510
+Jennifer: Well, I wonder do I just write it in? Then
+
+165
+00:38:14.540 --> 00:38:22.089
+Jennifer: drop down temperamental and tops. Characters enter. 0 of 10. Temperamental and options.
+
+166
+00:38:22.510 --> 00:38:23.639
+Character set
+
+167
+00:38:23.720 --> 00:38:25.580
+Jennifer: memorandum.
+
+168
+00:38:26.500 --> 00:38:35.169
+Jennifer: Oh, boy. Yeah, I don't. Wanna. September thirteenth.
+
+169
+00:38:35.290 --> 00:38:41.939
+Selected to date September 1420, Thursday, September fourteenth, 2023. Selected
+
+170
+00:38:42.200 --> 00:38:45.499
+Jennifer: okay, transaction date out of later.
+
+171
+00:38:45.640 --> 00:38:55.129
+Jennifer: 2023, Thursday, September previous month, button next month, previous month, Thursday 2023. Transaction date.
+
+172
+00:38:55.580 --> 00:38:59.639
+Jennifer: Denver rental and adopt characters enter 0 10
+
+173
+00:39:00.250 --> 00:39:01.890
+temperamental and tops.
+
+174
+00:39:02.320 --> 00:39:03.600
+Jennifer: drop-down, listed.
+
+175
+00:39:03.800 --> 00:39:05.429
+temperamental, and arts
+
+176
+00:39:06.580 --> 00:39:10.990
+Jennifer: showing English, USQW. ERTI. This is where I do it
+
+177
+00:39:11.020 --> 00:39:12.650
+Jennifer: are mentally art.
+
+178
+00:39:12.750 --> 00:39:18.140
+Jennifer: W. With any that says, Angle a.
+
+179
+00:39:21.440 --> 00:39:39.789
+Jennifer: RRAA, NONE. Angle E. Next editing emerent box showing number came over. If I did this right, let's see, what did I do here? Presenter 10010. Restaurant edit. Box characters editing emerent.
+
+180
+00:39:40.270 --> 00:39:44.530
+Jennifer: Okay. I spent to mental number game 6,
+
+181
+00:39:45.120 --> 00:39:48.759
+Jennifer: 3, 0. There he is.
+
+182
+00:39:49.090 --> 00:39:52.000
+Jennifer: I deleted 5 0
+
+183
+00:39:53.710 --> 00:39:55.230
+Jennifer: 0 0
+
+184
+00:39:55.400 --> 00:39:59.130
+Jennifer: there. Here we have it. 0
+
+185
+00:39:59.830 --> 00:40:04.689
+Jennifer: product, padded dropdown, listed restaurant, parry, presenter, title, 10,
+
+186
+00:40:04.970 --> 00:40:11.010
+Jennifer: editing, 30 edit odds, dollar sign. clear text. Button transaction, dated
+
+187
+00:40:11.490 --> 00:40:15.110
+2023, Thursday, September fourteenth
+
+188
+00:40:15.590 --> 00:40:31.879
+Jennifer: previous month, but next month, September first 2023. Inventor. Is there a way to save it. I think I did it. 2023,
+
+189
+00:40:32.150 --> 00:40:34.009
+Thursday, September fourteenth.
+
+190
+00:40:34.310 --> 00:40:35.850
+Jennifer: reading a smart button
+
+191
+00:40:36.060 --> 00:41:05.649
+Jennifer: next month, September first 2020, September sixth Septem, September Seventh, September September, September, September eleventh, September, September third. Selected September fourteenth, 2023 to date September annotation button add transaction, button window add new transaction. I think it did it? So now you want me to add another one right the Amazon one.
+
+192
+00:41:06.820 --> 00:41:09.369
+Interviewer: You haven't added the previous one yet.
+
+193
+00:41:09.980 --> 00:41:18.100
+Interviewer: Oh, so if you, if you press this button, then it will save it. You still cannot buy anything for now.
+
+194
+00:41:38.070 --> 00:41:50.569
+Jennifer: It was. It was okay. I mean, it took me a little get to get used to because I was like, Okay, cause I couldn't get the dropdown list, because I think the dropdown list probably would have told me a bunch of categories right? And then I could have just chosen one.
+
+195
+00:41:52.020 --> 00:42:12.539
+Jennifer: But it wouldn't II couldn't get it to open, so that was a little confusing cause. I wasn't quite sure where to put it, and then, when I thought I was done, I thought it had already saved it, but I needed to add it first. So you know it. It took me a little bit to get used to it, but once I got used to it. I mean, it was actually pretty accessible.
+
+196
+00:42:13.140 --> 00:42:20.820
+Interviewer: Okay, in terms of the dropdown menu. Because you haven't added any categories. Right? That's why it was.
+
+197
+00:42:21.430 --> 00:42:28.389
+Jennifer: Oh, oh, oh, oh, oh, oh, I get it! I thought it had pre-populated ones. Okay.
+
+198
+00:42:28.810 --> 00:42:36.860
+Interviewer: I see. So I guess it wasn't intuitive for you to be like, okay, I have to add categories before I can.
+
+199
+00:42:36.880 --> 00:42:50.920
+Jennifer: No, not to me. I thought maybe there were some in there. That's why there was a dropdown. Okay, I get it. I get it. I'm not the only one.
+
+200
+00:42:52.400 --> 00:43:04.559
+Interviewer: So before you can add a transaction. First, you have to add, like your income. And also you have to add categories.
+
+201
+00:43:04.960 --> 00:43:08.149
+Jennifer: Oh, alright, alright. Okay. Okay.
+
+202
+00:43:10.050 --> 00:43:12.860
+Jennifer: So do you want me to do that? Now?
+
+203
+00:43:13.020 --> 00:43:14.160
+Interviewer: Yeah, yeah.
+
+204
+00:43:14.420 --> 00:43:31.289
+Jennifer: okay. All right. Let me see. I gotta figure out where the wallet was. Annotation button, add expense, button total expenses your expenses, more options, but commands expenses. Open navigation door button more options I can't remember. Let's see.
+
+205
+00:43:32.210 --> 00:43:41.550
+Jennifer: Papa winto your wallet, cup your wallet attic up. I have to add an income to my wall, add to your wallet atticum. But out of list money amounted box.
+
+206
+00:43:41.590 --> 00:43:44.069
+Jennifer: Okay? So I make
+
+207
+00:43:44.270 --> 00:43:45.830
+Jennifer: showing number keyboard.
+
+208
+00:43:46.070 --> 00:43:52.949
+Jennifer: So rental number cable baid stop share button aid window. Number game 7,
+
+209
+00:43:53.340 --> 00:43:54.120
+Jennifer: 7,
+
+210
+00:43:54.440 --> 00:43:58.480
+Jennifer: 7, 7, 7, 7. Let's make it easy.
+
+211
+00:43:58.860 --> 00:44:04.439
+Jennifer: Okay. editing 2777, edit. Box on the amount window. Add to your wallet.
+
+212
+00:44:05.020 --> 00:44:19.920
+Jennifer: clear text, but annotation button, clear tag editing, click, adding up button contains now 2,777.0 your expenses. This month
+
+213
+00:44:20.240 --> 00:44:21.510
+total expenses.
+
+214
+00:44:21.830 --> 00:44:27.500
+Jennifer: Add expense button. Button. Okay? So now I need to add an expense.
+
+215
+00:44:27.740 --> 00:44:32.430
+Jennifer: so I'm going to press. Add expense. Add no transaction product category.
+
+216
+00:44:33.650 --> 00:44:34.879
+Jennifer: Drop down, listed.
+
+217
+00:44:53.910 --> 00:45:08.200
+Jennifer: RA. November 90, next editing and rental edit box showing number keyboard. Ok. Now for the inner info size window number keyboard
+
+218
+00:45:08.290 --> 00:45:14.719
+Jennifer: 3, 3, 5, 555020,
+
+219
+00:45:14.800 --> 00:45:22.160
+Jennifer: there we go! I made it a little more done. 3,552 Benito info keyboard dollar sign.
+
+220
+00:45:22.210 --> 00:45:25.009
+Interviewer: and we are texted. This is an expensive.
+
+221
+00:45:25.290 --> 00:45:27.300
+Jennifer: clear text dollar signing.
+
+222
+00:45:27.720 --> 00:45:38.550
+Jennifer: Wait a minute, I think that's 3,552, isn't it? Oh, no, that's too much money. I've gotta fix that.
+
+223
+00:45:38.980 --> 00:45:42.329
+Jennifer: So that was a mistake. Okay, let's see.
+
+224
+00:45:42.380 --> 00:45:57.339
+Jennifer: deleted 5 deleted. No, I didn't. Quite yeah. That would be expensive. Let's do just 35. Yeah, that would. In fact, I don't have enough money. I would have had the same problem. Yeah, cause I forgot to put the point in there. Yeah, I was thinking that okay, dollar sign
+
+225
+00:45:57.410 --> 00:46:01.340
+Jennifer: clear text transaction date 2023,
+
+226
+00:46:01.780 --> 00:46:20.530
+Jennifer: Friday, September fifteenth previous month. But next month. But September, verse 20, September, September, September September, September 9, twentieth September September thirteenth, September fourteenth, Thursday, September fourteenth, 2023, were selected
+
+227
+00:46:20.540 --> 00:46:49.950
+Jennifer: Alright now we go to okay, I'm not really sure what that's all about. Cause I put restaurant in there, or maybe oh, is that just the type of transaction? It's not in a category. So I have to go and make. Oh, jeez! And I gotta do it all over again. Alright.
+
+228
+00:46:50.320 --> 00:46:56.469
+Interviewer: there were expenses this month, but it's insightful that it wasn't in Twitter for you, that
+
+229
+00:46:56.490 --> 00:47:13.649
+Jennifer: it wasn't the category. It was the expense. Yeah, it was the expense. Yeah. So like, I went to a restaurant. So I probably put down like Starbucks and not just restaurant cause. It's not like well, I could put it in food category. No, it says category name here, or option category name. So
+
+230
+00:47:14.320 --> 00:47:19.889
+Jennifer: when I tap on that, so I have to.
+
+231
+00:47:20.310 --> 00:47:26.190
+Jennifer: I don't think it's in, there is. Oh, maybe it is. Let's see, pop a window, your wallet adding up settings.
+
+232
+00:47:26.240 --> 00:47:33.610
+Jennifer: annotation button. I have to go. Navigation drawer
+
+233
+00:47:34.690 --> 00:47:47.609
+Jennifer: categories, more options, open navigation, met money manager commander checked among budget categories, budget categories, check open navigation door budget, category more options, category. Name
+
+234
+00:47:47.840 --> 00:47:48.780
+Jennifer: budget
+
+235
+00:47:49.020 --> 00:47:50.310
+Jennifer: that button.
+
+236
+00:47:50.520 --> 00:47:56.910
+Jennifer: Here's where I go into that
+
+237
+00:47:57.660 --> 00:47:59.809
+Jennifer: Fab FAB,
+
+238
+00:48:02.900 --> 00:48:07.150
+Jennifer:  I don't know.
+
+239
+00:48:09.000 --> 00:48:32.249
+Jennifer: I'm not real sure but you, but you were like confident it was something to do with adding a category. Yeah, because, remember, I went in there before, and that's how I know, and otherwise I never would have known that. I never would have known that. But the reason I knew. That is because I tried it out once before, and I remember it had that whole category thing. What does it stand for? By the way
+
+240
+00:48:32.500 --> 00:48:35.549
+Interviewer: it stands for floating action. Button?
+
+241
+00:48:35.560 --> 00:48:49.149
+Interviewer: Oh, oh, okay. A button that is floating at the very corner of the screen. It has a plus sign, but it has no labels. So it's just telling that
+
+242
+00:48:49.610 --> 00:49:15.110
+Jennifer: class of that button which is a Fab button.
+
+243
+00:49:15.410 --> 00:49:32.589
+Jennifer: Next editing budget. Write the maximum amount of money you can spend in this category edit box showing up on 4, 7, annotate 74110001000.
+
+244
+00:49:33.120 --> 00:49:36.500
+Jennifer: Yeah, it's kind of a lot of money for food each month. But
+
+245
+00:49:36.520 --> 00:49:46.040
+Jennifer: write the maximum of padding button and sorry, writes a maximum clear text button editing 1,000 clear text, write the maximum, Paddy, come, button, add income.
+
+246
+00:49:47.550 --> 00:49:56.719
+Jennifer: Now I guess I have to go and do the restaurant again.
+
+247
+00:49:57.070 --> 00:50:02.179
+Jennifer: 1,000 point O dollars include budget out of list category. Name
+
+248
+00:50:02.350 --> 00:50:08.350
+Jennifer: more options, budget categories, open navigation door button. Let's see. Now, I gotta remember how to do this
+
+249
+00:50:08.380 --> 00:50:14.850
+Jennifer: budget more cadet budget food. Then lit 1,000 point fabric annotation button mental zoom.
+
+250
+00:50:16.680 --> 00:50:19.229
+Jennifer: trying to remember where I have to go again.
+
+251
+00:50:19.260 --> 00:50:46.920
+Jennifer: 1 1,000 budget category, name more options, budget category, open navigation expenses, months, expense, total expense, add expense button, but I add an expense. So I double tap on that. Add new transaction product, category.
+
+252
+00:50:48.070 --> 00:50:59.519
+Jennifer: drop-down list of code. Oh, and food. Okay? Oh, yeah, I get it. Now, okay, yeah, that makes sense. So, food is actually selected. Okay, so
+
+253
+00:51:00.240 --> 00:51:05.170
+Jennifer: showing English, us, W, on like.
+
+254
+00:51:05.720 --> 00:51:13.400
+Jennifer: RE. Bravo.
+
+255
+00:51:13.760 --> 00:51:16.760
+Jennifer: 7.
+
+256
+00:51:27.170 --> 00:51:30.689
+Jennifer: Okay. So now, I'm gonna put the number in. Okay.
+
+257
+00:51:30.720 --> 00:51:32.170
+Jennifer: so that's help
+
+258
+00:51:32.220 --> 00:51:36.289
+Jennifer: 5, 5. Okay? Done
+
+259
+00:51:36.300 --> 00:51:44.389
+Jennifer: when he lies Bennett box. Ed Marino be more tennis dollar sign clear text transaction date
+
+260
+00:51:44.620 --> 00:51:46.010
+Jennifer: when they when they read
+
+261
+00:51:46.170 --> 00:51:50.790
+Jennifer: Friday, September fifteenth oops. I don't want that date
+
+262
+00:51:50.890 --> 00:52:05.640
+previous month, next month, Septem, September fifth, September September ninth, September tenth, September, September twelfth, September thirteenth, September Thursday, September fourteenth, 2023, selected
+
+263
+00:52:06.070 --> 00:52:12.420
+Jennifer: a day, some some some memory, some, some, some, some, some some
+
+264
+00:52:12.630 --> 00:52:26.869
+Jennifer: add transaction. But transaction budget category equals. One product. Name equals Starbucks. I know it took a long time, but you know it's just I'm
+
+265
+00:52:26.870 --> 00:52:51.009
+Jennifer: It did this. This. This takes a little bit of it does have a little bit of a learning curve for me. And maybe it's because, you know I don't. I mean, I will confess I don't use a lot of budgeting apps, so that may be part of the reason why, but there are some things that were just kinda like, oh, I didn't know that I thought I could select one from the Dropdown list. I didn't know I had to add my own categories. I mean it makes sense, in a way.
+
+266
+00:52:51.010 --> 00:53:08.400
+Jennifer: But you know, I mean, like some apps, you know, when they have the drop down lists. It means that you have like choices, and some of em don't really, you know. Choose one by default. You have to press on the drop down list, and then it opens up, and then you choose one. But if you don't choose one, it just says, Drop down list.
+
+267
+00:53:09.820 --> 00:53:14.729
+Interviewer: So what do you think would be a good way to inform you of what you need to do?
+
+268
+00:53:14.780 --> 00:53:16.370
+Jennifer: Oh.
+
+269
+00:53:16.560 --> 00:53:27.120
+Jennifer: maybe, since you don't have any categories. Maybe once you have a category, then maybe the drop down list could show up.
+
+270
+00:53:28.270 --> 00:53:37.500
+Jennifer: if that's possible. Otherwise maybe it could have like a little, you know a little thing that says no items.
+
+271
+00:53:38.450 --> 00:53:44.920
+Jennifer: and then that would be a good you know. A good Q.
+
+272
+00:53:45.010 --> 00:54:02.920
+Jennifer: To say, Hey, you need to add something to your dropdown list, because you don't have any items in it, you know, because otherwise it's like, why isn't an opening? Is this an accessibility error. What's going on here? So yeah, that's that's just it. You know, you don't automatically know it.
+
+273
+00:54:05.270 --> 00:54:27.039
+Interviewer: What about when you like? What about the other elements of that page other than the drop down list. Well, I mean the wallet thing. Yeah, that makes sense. I didn't have any money in my wallet, so it's kind of hard to spend money. You don't have I like that air that air popped up right away, and I was able to say, Oh, yeah, yeah. I need to put some stuff in my wallet
+
+274
+00:54:27.140 --> 00:54:36.149
+Jennifer: far, as the add transaction. At first, when it said it would when it said done. When I first tried to add it, I thought it was already added that, but
+
+275
+00:54:36.400 --> 00:54:39.369
+Jennifer: so that that was a little bit
+
+276
+00:54:40.370 --> 00:54:46.149
+Jennifer: confusing for me. because I thought once it said done. You know you had already
+
+277
+00:54:46.530 --> 00:54:56.429
+Jennifer: done it. But you know certainly, if I would have scanned around the screen, I would have been like, Wait a minute. Where is it? It probably hasn't added yet.
+
+278
+00:54:56.450 --> 00:55:00.690
+Jennifer: So then you can kind of tell but
+
+279
+00:55:01.450 --> 00:55:05.120
+Jennifer: you know, it's just it's just a bit confusing, because
+
+280
+00:55:05.360 --> 00:55:23.860
+Interviewer: you know, instead of having like a save button or something like that they, you know, just add transactions. So I thought, oh, I can add another transaction. But no, I was still working on my original, one.
+
+281
+00:55:23.950 --> 00:55:43.229
+Jennifer: yeah, exactly. Yeah, no, no, I didn't understand. I mean, I would have figured it out, I mean some of this just comes with getting used to using an app. You know what I mean cause when you first open it up you might think that something is one way, and it really isn't so. I mean, this does have a little bit of a learning curve, at least for me. So.
+
+282
+00:55:43.400 --> 00:55:54.900
+Jennifer: But as far as like finding the dates, I mean, that was really easy. It was really easy to change the dates which I really like. And you know, it was really easy to tell to which date you were on.
+
+283
+00:55:56.570 --> 00:55:58.430
+Interviewer: Okay, that's good.
+
+284
+00:55:58.540 --> 00:56:11.370
+Interviewer: And the navigation drawer works really well, too.
+
+285
+00:56:11.500 --> 00:56:14.990
+Interviewer: which can be under a new category called shopping
+
+286
+00:56:15.120 --> 00:56:35.280
+Jennifer: shopping. Okay, alright. Let's see here, let me go in. I gotta remember how to do this. Now, category name
+
+287
+00:56:35.720 --> 00:56:40.920
+Jennifer: budget closed and listed 1,000 point $0.
+
+288
+00:56:40.960 --> 00:56:48.489
+Jennifer: Clap button out of listed. Okay, this is where I do it into here. Category name.
+
+289
+00:56:48.750 --> 00:57:00.300
+Jennifer: okay.
+
+290
+00:57:00.690 --> 00:57:02.869
+Jennifer: BAL.
+
+291
+00:57:03.220 --> 00:57:04.590
+Jennifer: And migrant
+
+292
+00:57:04.890 --> 00:57:15.980
+Jennifer: at at HOTG. Delete, next editing Budget, writes the maximum amount of money you can spend in this category edit box showing number keyboard.
+
+293
+00:57:16.440 --> 00:57:19.919
+Jennifer: Well, let's see, how much can I spend on shopping?
+
+294
+00:57:20.160 --> 00:57:23.059
+Jennifer: So window number 6. Type.
+
+295
+00:57:23.250 --> 00:57:24.360
+fast forward.
+
+296
+00:57:24.400 --> 00:57:35.569
+Jennifer: Okay, there we go. I'm done.
+
+297
+00:57:35.900 --> 00:57:36.960
+Jennifer: Team or tenant
+
+298
+00:57:38.270 --> 00:57:47.869
+Jennifer: double tap on the add income button.
+
+299
+00:57:48.450 --> 00:57:56.609
+Jennifer: money, manager, lab, button. Alright, there we go, I think that did it alright. So now, annotation. Let's share. Audi.
+
+300
+00:57:57.210 --> 00:57:58.860
+Jennifer: stop, share, button.
+
+301
+00:58:01.030 --> 00:58:04.659
+Jennifer: include and list and went up budget out of List category name
+
+302
+00:58:04.980 --> 00:58:17.250
+Jennifer: budget include 1,000 shopping, 1,000 button annotation category. Name of food.
+
+303
+00:58:17.330 --> 00:58:21.329
+Interviewer: Okay, let's see
+
+304
+00:58:21.530 --> 00:58:27.480
+Jennifer: food enlisted budget category info food and adopt category. Name out of list.
+
+305
+00:58:27.490 --> 00:58:29.179
+Jennifer: Do you want me to edit it right now?
+
+306
+00:58:29.700 --> 00:58:31.200
+Interviewer: Okay.
+
+307
+00:58:31.300 --> 00:58:37.499
+Jennifer: boon, you cannot change the category name showing English us. Qwerty. Why is that?
+
+308
+00:58:38.260 --> 00:58:46.020
+Jennifer: Write? Add income, but write the maximum amount of clear text. But 1,000 point characters enter. Edit include edit top category. Name.
+
+309
+00:58:47.150 --> 00:58:48.690
+Jennifer: Looks like I can
+
+310
+00:58:48.780 --> 00:58:52.229
+Jennifer: delete window English, us QWER. TY.
+
+311
+00:58:53.510 --> 00:58:55.179
+Jennifer: Sample cable deleted
+
+312
+00:58:55.930 --> 00:59:07.829
+Jennifer: sample keyboard delete budget category info window budget. Editing code edit Pops category budget. I don't know. Well, let me edit the category name.
+
+313
+00:59:08.340 --> 00:59:18.149
+Jennifer: Why would that be? 30%, 1,000 clear, 10 times a maximum amount of bad income annotation share audio bad button window
+
+314
+00:59:19.810 --> 00:59:29.999
+Jennifer: keyboard. I guess maybe I have to go once I was clear text. Write a Mac, adding up annotation, share audio, stop, share. share off the annotation button.
+
+315
+00:59:30.580 --> 00:59:37.080
+Jennifer: Let's see here, add it right to maximum. 1,000 characters include budget category.
+
+316
+00:59:37.930 --> 01:00:05.150
+Jennifer: Let's see.
+
+317
+01:00:05.290 --> 01:00:07.440
+Jennifer: you know what I don't know where to go to.
+
+318
+01:00:07.760 --> 01:00:21.599
+Jennifer: because it says it can't edit it, said I can't edit it so I guess I could go in the navigation drawer and look around. But I think I'm already
+
+319
+01:00:21.940 --> 01:00:36.880
+Interviewer: it it is. It is where you were. But the thing is like the cursor for editing. The text was at the bit front. So when you were, you know, back spacing it, we're trying to delete. It wasn't deleting anything, because it was the very beginning of the word.
+
+320
+01:00:37.270 --> 01:00:40.159
+Jennifer: Yeah, but it said I couldn't change a category name.
+
+321
+01:00:40.830 --> 01:00:46.690
+Interviewer: Did you hear that? Yeah, it said, it said, you can't change. I'll show you again.
+
+322
+01:00:46.810 --> 01:01:03.030
+Jennifer: I'll show you. Okay, here we go. You cannot change the category name.
+
+323
+01:01:03.680 --> 01:01:10.410
+Jennifer: Let me try to add an S at the end. W. Alpha d Delta S.
+
+324
+01:01:10.830 --> 01:01:24.499
+Jennifer: Foods didn't work. Let's see.
+
+325
+01:01:24.520 --> 01:01:34.500
+Interviewer: beginning of that word. Yeah, yeah, okay, I understand. The problem I was having. Is it said that I couldn't change the category name. So I'm like.
+
+326
+01:01:35.070 --> 01:01:43.599
+Jennifer: why can't I change the category name? Yeah. I mean, I wonder why it says that that's weird.
+
+327
+01:01:44.020 --> 01:01:51.200
+Interviewer: but we don't have to change it.
+
+328
+01:01:51.260 --> 01:01:56.479
+Jennifer: Oh, dear! How do I go back? Back? Click the gamble keyboard back button with the navigation bar.
+
+329
+01:01:57.530 --> 01:02:02.180
+Jennifer: Thank you. I went. Why does it say, though, that I can't change the category name
+
+330
+01:02:02.630 --> 01:02:09.320
+Jennifer: I honestly don't know. I think it's just warning you not to, but you can actually change it.
+
+331
+01:02:09.410 --> 01:02:20.339
+Jennifer: cause that's where I was confused. And that's why I'm like. Oh, yeah. Well, let me delete it because I can't change the category name. I didn't even think that. Oh, it's at the beginning.
+
+332
+01:02:20.680 --> 01:02:35.090
+Jennifer: But yeah, that I'd have to go down and and get to the end of the text. Yeah, alright. Now, let's see. So if I do this. Okay? So I'm in the wrong place.
+
+333
+01:02:35.530 --> 01:02:38.880
+Jennifer: Category, name window Moroc, budget, category
+
+334
+01:02:39.140 --> 01:02:56.299
+Jennifer: navigation expense. But
+
+335
+01:02:56.380 --> 01:02:59.639
+Jennifer: boom at the transaction product category.
+
+336
+01:03:00.920 --> 01:03:02.550
+dropdown list. And so
+
+337
+01:03:10.810 --> 01:03:14.309
+Jennifer: okay, enter info.
+
+338
+01:03:14.380 --> 01:03:18.019
+Jennifer: showing English, US. 2, a, a.
+
+339
+01:03:18.160 --> 01:03:25.659
+Jennifer: NOMM. A. O,
+
+340
+01:03:26.040 --> 01:03:34.929
+Jennifer: okay.
+
+341
+01:03:34.980 --> 01:03:37.939
+Jennifer: Want more oops.
+
+342
+01:03:38.040 --> 01:03:39.990
+Jennifer: 1, 1, 6,
+
+343
+01:03:41.500 --> 01:03:51.740
+Jennifer: 5, 5, 0. 0. Okay.
+
+344
+01:03:51.890 --> 01:03:54.070
+Transaction 2023,
+
+345
+01:03:54.180 --> 01:04:10.710
+Interviewer: Friday previous month, next month, September, September, September, September, September.
+
+346
+01:04:10.770 --> 01:04:24.869
+Jennifer: Add transaction, button transaction, budget category equals to product name equals Amazon. Price equals 115.0 by 89, Friday, September fifteenth, (484) 016-2023. I almost think that
+
+347
+01:04:25.270 --> 01:04:51.320
+Jennifer: It would be better if it could be an expandable and collapsible thing, so you wouldn't have to keep scanning. I mean, I know you can scroll, and you can try to do explore by touch, which sometimes works and sometimes doesn't. But II almost think it would be easier if you could just expand and collapse it. But that being said, it isn't that bad the way it is. I do like the fact that it's really easy to switch dates. I mean, I do really really like that.
+
+348
+01:04:52.320 --> 01:04:53.939
+Interviewer: Okay, there's this great
+
+349
+01:04:54.200 --> 01:05:04.700
+Jennifer: can you tell me what your total expenses are? My total expenses? Alright
+
+350
+01:05:05.290 --> 01:05:17.510
+Jennifer: category name went on money managed through expenses this month. Quote enlist. 3% budget seat were Slider. 25 point o dollars, 1,000 point o dollars. shopping.
+
+351
+01:05:17.930 --> 01:05:25.000
+Jennifer: 15% budget cheaper, 100 fifty-point. O, $1,000! Total expenses! I was enlisted.
+
+352
+01:05:25.180 --> 01:05:26.870
+Jennifer: Add expense, button, button.
+
+353
+01:05:26.980 --> 01:05:28.870
+Jennifer: total expenses
+
+354
+01:05:32.200 --> 01:05:33.420
+Jennifer: add an expense, but
+
+355
+01:05:34.100 --> 01:05:43.180
+Jennifer: total expenses. I thought it would have something under here. Total expenses out of listed.
+
+356
+01:05:43.770 --> 01:05:49.480
+Interviewer: And it's showing. But it's not focusing on topic.
+
+357
+01:05:49.690 --> 01:05:59.429
+Jennifer: Hmm, yeah, it's not reading it. Double tap on it. It doesn't do anything. So yeah, it doesn't tell me my total expenses.
+
+358
+01:06:01.610 --> 01:06:06.430
+Interviewer: Can you go and look at the analysis features.
+
+359
+01:06:07.070 --> 01:06:12.500
+Jennifer: analysis features 115% budget seat or slide on this?
+
+360
+01:06:13.000 --> 01:06:20.750
+Interviewer: No, no, this should be 25 point dollars, 1,300. Your expenses, category. Name
+
+361
+01:06:20.810 --> 01:06:24.819
+Jennifer: more options amongst expenses. Open navigation door.
+
+362
+01:06:25.080 --> 01:06:45.909
+Jennifer: met money manager, manage your budget and drag your expenses and control your plans, checked month's expenses, month's expenses, budget categories, budget categories, budget analysis. Here we go budget analysis. All right, check open navigation door budget. Okay? So I got there. Now, let's see what we have here. Budget analysis, more options, button web. New
+
+363
+01:06:46.270 --> 01:07:00.829
+Jennifer: times are entitled near expenses per category this month, with 2 points min. Value is 25. Max. Value is 150. Article Canada card trial version, link Andicard Javascript charts designed for the embedded integrated v. 8.4 point 2.1 9 0 4
+
+364
+01:07:01.300 --> 01:07:08.380
+Jennifer: shopping calling shop in 0 slash 0 for more information.
+
+365
+01:07:08.910 --> 01:07:15.999
+Jennifer: Visit our web annotation, button windowsoom. Visit our website for more information. 0 slash, 0
+
+366
+01:07:16.270 --> 01:07:31.650
+Jennifer: shopping. Call it. I don't really understand this. It says shopping food, and it says that you know it says something about the min value in the middle value and the Max value, but it doesn't say
+
+367
+01:07:32.400 --> 01:07:34.709
+Jennifer: it doesn't really give me much information.
+
+368
+01:07:35.990 --> 01:07:44.760
+Interviewer: It's just a visual thing here. It's a pie chart, but it's not yeah information. No, no, I wouldn't be able to get anything out of it.
+
+369
+01:07:45.050 --> 01:07:45.800
+Jennifer: Nope.
+
+370
+01:07:46.720 --> 01:07:49.290
+Interviewer: would you visit the website?
+
+371
+01:07:50.350 --> 01:07:51.979
+Jennifer: Would I go to the website?
+
+372
+01:07:53.720 --> 01:07:57.530
+Jennifer: I don't know.
+
+373
+01:07:58.980 --> 01:08:09.019
+Jennifer: shopping kind of card driver version, linked by Chart, entitled Your Expenses or More Options. But budget analysis, open navigation door budget analysis, more option web. New.
+
+374
+01:08:09.360 --> 01:08:12.010
+Jennifer: This one here Webview, would I visit that?
+
+375
+01:08:12.380 --> 01:08:25.950
+Jennifer: Oh.
+
+376
+01:08:26.130 --> 01:08:35.840
+Jennifer: include shopping, 0 slash for more information, visit our web annotation, but visit our website window money manager.
+
+377
+01:08:36.260 --> 01:08:38.519
+Jennifer: I don't know if I would or not.
+
+378
+01:08:38.990 --> 01:08:41.819
+Jennifer: The the reason I'm saying that is because
+
+379
+01:08:41.890 --> 01:08:49.340
+Jennifer: I mean they're talking about it. There's an ad here, I guess right that Anna cart, whatever it's called. Is that an ad.
+
+380
+01:08:50.100 --> 01:08:54.909
+Interviewer: or is that just
+
+381
+01:08:55.840 --> 01:09:23.939
+Jennifer: I might I might visit the website but I'm thinking it would probably be another chart that I wouldn't understand, since I couldn't understand this one, so I probably would be like oh, well, you know maybe not. But I might. I don't know. It would depend on. Oh, sure, of course.
+
+382
+01:09:23.979 --> 01:09:26.260
+Jennifer: for more and visit our website. And
+
+383
+01:09:26.290 --> 01:09:27.630
+Jennifer: okay.
+
+384
+01:09:30.140 --> 01:09:34.230
+Jennifer: annotation. But visit our web site, rental money manager
+
+385
+01:09:34.260 --> 01:09:36.880
+Interviewer: double tapping it. Email, yeah.
+
+386
+01:09:37.640 --> 01:09:39.369
+Interviewer: we're more interested in marketing.
+
+387
+01:09:40.100 --> 01:09:43.039
+Jennifer: Yeah. no, I just go click.
+
+388
+01:09:43.090 --> 01:09:48.469
+Interviewer: And that's it. And it vibrates. But it doesn't do anything. No.
+
+389
+01:09:48.569 --> 01:09:56.240
+Interviewer: I wanted to check check that out. There's another analysis page kind of go to that as well. This month's expense. Analysis.
+
+390
+01:09:56.260 --> 01:09:58.120
+Jennifer: I'm on 6 times. Okay.
+
+391
+01:09:58.300 --> 01:10:00.699
+Jennifer: live chart entitled The Open Navigation Door
+
+392
+01:10:01.030 --> 01:10:09.949
+Jennifer: Manager, Manager. But month budget, category checked budget, monthly expenses, analysis, check open navigation door, button.
+
+393
+01:10:10.240 --> 01:10:13.300
+Jennifer: monthly expenses and more options, webinar
+
+394
+01:10:13.690 --> 01:10:25.610
+Jennifer: annotation, button, Windowsume web, new windows manager. more options, button, monthly expenses, analysis. open navigation door button. This doesn't really tell me anything
+
+395
+01:10:25.730 --> 01:10:27.280
+Interviewer: is the story of you.
+
+396
+01:10:29.470 --> 01:10:32.760
+Interviewer: It's a what it's just. It's just announcing a work view.
+
+397
+01:10:33.150 --> 01:10:42.970
+Jennifer: Yes, that's all it says.
+
+398
+01:10:45.720 --> 01:10:46.600
+Then
+
+399
+01:10:46.820 --> 01:10:49.439
+Interviewer: we can go out of this
+
+400
+01:10:49.550 --> 01:10:52.109
+Interviewer: and try to change some settings.
+
+401
+01:10:52.340 --> 01:10:59.360
+Jennifer: You want me to go to the settings, all right. So that's under more options, isn't it?
+
+402
+01:11:00.680 --> 01:11:05.200
+Jennifer: Top of window your wallet adding up settings, annotation settings.
+
+403
+01:11:05.680 --> 01:11:10.879
+Jennifer: money manager, more options. But here's the settings. Webinar
+
+404
+01:11:11.750 --> 01:11:12.660
+Jennifer: -oh.
+
+405
+01:11:12.890 --> 01:11:22.580
+Jennifer: the annotation webinar with more options, button monthly expenses, analysis, more options. Button. So I went to more options, and I tapped on settings. But it didn't.
+
+406
+01:11:23.190 --> 01:11:27.290
+Jennifer: Complimental addic up settings. settings.
+
+407
+01:11:27.810 --> 01:11:36.710
+Jennifer: money manager, more options. But and listed webinar. Yeah, that's weird. I can't get the settings to open. Do I need to be somewhere else?
+
+408
+01:11:37.210 --> 01:11:38.919
+Interviewer: Nope, it's just a
+
+409
+01:11:39.070 --> 01:11:41.189
+Interviewer: this is our problem with the button
+
+410
+01:11:41.200 --> 01:11:44.350
+Jennifer: interesting. Yeah, I can't get it to work.
+
+411
+01:11:44.380 --> 01:11:49.739
+Interviewer: But the last test can you add a budget plan
+
+412
+01:11:49.780 --> 01:11:51.400
+Interviewer: for next month?
+
+413
+01:11:51.630 --> 01:12:14.349
+Jennifer: Oh, okay, let's see here. Let's see
+
+414
+01:12:14.400 --> 01:12:17.300
+Interviewer: budget plan I'm making.
+
+415
+01:12:17.800 --> 01:12:20.429
+Jennifer: Oh. open navigation, node
+
+416
+01:12:20.600 --> 01:12:45.459
+Jennifer: money manager, manager, budget, month, money manager, manager. But budget categories, analysis, monthly expenses, budget plans. Oh, budget plans duh. Okay, here we go. The deadline of this plan has passed.
+
+417
+01:12:45.660 --> 01:12:53.679
+Jennifer: Button, annotation, button window, running manager, plan, title, edit, box
+
+418
+01:12:53.930 --> 01:13:05.029
+Jennifer: characters, enters lambda, script characters and plans. Budget planned deadline date. What? What is Friday, September fifteenth, previous month? But
+
+419
+01:13:05.050 --> 01:13:09.960
+Jennifer: next month? Okay. So if I do next month, double tap on next month.
+
+420
+01:13:10.760 --> 01:13:13.900
+Jennifer: page 1486 of 2412 will. This will do well.
+
+421
+01:13:14.070 --> 01:13:23.930
+Jennifer: Friday, September fifteenth, previous month, button next month, but October first, 2023, and later October first.
+
+422
+01:13:24.390 --> 01:13:27.400
+Jennifer: October second, 2023.
+
+423
+01:13:28.700 --> 01:13:36.259
+Jennifer: Let's see. October 20, eighth, 23, October on October 20, eighth October.
+
+424
+01:13:36.520 --> 01:13:41.989
+Jennifer: Add plan button out of page one. So I then I add plans. I double tap on here.
+
+425
+01:13:42.210 --> 01:13:43.540
+Jennifer: add plan.
+
+426
+01:13:46.900 --> 01:13:47.710
+Oh.
+
+427
+01:13:56.850 --> 01:14:00.220
+Jennifer: your wallet contains another month. Your wallet contains the deadline of this lambda.
+
+428
+01:14:00.700 --> 01:14:03.339
+Jennifer: so that, like on this map clap, button.
+
+429
+01:14:03.510 --> 01:14:09.510
+Jennifer: It went away. I think I'm back where it started. Aren't I
+
+430
+01:14:10.150 --> 01:14:14.379
+Jennifer: add anything because you didn't add any?
+
+431
+01:14:14.590 --> 01:14:31.599
+Interviewer: I was trying to, but it kind of froze up on me. Let's see here, let me what do you think these information is about the wallet containing enough money of the deadline being passed.
+
+432
+01:14:32.330 --> 01:14:39.110
+Jennifer: Yeah, that's kind of weird, because II guess I didn't. I didn't make the dates long enough for something
+
+433
+01:14:40.470 --> 01:14:48.789
+Jennifer: right? I don't know. Yeah, I guess maybe I didn't make the deadlines long enough, like, I only made it till the fifteenth.
+
+434
+01:14:49.950 --> 01:14:59.080
+Interviewer: Hmm, yeah, that plan wasn't saved. So these are something else. But these are like labels for
+
+435
+01:14:59.240 --> 01:15:04.020
+Interviewer: the the plans in the list. But they're color-coded.
+
+436
+01:15:04.150 --> 01:15:07.020
+Interviewer: so it doesn't really help you in this case.
+
+437
+01:15:07.090 --> 01:15:16.829
+Jennifer: Oh, okay, okay, yeah. I didn't really understand what that meant, but I was a little bit confused. Did you want me to add the plan or
+
+438
+01:15:16.830 --> 01:15:41.489
+Jennifer: no. II know we're running out of running. Oh, oh, I didn't know that. Okay, sorry about that. It just kind of froze up on me, and I'm like, so I may have accidentally pressed the for something accidentally, but you know, once it but it doesn't talk, I mean, and it wasn't responding to my touches, either. And I got kind of like, oh, no, I just did. I just freeze up my phone. But that's okay.
+
+439
+01:15:41.670 --> 01:15:49.000
+Jennifer: Sorry. Yeah, Thomas, can you? Can you give me like a summary or like a list of the accessibility issues or the review of the app?
+
+440
+01:15:50.700 --> 01:16:01.010
+Jennifer: Okay, let's see so as far as the the accessibility issues.
+
+441
+01:16:02.060 --> 01:16:16.760
+Jennifer: let's see, there was the one with the Fab button. I didn't really know what that was I figured it out, but I wasn't really sure what it would, so that was a verse one. It probably should have a label on it. And then there was the
+
+442
+01:16:17.350 --> 01:16:18.910
+Jennifer: the
+
+443
+01:16:19.030 --> 01:16:35.129
+Jennifer: the web, the the pie charts, and not being able to open the website.  and let me think. Oh, and there were those those buttons you were telling me about those color coded buttons and that sort of thing, those those weren't labeled
+
+444
+01:16:35.290 --> 01:16:38.960
+Jennifer:  I think
+
+445
+01:16:39.650 --> 01:16:40.689
+Jennifer: that was it.
+
+446
+01:16:42.310 --> 01:16:55.600
+Jennifer: Maybe I think I'm trying to remember. No, I think. Well, the settings, the settings didn't work, either. Yeah. The settings didn't work either. Yup.
+
+447
+01:16:55.640 --> 01:16:58.019
+Jennifer: and those were the ones that I can remember.
+
+448
+01:16:59.170 --> 01:17:18.979
+Jennifer: Alright cool before we exit we let's close out the notescribe
+
+449
+01:17:18.990 --> 01:17:23.920
+Jennifer: currently yourself, heard body manager. 506. Selectable live at zoom
+
+450
+01:17:24.160 --> 01:17:27.039
+money, money, map, notes drive 406.
+
+451
+01:17:38.960 --> 01:17:44.420
+Interviewer: Yeah. Oh, okay. Alright. Ellen. Install it. Just give me a second.
+
+452
+01:18:13.110 --> 01:18:28.020
+Interviewer: Okay.
+
+453
+01:18:28.460 --> 01:18:31.429
+Interviewer: Alright. Well, thank you so much. It was great talking with you again.
+
+454
+01:18:31.730 --> 01:18:35.030
+Interviewer: Take care, yeah, you, too. Bye, bye.

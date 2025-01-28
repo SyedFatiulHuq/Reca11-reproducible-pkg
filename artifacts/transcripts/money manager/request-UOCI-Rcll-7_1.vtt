@@ -1,0 +1,1993 @@
+WEBVTT
+
+1
+00:14:49.440 --> 00:14:50.410
+Interviewer: Check.
+
+2
+00:14:52.200 --> 00:14:53.030
+Jack: Hello!
+
+3
+00:14:54.190 --> 00:14:55.320
+Interviewer: Hi! How are you?
+
+4
+00:14:55.520 --> 00:14:57.150
+Jack: Good! Can you hear me?
+
+5
+00:14:57.350 --> 00:15:00.910
+Interviewer: Awesome? Yeah. Can you hear? You awesome?
+
+6
+00:15:02.570 --> 00:15:07.700
+Interviewer: Hey? Were you able to install both the apps.
+
+7
+00:15:08.380 --> 00:15:11.669
+Jack: I was able to install money manager and no describer.
+
+8
+00:15:12.510 --> 00:15:13.780
+Interviewer: Okay, great
+
+9
+00:15:17.910 --> 00:15:18.630
+bugs.
+
+10
+00:15:21.620 --> 00:15:25.860
+Interviewer:  are you able to share your screen?
+
+11
+00:15:26.060 --> 00:15:26.890
+Jack: Yes.
+
+12
+00:15:35.430 --> 00:15:39.840
+Jack: okay. Let me grab the I'm going to
+
+13
+00:15:41.280 --> 00:15:45.250
+Jack: Oh. and no describer's service is running.
+
+14
+00:15:46.560 --> 00:15:47.520
+Interviewer: Oh, okay.
+
+15
+00:15:50.370 --> 00:15:52.279
+Jack: okay. And money manager.
+
+16
+00:15:53.750 --> 00:15:54.920
+Jack: Mean here.
+
+17
+00:15:56.940 --> 00:15:57.760
+Jack: okay.
+
+18
+00:15:59.040 --> 00:16:02.429
+Jack: like, get get grab this. Get the audio here going
+
+19
+00:16:12.390 --> 00:16:13.560
+Jack: hour on
+
+20
+00:16:30.060 --> 00:16:31.199
+Jack: to get the
+
+21
+00:16:36.220 --> 00:16:37.000
+Jack: grab that
+
+22
+00:16:46.670 --> 00:16:51.340
+Jack: sorry the audio stream is taking a little while to connect to come on here. Let's see.
+
+23
+00:16:51.690 --> 00:16:52.639
+Interviewer: no worries.
+
+24
+00:16:52.990 --> 00:16:55.180
+Jack: Herring. and there we go
+
+25
+00:17:00.140 --> 00:17:04.129
+Jack: connected other devices, heading for 13
+
+26
+00:17:04.349 --> 00:17:10.870
+Jack: overview pixel settings, connected passes, money manager, money manager, open navigation drawer, button
+
+27
+00:17:12.510 --> 00:17:21.190
+Jack: talk. Capt talk, text talk. VoIP, show screen voice commands, show showing. Scrape back money, manager, open navigation drawer button out of list.
+
+28
+00:17:22.560 --> 00:17:23.430
+Jack: Okay.
+
+29
+00:17:32.070 --> 00:17:34.280
+Jack: okay? Can you see the screen.
+
+30
+00:17:34.730 --> 00:17:37.920
+Interviewer: Yeah, I can. Can you see? And you can hear the audio.
+
+31
+00:17:38.260 --> 00:17:39.210
+Interviewer: I can.
+
+32
+00:17:39.980 --> 00:17:40.990
+Jack: Wonderful.
+
+33
+00:17:41.520 --> 00:17:44.810
+Interviewer: I'm seeing a screen that is pizzer
+
+34
+00:17:46.340 --> 00:17:50.570
+Jack: open navigation drawer button. You're not seeing.
+
+35
+00:17:51.420 --> 00:17:53.540
+Interviewer: I'm not saying your phone, I'm seeing.
+
+36
+00:17:53.790 --> 00:17:55.419
+Jack: Oh, hold on.
+
+37
+00:18:01.640 --> 00:18:02.920
+Jack: hey?
+
+38
+00:18:04.130 --> 00:18:05.710
+Jack: bug, let's see.
+
+39
+00:18:09.420 --> 00:18:10.399
+Jack: There we go.
+
+40
+00:18:11.920 --> 00:18:17.060
+Interviewer: Yeah. Business. Okay. Can you hear the expenses. How's that? Yeah.
+
+41
+00:18:17.350 --> 00:18:22.130
+Interviewer: yeah, that's good. Before we get started, I want to introduce myself.
+
+42
+00:18:22.310 --> 00:18:33.470
+Interviewer: I am. So I am <identity>. And I'm doing a research project. So I'm glad to do it. and gave that time
+
+43
+00:18:33.490 --> 00:18:35.479
+Interviewer: for for this interview.
+
+44
+00:18:36.550 --> 00:18:44.569
+Interviewer: So today I would like to analyze the accessibility and usability of manual, which is an open source application.
+
+45
+00:18:45.050 --> 00:18:55.469
+Interviewer: And in this app you can track your expenses with features like adding transactions, adding incomes, creating budget plans, and
+
+46
+00:18:55.690 --> 00:18:59.569
+Interviewer: observing like analysis of your spending habits.
+
+47
+00:19:00.200 --> 00:19:01.570
+Interviewer: Okay?
+
+48
+00:19:01.770 --> 00:19:15.340
+Interviewer: And you already said that you set up no scribe. So noscribe is going going to be a background application that will monitor like your user interaction with money management.
+
+49
+00:19:16.010 --> 00:19:19.150
+Interviewer: Yeah, that is strictly, strictly for our research purposes.
+
+50
+00:19:20.450 --> 00:19:23.400
+Jack: And I'll write the notes slide. Come on.
+
+51
+00:19:23.480 --> 00:19:24.850
+Interviewer: yeah, to describe it.
+
+52
+00:19:24.890 --> 00:19:43.829
+Interviewer: and for money manager, I will ask you to first navigate the whole app and use some of these features by yourself, without any instruction or intervention from me, and if you find something that is an obstruction that you cannot process, then you can just give
+
+53
+00:19:43.920 --> 00:19:46.410
+Interviewer: that test, but I won't intrude on.
+
+54
+00:19:46.830 --> 00:19:53.719
+Jack: That will be the first phase and the second phase. I will ask you to do some tests
+
+55
+00:19:53.740 --> 00:19:55.940
+Jack: so just navigating on the home screen for now.
+
+56
+00:19:56.690 --> 00:20:02.499
+Interviewer: and also please feel free to think aloud
+
+57
+00:20:02.510 --> 00:20:04.800
+Interviewer: because that is a big
+
+58
+00:20:05.050 --> 00:20:28.750
+Interviewer: part of our research is to know, like what you are thinking, or what kind of obstacles you are facing. So please think about while you are navigating the application for sure, for sure. Okay, I'm going to start. So starting on the top left corner of the screen.
+
+59
+00:20:30.440 --> 00:20:36.969
+Jack: oh, Pixel, launcher money settings connect a device overview. Pixel launcher settings can close
+
+60
+00:20:37.120 --> 00:20:40.380
+Jack: task. Node, scribe, node, scribe, stop service, button!
+
+61
+00:20:40.970 --> 00:20:43.539
+Interviewer: Can I so click on, start service again.
+
+62
+00:20:44.030 --> 00:20:45.560
+Jack: start service, button
+
+63
+00:20:46.480 --> 00:20:55.759
+Jack: accessibility, navigate up? But up they toured in buffalo. Sis authenticator. Off they toured in tools. Link
+
+64
+00:20:55.860 --> 00:20:57.140
+Jack: no scribe service.
+
+65
+00:20:57.170 --> 00:21:00.970
+Interviewer: no scribes use note options heading, yeah. Turn it on
+
+66
+00:21:01.120 --> 00:21:20.799
+Jack: off about node scribes off shortcut settings, switch no options heading, no scribes, or allow Node Scribe service to have full control is a pro view. It can read off view and perform action. It can track or interact, allow. But deny, allow I'll press and hold both volume keys. Hold all young keys, more options, cancel.
+
+67
+00:21:21.180 --> 00:21:32.110
+Jack: not checked. Hold all your keys, check, cancel, but save button, cancel, cancel, no scribe service, no scribe service, shortcut options had to use no scribe service off
+
+68
+00:21:32.290 --> 00:21:41.170
+Jack: settings, view and control screen. It can view and it can track your allow, deny, and install, deny. Allow my apologies. Use no scribe service on
+
+69
+00:21:41.400 --> 00:21:56.370
+Jack: no switch
+
+70
+00:21:57.160 --> 00:22:00.399
+Jack: back accessibility. No scribes are back.
+
+71
+00:22:00.620 --> 00:22:02.789
+Jack: no subscribe start service, button.
+
+72
+00:22:02.970 --> 00:22:26.590
+Jack: authenticator or accessibility, no scribe service, not working tap for info, no scribe service, navigate up, use no options, heading. No scribe, use node, scribe service, stop cancel, stop nodes, cancel, stop button, stop no scribe service, use noescribe service
+
+73
+00:22:27.200 --> 00:22:36.769
+Jack: settings, allow Node scribe service to full view, click, view, click, allow, deny, but allow. Allow no scribe service. Use node, scribe service on switch in list, 4 items.
+
+74
+00:22:37.250 --> 00:22:44.400
+Jack: navig use, note, scribe back, accessibility. No scribe service back, no inscribe, start service button
+
+75
+00:22:44.650 --> 00:22:46.420
+Jack: start service is still showing
+
+76
+00:22:46.920 --> 00:22:56.239
+Jack: accessibility. Now start service button, authentic button, dead tools, link
+
+77
+00:22:56.620 --> 00:23:08.850
+Interviewer: Tasker 11 to 43. Money manager, regardless
+
+78
+00:23:08.920 --> 00:23:12.780
+Jack: money manager, open navigation drawer. Okay, so are we good to go?
+
+79
+00:23:12.960 --> 00:23:18.659
+Interviewer: Yeah. Okay. So starting from the top left to the screen, like, we already know good conventions. I see expenses
+
+80
+00:23:19.020 --> 00:23:28.679
+Jack: built, month's expenses. 4 options, button in the more options. Category. Name your expenses this month total expenses an expense, button button
+
+81
+00:23:29.170 --> 00:23:36.940
+Jack: open navigation once. Pretty simple screen with an expense button. Let's click this and expense.
+
+82
+00:23:37.080 --> 00:23:37.830
+Jack: of course.
+
+83
+00:23:38.840 --> 00:23:39.570
+Interviewer: Sure.
+
+84
+00:23:39.740 --> 00:23:44.080
+Interviewer: that's all up to. It's like you are.
+
+85
+00:23:44.360 --> 00:23:52.099
+Interviewer: You have installed this app, you know that is something to do with budget tracking. So you just yeah. Freeform. Use it.
+
+86
+00:23:52.850 --> 00:24:01.289
+Jack: Indeed. Okay. enter info, detect it. Product category. A new transaction drop detected. Icon down drop-down list.
+
+87
+00:24:01.750 --> 00:24:10.420
+Jack: Okay? So there's a if you heard say, detected icon, that that means wh that icon, the drop down list is not labelled
+
+88
+00:24:10.660 --> 00:24:17.149
+Jack: so Talkback tried to make sense of it. Did a pretty decent job. But
+
+89
+00:24:17.180 --> 00:24:20.589
+Jack: there's nothing that can quite come close to actually good
+
+90
+00:24:20.690 --> 00:24:23.620
+Jack: like full ui labels.
+
+91
+00:24:24.460 --> 00:24:28.260
+Interviewer: So that area being unlabeled, if you could.
+
+92
+00:24:28.630 --> 00:24:40.949
+Jack: If that could be labeled that would make that drop down list clear as to what it was detected, a product, a new transaction prop detected. Icon down, drop down list. I do believe this is a category listing, so let's click it.
+
+93
+00:24:41.630 --> 00:24:44.120
+Jack: Enter info edit box detected. Icon.
+
+94
+00:24:45.260 --> 00:24:46.660
+Jack: Nothing's happening.
+
+95
+00:24:48.980 --> 00:24:56.179
+Jack: Info edit box detect. Enter info edit. Box characters entered 0 and detected icon down. Drop down list.
+
+96
+00:24:58.710 --> 00:25:04.179
+Jack: Nothing's happening. September 13, 2, September 6, 2,000. Transfer info edit box.
+
+97
+00:25:04.530 --> 00:25:10.369
+Jack: The product category dropdown list is not showing a list
+
+98
+00:25:10.570 --> 00:25:12.250
+Jack: or not popping up anything.
+
+99
+00:25:13.690 --> 00:25:16.469
+Interviewer: Why do you think that? Why do you think that's happening?
+
+100
+00:25:16.670 --> 00:25:17.979
+Jack: So when I double, tap
+
+101
+00:25:20.530 --> 00:25:21.410
+Jack: nothing
+
+102
+00:25:21.930 --> 00:25:23.010
+Interviewer: double tap and hold
+
+103
+00:25:24.980 --> 00:25:27.179
+Jack: detected like product category?
+
+104
+00:25:28.320 --> 00:25:32.610
+Interviewer: So why do you think the the job done isn't working?
+
+105
+00:25:33.080 --> 00:25:38.950
+Jack: I have no idea why it is not working when it says the drop down list. I wonder if
+
+106
+00:25:41.280 --> 00:25:47.049
+Jack: okay, let me see, let's try. Product. Capitack. Enter info edit box detected icon down drop-down list.
+
+107
+00:25:50.580 --> 00:25:57.009
+Jack: enter info, detect it, enter characters enter 0. It's not working so that might must be a bug.
+
+108
+00:25:57.620 --> 00:25:59.380
+Interviewer: Okay, accessibility, bug.
+
+109
+00:26:03.100 --> 00:26:06.750
+Interviewer: get them, carry on with the other edit boxes.
+
+110
+00:26:07.300 --> 00:26:10.089
+Jack: Characters enter, enter info at dollar, sign
+
+111
+00:26:11.990 --> 00:26:14.979
+Jack: dollar sign. enter info edit. Box
+
+112
+00:26:16.630 --> 00:26:23.499
+Jack: dollars, transaction date 2,023, Friday, September 15 previous month, button next month.
+
+113
+00:26:23.570 --> 00:26:35.369
+Jack: September first, 2,023, September second, 2,020, September fifth, Tuesday, September fifth, 2,023. Selected section information date works, September September 20, September overview, Button.
+
+114
+00:26:35.690 --> 00:26:41.419
+Jack: September 29, 2,012 preventer info detect product and neutron.
+
+115
+00:26:41.900 --> 00:26:46.090
+Jack: September 32,023. Enter info edit box out of pager.
+
+116
+00:26:47.190 --> 00:26:50.840
+Jack: Neither does the edit box doesn't work. Either. Characters entered 0 of 10.
+
+117
+00:26:51.330 --> 00:26:54.179
+Jack: Enter info, edit, box, transaction date.
+
+118
+00:26:54.580 --> 00:27:04.770
+Jack: enter info dollar sign characters, enter 0 info edit box does not say, detectives. Icon. Yeah. Product category, a new transact.
+
+119
+00:27:05.860 --> 00:27:09.210
+Jack: Okay. So neither the drop down list nor the edit box are working.
+
+120
+00:27:09.890 --> 00:27:11.829
+Interviewer: Oh, the aid books are not working.
+
+121
+00:27:12.070 --> 00:27:13.679
+Jack: not either. No?
+
+122
+00:27:14.700 --> 00:27:19.540
+Interviewer: Oh, II can see that it is focus showing the person.
+
+123
+00:27:19.740 --> 00:27:21.819
+Jack: But it's not showing the keyboard.
+
+124
+00:27:21.850 --> 00:27:27.439
+Jack: December 22,023. Interest septic info edit box transaction enter Dollar Sign.
+
+125
+00:27:28.420 --> 00:27:30.150
+Jack: It's not chilling in the keyboard.
+
+126
+00:27:31.340 --> 00:27:33.459
+Interviewer: Hmm! I wonder why?
+
+127
+00:27:34.680 --> 00:27:36.540
+Jack: Well, when it whatever, maybe.
+
+128
+00:27:36.640 --> 00:27:44.279
+Jack: whatever that, whatever the Ui framework this app is, it must not be native. The controls must not be as native or something. I'm not sure.
+
+129
+00:27:45.310 --> 00:27:53.050
+Jack: No, these these are native. These are Google material.
+
+130
+00:27:53.590 --> 00:27:58.269
+Jack: Why, they're not here. Let me restart, talk back. And just to see if that's the problem.
+
+131
+00:28:00.380 --> 00:28:01.469
+Jack: talk back on
+
+132
+00:28:01.760 --> 00:28:05.339
+Jack: help, volume case top enter info dollar sign. Enter
+
+133
+00:28:06.240 --> 00:28:09.830
+Jack: dollar sign. Nope. Restarting talkback doesn't fix the problem.
+
+134
+00:28:11.130 --> 00:28:13.900
+Interviewer: Can you restart the app? Maybe the money manager?
+
+135
+00:28:14.180 --> 00:28:22.060
+Jack: Okay, sure, it's a lunch money close test closed home. Button back over 7 high cue.
+
+136
+00:28:23.510 --> 00:28:26.380
+Jack: Open money manager. I'll tap to dismiss Assistant
+
+137
+00:28:28.910 --> 00:28:33.669
+Jack: home. Button 7 home.
+
+138
+00:28:34.090 --> 00:28:46.730
+Jack: Holmes. Tabs window. Nope, Nope. buy it into your moba settings here by, and T. And ST. 3 K. Move it. Money, manager. money manager, open navigation drawer, months.
+
+139
+00:28:46.950 --> 00:28:53.949
+Jack: more options, category. Name, more months expenses more. Tap your expenses this month. Total expenses and expense. Button
+
+140
+00:28:53.980 --> 00:28:59.279
+Jack: a new transaction product category. The expense button works drop-down list
+
+141
+00:28:59.810 --> 00:29:02.899
+Jack: drop down. List still not working. Enter info edib.
+
+142
+00:29:03.280 --> 00:29:05.730
+Jack: and for info at bucks also not working.
+
+143
+00:29:06.390 --> 00:29:16.540
+Interviewer: So that's so weird because, you are double typing it. And the focus is going on the the edit box. But it's just not popping up the keyboard.
+
+144
+00:29:16.900 --> 00:29:18.670
+Interviewer: not even for you, either.
+
+145
+00:29:18.770 --> 00:29:20.769
+Interviewer: Nope, I don't see the keyboard either.
+
+146
+00:29:20.990 --> 00:29:21.670
+Jack: Huh?
+
+147
+00:29:22.110 --> 00:29:29.930
+Interviewer: This this new. Let's go back and try something as you can. Other stuff
+
+148
+00:29:30.380 --> 00:29:38.660
+Jack: money manager at the expense, button open navigation, draw manager, manager, budget, check month expense. Budget categories.
+
+149
+00:29:39.080 --> 00:29:42.620
+Jack: budget analysis. monthly expenses. Announced budget plans.
+
+150
+00:29:43.810 --> 00:29:50.000
+Jack: month, budget open navigations are budget more options. But category name budget
+
+151
+00:29:50.070 --> 00:29:55.059
+Jack: unlabeled, button detected unlabeled add add button is unlabeled.
+
+152
+00:29:55.930 --> 00:30:08.210
+Jack:  Wonder with why? I wonder, if that's, why, the drop down list was not showing category info category name edit box screen, array, mode, tabletop mode. Place your device with the charging port to the left, showing braille keyboard.
+
+153
+00:30:08.370 --> 00:30:09.140
+Jack: You
+
+154
+00:30:14.190 --> 00:30:27.209
+Jack: Internet. And let's call this Internet and front keyboard characters enter date budget. Write the maximum amount of money you can spend in this category. Edit box. tape, screen away, mode, screen away mode showing for a number
+
+155
+00:30:27.500 --> 00:30:35.149
+Jack: wafa 0 keyboard, clear 150 edit box clear, write the maximum amount of money you can spend in this category and come button.
+
+156
+00:30:36.580 --> 00:30:41.329
+Jack: budget, Internet and phone characters. Enter one clear, write the maximum and come
+
+157
+00:30:42.240 --> 00:30:47.909
+Jack: money manager detected icon, add button, $150 in list. Okay, the
+
+158
+00:30:48.070 --> 00:30:49.070
+Jack: add
+
+159
+00:30:50.380 --> 00:30:58.440
+Jack: that, add that file, submit. Button was mislabeled. It said, add income, with probably I think it should have, was supposed to say, add category.
+
+160
+00:30:59.450 --> 00:31:14.159
+Jack: You're right. Alright. Let's add another one. Add in phone budget out of List category name. but it went detected. Budget category info categories entered 0 with budget. Write the maximum up character category, name, edit.
+
+161
+00:31:15.010 --> 00:31:16.029
+Jack: screen away mote.
+
+162
+00:31:18.110 --> 00:31:22.570
+Jack: keep Cara's budget screen or waymo number 0
+
+163
+00:31:22.940 --> 00:31:25.149
+Jack: cable. Clip right in the head and come
+
+164
+00:31:26.110 --> 00:31:30.589
+Interviewer: money manager detected back button window. Umhm.
+
+165
+00:31:31.650 --> 00:31:34.610
+Jack: Now let's see if that dropdown comes to Peters, back
+
+166
+00:31:34.930 --> 00:31:43.869
+Jack: utilities Internet and phone your expect category, name or options button. Once expect open navigation, draw menu money checked month's expense checked open
+
+167
+00:31:44.880 --> 00:31:56.830
+Jack: 0 utility, 0 $0. What total expenses, addiction. drink and phone add new transaction product category to enter info edit, detected icon down, drop-down like
+
+168
+00:31:57.300 --> 00:32:02.260
+Jack: pop-up window Internet phone enlist utilities. Internet.
+
+169
+00:32:02.620 --> 00:32:06.370
+Jack: add new transaction detected. I enter info edit box
+
+170
+00:32:07.670 --> 00:32:10.010
+Jack: showing Braille, keyboard, English braille.
+
+171
+00:32:11.080 --> 00:32:18.940
+Jack: keyboard, clear text, button, 80 edit box. Clear characters. Enter 2 of enter info, transaction date, enter info, edit. Box.
+
+172
+00:32:19.600 --> 00:32:25.180
+Jack: trans. 2,023 trep. Enter 80 edit box. okay.
+
+173
+00:32:27.010 --> 00:32:33.070
+Jack: keep Internet, edit box, click, enter info, edit box, dollar, sign, screen away, mode, no R.
+
+174
+00:32:33.290 --> 00:32:35.680
+Jack: Keyboard. Enter info, edit. Box.
+
+175
+00:32:36.420 --> 00:32:40.010
+Jack: screen away mode showing for a number 8. 0
+
+176
+00:32:40.710 --> 00:32:50.319
+Jack: keyboard, 80 edit box enter, invite both edit boxes, say, enter info. However, one of them sounds like the line item, name.
+
+177
+00:32:50.950 --> 00:32:54.379
+Interviewer: and this one sounds like a dollar amount. Cause talk bets, said Dollar sign.
+
+178
+00:32:56.610 --> 00:33:01.069
+Jack: So if the labels could be changed to something more descriptive
+
+179
+00:33:02.560 --> 00:33:03.440
+got it.
+
+180
+00:33:03.620 --> 00:33:07.539
+Jack: For example, the first one says, enter line item, and the second one says, Enter amount
+
+181
+00:33:08.540 --> 00:33:09.220
+Umhm.
+
+182
+00:33:09.670 --> 00:33:14.539
+Interviewer: sign, clear text. But
+
+183
+00:33:14.650 --> 00:33:30.120
+Interviewer: how big is it? Internet detected? Icon product category detected? 10. No, II can see like this hint underneath that say, product, name, product price. But topic isn't
+
+184
+00:33:41.010 --> 00:33:42.400
+Jack: as a label.
+
+185
+00:33:43.250 --> 00:33:48.430
+Interviewer: And what do you think about the dropdown list? What happened. Actually.
+
+186
+00:33:48.550 --> 00:33:53.949
+Jack: it is working now. I would think it would be. It would behoove users to have a
+
+187
+00:33:54.230 --> 00:33:59.180
+Jack: maybe when they first install the app, it said, Okay, welcome. Let's get you set up with some categories
+
+188
+00:33:59.330 --> 00:34:00.400
+Interviewer: because
+
+189
+00:34:00.740 --> 00:34:05.500
+Jack: I mean, it makes sense. You need. You can't have a budget line item without a category. However.
+
+190
+00:34:07.570 --> 00:34:18.769
+Jack: the app doesn't tell you that when you install it so it makes you think that the drop down list is broken when in reality it's just waiting for you to add some categories before you can add some line items.
+
+191
+00:34:20.159 --> 00:34:24.569
+Interviewer: Absolutely. There should be some context clues to.
+
+192
+00:34:24.770 --> 00:34:27.019
+Jack: Yes. So you look at an intro screen like
+
+193
+00:34:28.070 --> 00:34:33.159
+Jack: before we get started. Tell me what your categories are. Your spending categories?
+
+194
+00:34:35.330 --> 00:34:38.489
+Interviewer: Great? Okay? You can add this transaction.
+
+195
+00:34:39.090 --> 00:34:50.009
+Jack: $80 sign, clear tech transaction date, previous month, next month, September first, 2,023 Friday, September for product category. A new trend
+
+196
+00:34:50.500 --> 00:34:58.020
+Jack: detected. Icon Internet character, $80, cleartext transaction date 2,020. Sept. September the sixteenth, 2,023
+
+197
+00:34:58.780 --> 00:35:11.879
+Jack: steps a transaction button out of pager September transaction. Okay, add transaction. Button should absolutely be in the top right hand corner of the screen.
+
+198
+00:35:13.410 --> 00:35:19.810
+Jack: where most done buttons are inside applications, and where the more options button is in this application's home screen.
+
+199
+00:35:22.420 --> 00:35:25.230
+Interviewer: but because, having to roll all the way to the bottom
+
+200
+00:35:28.300 --> 00:35:37.500
+Jack: to find the add transaction, button was made it a little cumbersome. It is empty. You cannot buy anything for now. Money manager at the expense, button, button.
+
+201
+00:35:40.060 --> 00:35:46.070
+Jack: total expense, utility.
+
+202
+00:35:46.340 --> 00:35:49.270
+Jack: It says something is empty. You cannot buy anything right now
+
+203
+00:35:49.390 --> 00:35:56.230
+Jack: it sent your wallet to something. Oh, the wallet. Okay, that category. Name more options, once expense spoken, navigation drawer
+
+204
+00:35:56.940 --> 00:36:06.979
+Jack: and money check budget, budget analysis, monthly expense, budget plan. month. But budget checked month's expenses, money manager, check budget categories. budget analysis.
+
+205
+00:36:07.260 --> 00:36:09.809
+Jack: monthly expenses, analysis, budget plans
+
+206
+00:36:10.240 --> 00:36:11.030
+Jack: back.
+
+207
+00:36:11.360 --> 00:36:15.499
+Jack: MST. 3 K. Money Management
+
+208
+00:36:15.620 --> 00:36:25.200
+Jack: monthly. Budget budget checked. checked. Open 1. 6 more options, but pop-up window, your wallet inlet heading. Come. I think, settings
+
+209
+00:36:25.350 --> 00:36:29.490
+Jack: head and come to your wallet, head and come button money. Amount, edit, box.
+
+210
+00:36:30.400 --> 00:36:36.160
+Jack: screen, tape, screen away mode tabletop mode, number 8, 0 0 keyboard, clear text, but
+
+211
+00:36:36.360 --> 00:36:53.950
+Jack: 8. I didn't come. Button. Your wallet contains now 800.0 money manager, 4 options button category, your expense, Internet info, $0, 0 slot. There's a lot of things that the app lets you do or acts like it's going to let you do.
+
+212
+00:36:54.570 --> 00:36:57.449
+Jack: and then lets you know you can't do them when it's too late.
+
+213
+00:36:57.760 --> 00:37:02.740
+Interviewer: Have to have to reset and start all over again.
+
+214
+00:37:02.830 --> 00:37:04.700
+Jack: Exactly. Exactly.
+
+215
+00:37:07.430 --> 00:37:11.009
+Jack: So. I think there should be like all this stuff that's about like.
+
+216
+00:37:11.050 --> 00:37:13.670
+So the app, the. So one, the app basically
+
+217
+00:37:13.770 --> 00:37:19.150
+Jack: told you without telling you that you need category. You need categories before you can put line items.
+
+218
+00:37:19.210 --> 00:37:33.700
+Jack: Then it told you you need money before you can budget it, which is obvious which makes sense, but it should be something that they have. Well. have you set up first before you start adding line items kind. It's like
+
+219
+00:37:34.000 --> 00:37:39.119
+Jack: the order of events here doesn't really follow what
+
+220
+00:37:39.260 --> 00:37:41.480
+Jack: orderly path, as it were.
+
+221
+00:37:43.170 --> 00:37:48.369
+Interviewer: You got it? Sure you're right. So there should be some
+
+222
+00:37:48.400 --> 00:37:57.580
+Interviewer: like screens that this to configure all these stuff, and then list to add a new transaction. Yes, like when when you first.
+
+223
+00:37:59.120 --> 00:38:02.389
+Interviewer: when you first launch the app, say, Okay.
+
+224
+00:38:02.450 --> 00:38:08.139
+Jack: Hi, welcome to, you know late manager. Before we get started. Tell me how much money you make per month.
+
+225
+00:38:09.410 --> 00:38:13.410
+Jack: $1,000. Let's say, okay, great. So what are your
+
+226
+00:38:15.010 --> 00:38:16.710
+Jack: what are your
+
+227
+00:38:18.170 --> 00:38:22.690
+Jack: What are your expense categories or spending categories? And then you do that.
+
+228
+00:38:23.300 --> 00:38:26.109
+Jack: So then, by the time you have the app started.
+
+229
+00:38:26.260 --> 00:38:30.470
+Jack: or maybe he could, and he could even do something like they could even do
+
+230
+00:38:30.940 --> 00:38:42.020
+Jack: some example, categories with like check boxes like, Do use. Do you do? Do you have categories of following rent, checkbox, auto loan, checkbox or
+
+231
+00:38:42.140 --> 00:38:51.650
+Jack: auto insurance check box like just a bunch of preset kind of run of the mill categories that you could just quickly add without having to type them out.
+
+232
+00:38:51.960 --> 00:38:57.099
+Jack: And then the ones you actually have of your own. Then you can type those out type only the ones you need
+
+233
+00:38:57.400 --> 00:38:59.840
+Jack: to type out in that regard.
+
+234
+00:39:01.240 --> 00:39:02.660
+Interviewer: And yep.
+
+235
+00:39:03.080 --> 00:39:06.709
+Jack: that would make the on that would make the on morning
+
+236
+00:39:06.850 --> 00:39:10.310
+Jack: easy, and I mean it'll make the app more. Let's face it more personal.
+
+237
+00:39:10.740 --> 00:39:12.100
+Interviewer: It's true.
+
+238
+00:39:12.710 --> 00:39:18.920
+Jack: which is kind of similar to like when you open a a new social media account, or like a forum
+
+239
+00:39:18.970 --> 00:39:26.430
+Interviewer: paying the credit and it when you start, it says, like what summers or what topics you're interested in.
+
+240
+00:39:26.470 --> 00:39:31.790
+Interviewer: So with a group of subscriptions, or if you
+
+241
+00:39:31.940 --> 00:39:36.629
+Jack: watch a TV streaming service that could say, like, what are you? You know. What kind of
+
+242
+00:39:36.740 --> 00:39:40.220
+Jack: show genres are you interested, or what channels are you interested.
+
+243
+00:39:40.450 --> 00:39:41.300
+Interviewer: Umhm?
+
+244
+00:39:41.730 --> 00:39:44.560
+Jack: This could be a same thing. There could be a
+
+245
+00:39:45.000 --> 00:39:47.330
+Jack: an efficient user onboarding
+
+246
+00:39:49.490 --> 00:39:53.800
+Jack: process that that way. There's no dead ends.
+
+247
+00:39:54.110 --> 00:39:54.790
+Interviewer: Yeah.
+
+248
+00:39:58.200 --> 00:39:59.099
+Interviewer: that's it.
+
+249
+00:40:00.320 --> 00:40:03.449
+Jack: Thank you. That was, there was no dead ends
+
+250
+00:40:03.610 --> 00:40:10.790
+Jack: like there were when we tried to add something that didn't work. and then we try to do the drop down list, and it was empty, you know and stuff like that.
+
+251
+00:40:13.350 --> 00:40:16.629
+So let's let's try adding a transaction. Now.
+
+252
+00:40:16.640 --> 00:40:22.199
+Interviewer: yeah, let's try an a transaction now which should undoubtedly work this time expenses out of the expense.
+
+253
+00:40:22.650 --> 00:40:25.970
+Jack: Let's do that. Internet and phone a new transaction product category
+
+254
+00:40:27.450 --> 00:40:31.660
+Jack: detected icon. pop-up, window Internet and phone inlet.
+
+255
+00:40:32.000 --> 00:40:34.429
+Jack: add neutral enter info edit box.
+
+256
+00:40:36.430 --> 00:40:38.089
+Jack: screen away mode showing for
+
+257
+00:40:39.520 --> 00:40:44.839
+Jack: cable. Clear characters. Enter enter info at dollar sign, showing numbers, 0
+
+258
+00:40:45.090 --> 00:40:54.310
+Jack: keyboard dollar, sign, clear text, but transaction date 2,023, Friday, September previous month, button next month, September first, 2,000, twentieth Friday.
+
+259
+00:40:54.340 --> 00:40:59.090
+Jack: today's September 20, third, 2,023, overview. Button set September's
+
+260
+00:41:00.720 --> 00:41:20.939
+Jack: September, September 20. The transaction button out of Pager. See with the transaction, add transaction. Button being at the very bottom, you have to scroll all the way up to find it. Action budget category equals. One product. Name equals Internet. Price equals 60.0 by date equals free. September first, 13B h, 56B min and 53B SC, Dt, 2,023 money manager, a expense button button.
+
+261
+00:41:21.090 --> 00:41:32.639
+Jack: total expenses, $0, 0% utility, $60, 40% Slider Internet and phone your expenses this month. Category name. You're it. 40% slot, $60, $150.
+
+262
+00:41:32.810 --> 00:41:43.719
+Jack: I see, we already $60, comma, $150 instead. I think it would say. X dollars out of X dollars for the sake of talk back.
+
+263
+00:41:45.100 --> 00:41:46.000
+Interviewer: I see.
+
+264
+00:41:46.230 --> 00:41:56.949
+Interviewer: yeah, because visually, you can kinda understand? Okay, $60. And then it's underneath. But we talk. It's just too
+
+265
+00:41:57.410 --> 00:42:03.199
+Interviewer: sounds like, wait, are there 2 line items? Or like II know, but
+
+266
+00:42:03.250 --> 00:42:12.540
+Jack: for a completely new user. you may say, wait. Is that my budget? Or are there 2 dollar amounts like 2 separate line items showing?
+
+267
+00:42:14.900 --> 00:42:18.960
+Interviewer: Sure. Can you add another transaction for each of this
+
+268
+00:42:19.810 --> 00:42:29.120
+Jack: 0 $0? Total expenses add the expense. Internet and phone a new transaction detected icon down. pop you
+
+269
+00:42:30.150 --> 00:42:32.690
+Jack: a newt and characters enter 0, enter.
+
+270
+00:42:33.430 --> 00:42:35.009
+Jack: screen away mode showing
+
+271
+00:42:36.690 --> 00:42:44.309
+Jack: cable characters, enter native 10, enter info and dollar, sign screen number 9, number not number number number, not 0
+
+272
+00:42:44.570 --> 00:42:50.799
+Jack: cable dollar sign, clear tax, Trent to previous next September, September second, 2,020 Saturday.
+
+273
+00:42:51.360 --> 00:42:58.060
+Jack: A transaction transaction budget, category total expenses, $90. Total expenses out of list.
+
+274
+00:42:58.530 --> 00:43:12.970
+Jack: add expense, button button total, $90, 190% slider utilities, $60, 40% slider Internet and phone your expenses. This category name more options once expenses.
+
+275
+00:43:13.180 --> 00:43:17.459
+Interviewer: So we have the 2 transactions listed.
+
+276
+00:43:19.770 --> 00:43:21.300
+Jack: one per category.
+
+277
+00:43:22.240 --> 00:43:23.910
+Jack: Now nice.
+
+278
+00:43:24.110 --> 00:43:26.099
+Jack: We could probably try and adding a
+
+279
+00:43:26.800 --> 00:43:30.570
+Jack: second one in the Internet and phone category
+
+280
+00:43:31.920 --> 00:43:37.289
+Jack: expense button new transaction product category
+
+281
+00:43:37.610 --> 00:43:39.489
+Jack: for the this, one
+
+282
+00:43:40.110 --> 00:43:45.409
+Interviewer: 150 of $250.
+
+283
+00:43:46.910 --> 00:43:53.179
+Interviewer: Yeah, you calculated it. But I was thinking of the ampute surface telling you anything.
+
+284
+00:43:53.280 --> 00:43:57.370
+Jack: Oh. money manager and total expenses.
+
+285
+00:43:58.920 --> 00:44:00.120
+Jack: Didn't say anything.
+
+286
+00:44:00.210 --> 00:44:03.920
+Interviewer: $90! What total expenses.
+
+287
+00:44:04.070 --> 00:44:06.229
+Jack: Then say this weird odd.
+
+288
+00:44:07.980 --> 00:44:11.630
+Interviewer: we can add, a budget plan, though.
+
+289
+00:44:12.420 --> 00:44:14.980
+Jack: Okay, now that we have, we do, we have enough information for it.
+
+290
+00:44:16.130 --> 00:44:31.349
+Jack: Okay, budget categories, budget analysis. monthly expenses, and Alice budget plans. There we go, open navigation drawer budget, more options. But your wallet contains enough money for this plan
+
+291
+00:44:32.040 --> 00:44:45.310
+Jack: your wallet. Your wallet contains enough money for this plan. The deadline of this plan has passed. The deadline of this plan has passed. It's a grab bag budget plan like, what? What are the plan? Button detected?
+
+292
+00:44:46.220 --> 00:44:54.389
+Jack: Detected icon, add button no label for the Add button, I mean talk talkback is doing a decent job.
+
+293
+00:44:54.510 --> 00:44:58.640
+Jack:  However, it is worth bearing in mind.
+
+294
+00:44:59.140 --> 00:45:10.890
+Jack: This is a pixel 6 pro. And probably has a good machine learning kip in it, too, when compared to say. a budget. Phone from like Walmart, or something like that
+
+295
+00:45:12.480 --> 00:45:20.589
+Jack: which would explain why it's doing a better job. You know, the the results are probably going to be varied greatly on image recognition, I would imagine.
+
+296
+00:45:21.580 --> 00:45:25.749
+Interviewer: Yep, I'm pretty sure there is some on-device machine learning going on somewhere
+
+297
+00:45:28.120 --> 00:45:29.519
+Jack: to make that happen.
+
+298
+00:45:32.330 --> 00:45:36.059
+Jack: So whenever there is like something like that.
+
+299
+00:45:37.280 --> 00:45:45.219
+Jack: what you hear from talk back on this phone might be completely different from another phone. So adding pure labels to the buttons, is still the way to go.
+
+300
+00:45:49.150 --> 00:45:49.840
+Interviewer: Yep.
+
+301
+00:45:51.180 --> 00:45:51.850
+Jack: stay
+
+302
+00:45:51.970 --> 00:45:54.699
+Jack: speaking of labels, now that we mentioned that
+
+303
+00:45:55.930 --> 00:45:58.149
+Jack: none of these budget plans are labeled
+
+304
+00:46:00.910 --> 00:46:02.640
+which is unlabeled.
+
+305
+00:46:03.710 --> 00:46:09.270
+Jack: the depth your wallet contains enough money for this plan. Your wallet contains enough money for this plan. Well, what plan?
+
+306
+00:46:10.490 --> 00:46:13.919
+Interviewer: All? It contains enough money for this plan also. What plan?
+
+307
+00:46:15.740 --> 00:46:19.010
+Interviewer: What do you think these? These text is referring to?
+
+308
+00:46:20.310 --> 00:46:29.710
+Jack: Referring to certain plan? It it seems like there are 4 plans, cause there are 4 items, 1, 2 of them say your wallet contains enough money for this plan. 2 of them say
+
+309
+00:46:30.770 --> 00:46:33.910
+Jack: the deadline for this plan has expired.
+
+310
+00:46:35.960 --> 00:46:37.470
+Interviewer: but no other information.
+
+311
+00:46:38.130 --> 00:46:40.389
+no other information other than the add button
+
+312
+00:46:41.050 --> 00:46:46.590
+Jack: detected like
+
+313
+00:46:46.630 --> 00:46:50.570
+Jack: plan info, plan, title, edit, box. characters, plan, type
+
+314
+00:46:50.750 --> 00:46:53.340
+Jack: screener way, mode showing frail tech
+
+315
+00:46:54.220 --> 00:46:58.340
+Jack: cable characters. Entered 9 of 50 plan description, edit, box.
+
+316
+00:46:59.980 --> 00:47:01.080
+Jack: screen away mode
+
+317
+00:47:02.970 --> 00:47:05.480
+Jack: a, a test, that
+
+318
+00:47:06.060 --> 00:47:09.180
+Jack: is it. You have H. Deleted, a
+
+319
+00:47:11.150 --> 00:47:12.810
+Jack: de-delated budget, deleted, deleted.
+
+320
+00:47:15.120 --> 00:47:15.780
+Jack: and
+
+321
+00:47:17.300 --> 00:47:18.859
+Jack: done. 6 space delete
+
+322
+00:47:19.200 --> 00:47:26.170
+Jack: keep clear text, but character limit exceeded plans. Budget edit. Character limit exceeded 57 and 50. Clear. This is a test that assumes
+
+323
+00:47:26.980 --> 00:47:29.050
+Jack: show budget, deleted and limited, deleted
+
+324
+00:47:30.920 --> 00:47:42.260
+Jack: and limited. Next B. Space deleted. unlimited maximum length reached unlimited space deleted. I did that mode. Place your device with the chart on account of, I figured that was going to happen.
+
+325
+00:47:43.290 --> 00:47:48.659
+Jack: We certainly do not have characters now.
+
+326
+00:47:48.710 --> 00:47:51.520
+Interviewer: The edit box does act like you do, though.
+
+327
+00:47:51.870 --> 00:48:04.109
+Jack: So maybe if there's something that could like throw you out of the edit box somehow, and said, Please, delete some characters like an alert or just something that stops accepting character input or plays a set.
+
+328
+00:48:04.130 --> 00:48:07.220
+Jack: Maybe the app could play a sound
+
+329
+00:48:07.700 --> 00:48:08.830
+Jack: For example.
+
+330
+00:48:10.430 --> 00:48:19.699
+Jack: when accessible, twitter clients for the blind or IM clients that had character limits or had to adhere to the character limits of said service.
+
+331
+00:48:20.720 --> 00:48:23.370
+Jack: Had audio alerts.
+
+332
+00:48:23.570 --> 00:48:29.909
+Jack: for when you enter like you could enter a character, and it would be accepted, but it would annoy you with a
+
+333
+00:48:30.120 --> 00:48:34.219
+Jack: a beep for any character that exceeded the limit.
+
+334
+00:48:36.850 --> 00:48:48.389
+Jack: If there's no way to actually reject character input, then that would be the best way to work around, that is, by putting in a clearly noticeable sound that's not
+
+335
+00:48:48.470 --> 00:48:52.940
+Jack: similar to a keyword click or anything like that.
+
+336
+00:48:54.340 --> 00:48:58.680
+Interviewer: Got it. And I think something something like
+
+337
+00:48:58.880 --> 00:49:06.829
+Interviewer: interpret it into the core edit from Google in the core text. You said
+
+338
+00:49:07.470 --> 00:49:15.649
+Interviewer: it is not, but it should be as you mentioned it should. Yeah, it should be built in, because that way you don't have to add, because right like it seems like what you'd have to do is add some sort of
+
+339
+00:49:16.090 --> 00:49:26.699
+Jack: equivalent to like, I know, in Javascript you could do an event. Listener. But, you know, does that do some equivalent to that that gets like listens monitors? How many characters are in the field like, if
+
+340
+00:49:27.410 --> 00:49:31.610
+Jack: if character count greater than 50, play sound kind of thing.
+
+341
+00:49:32.990 --> 00:49:36.710
+Jack: cause I know there's a label. Well, yeah, actually, yeah, you might be able to add that to the
+
+342
+00:49:37.220 --> 00:49:46.520
+Jack: cause. I know if you add some code to the the label that says what character is remaining, they're clearly apps, clearly counting, because that's also not a I don't think the
+
+343
+00:49:46.970 --> 00:49:50.560
+Jack: character limit is also not a built in thing in text fields.
+
+344
+00:49:51.600 --> 00:49:56.460
+Jack: Hence. Why, you have to have external for for edit box.
+
+345
+00:49:56.760 --> 00:50:10.350
+Interviewer:  you can add like a Max count.
+
+346
+00:50:10.670 --> 00:50:25.199
+Jack: but maybe like, because there's something else in the app that's not like the maximum like the character. The current character account is display in its own element. Maybe that could have a something to do with a potential sound
+
+347
+00:50:25.670 --> 00:50:28.199
+Interviewer: effects that would go off like a buzzer
+
+348
+00:50:28.320 --> 00:50:31.010
+Jack: if the character length is is exceeded.
+
+349
+00:50:31.740 --> 00:50:32.450
+Interviewer: Yep.
+
+350
+00:50:33.530 --> 00:50:35.020
+Jack: okay. So
+
+351
+00:50:35.120 --> 00:50:38.990
+Jack: space end of delete have deleted you. Deleted assumes deleted that deleted
+
+352
+00:50:39.680 --> 00:50:45.550
+Jack: clear text, but characters entered 15 clients. Budget, edit box plans. Budget.
+
+353
+00:50:45.730 --> 00:50:48.840
+Jack: It's a confusing label. What's supposed to mean? Deadline date
+
+354
+00:50:50.230 --> 00:50:52.360
+Jack: plans, budget Ed, but budget amount?
+
+355
+00:50:54.010 --> 00:50:55.639
+Interviewer: What do you think a plan is?
+
+356
+00:50:56.500 --> 00:50:59.460
+Jack: So this planet like
+
+357
+00:51:00.170 --> 00:51:02.949
+Jack: how to allocate
+
+358
+00:51:03.130 --> 00:51:05.120
+Jack: and or spend, or save
+
+359
+00:51:05.450 --> 00:51:07.809
+Jack: by? So you know, within a certain timeline.
+
+360
+00:51:08.440 --> 00:51:11.009
+Jack: So yes. So
+
+361
+00:51:12.020 --> 00:51:15.409
+Jack: with the plan's budget, I assume that means dollar amount.
+
+362
+00:51:21.300 --> 00:51:23.140
+Jack: deadline date clients, budget.
+
+363
+00:51:23.180 --> 00:51:25.549
+Jack: dollar, sign, screener way, mode number
+
+364
+00:51:25.820 --> 00:51:27.070
+Jack: 2, 0
+
+365
+00:51:27.400 --> 00:51:32.419
+Jack: keyboard dollar sign clear text, but plan, deadline, date 2,023,
+
+366
+00:51:32.460 --> 00:51:47.219
+Jack: Friday previous month, but next September first, 2,023. In September, September, September September eighteenth, 2,000. September, Septem, Sept. September 20, ninth. Sept. Saturday.
+
+367
+00:51:47.500 --> 00:51:52.899
+Interviewer: A plan button money manager detected that button.
+
+368
+00:51:53.020 --> 00:51:54.100
+Jack: I'm sorry. Was that
+
+369
+00:51:54.390 --> 00:51:56.560
+Interviewer: what's your opinion on the calendar?
+
+370
+00:51:56.830 --> 00:51:58.480
+Jack: Very workable, perfect.
+
+371
+00:51:59.470 --> 00:52:00.330
+Interviewer: Got it?
+
+372
+00:52:01.560 --> 00:52:12.769
+Jack: Test plan. This is the deadline of this plan. Test plan. This is a test. Saturday, September thirtieth, 2,023200. Enlist your wall. Your wallet contains enough money for this plan.
+
+373
+00:52:17.710 --> 00:52:25.790
+Jack: Enough money. Your wallet contains enough money test plans here, but there's not like they're obviously some more than the plans I enter, but they're not saying anything.
+
+374
+00:52:27.570 --> 00:52:28.500
+Interviewer: So.
+
+375
+00:52:28.700 --> 00:52:38.089
+Interviewer: The explanation is is that those 2 options like your wallet, contains enough money. Event has passed are like labels.
+
+376
+00:52:38.350 --> 00:52:40.089
+Interviewer: and they're color-coded.
+
+377
+00:52:40.110 --> 00:52:51.340
+Interviewer: So, for example, while it contains enough, money is green labeled, and your current test plan is like showing green, because you know, it's like you, Wallet.
+
+378
+00:52:51.750 --> 00:52:54.310
+Jack: I see. Okay. I wonder if
+
+379
+00:52:55.580 --> 00:53:02.790
+Jack: I wonder if you could do that some other way to avoid confusion, like maybe maybe grey out. The plans that say
+
+380
+00:53:03.040 --> 00:53:08.160
+Jack: that are just like the plans that you don't have enough money for can just be disabled controls
+
+381
+00:53:08.630 --> 00:53:10.090
+Interviewer: instead.
+
+382
+00:53:10.820 --> 00:53:21.829
+Jack: cause you also like it. Color contrast, you know, contrasting specifically, the color alone is also already is already not a good idea. So
+
+383
+00:53:22.800 --> 00:53:26.309
+Jack:  so yeah, you might want to.
+
+384
+00:53:26.470 --> 00:53:29.370
+Jack:  have an alternate.
+
+385
+00:53:29.820 --> 00:53:31.759
+Jack: an additional method for that
+
+386
+00:53:32.010 --> 00:53:36.860
+Jack: like, especially if we're talking, aligning with a Wcag or something like that.
+
+387
+00:53:38.220 --> 00:53:43.800
+Interviewer:  the color coding is is completely inaccessible.
+
+388
+00:53:44.840 --> 00:53:52.009
+Jack: It's an accessible, for I have no usable vacant, so it would be accessible for me, and it would also be an accessible hmm
+
+389
+00:53:52.330 --> 00:53:54.259
+Jack: to someone with a colorblindness.
+
+390
+00:53:55.070 --> 00:53:56.350
+Jack: Yep.
+
+391
+00:53:56.820 --> 00:54:04.119
+Jack: yeah. So having that be. the only way in which it is identified is a
+
+392
+00:54:05.350 --> 00:54:10.439
+Jack:  doesn't doesn't pass for accessible. So
+
+393
+00:54:11.010 --> 00:54:14.469
+Jack: having the controls be disabled, be grayed out.
+
+394
+00:54:16.120 --> 00:54:21.790
+Jack: would be a much more obvious way of telling people which budgets are. Plans are available and which ones aren't
+
+395
+00:54:22.820 --> 00:54:23.610
+Interviewer: got it.
+
+396
+00:54:24.640 --> 00:54:25.490
+Interviewer: Okay.
+
+397
+00:54:25.750 --> 00:54:29.759
+Jack: that's what I figured it was after I started adding budgets to
+
+398
+00:54:30.510 --> 00:54:36.419
+Jack: when I started adding, budget plan like, Wait, that's not right. Cause it doesn't like it's act like I have one budget plan.
+
+399
+00:54:36.540 --> 00:54:46.870
+Jack: even though it acts like, or it appears it. It makes it appear as though there are more. There are 4 more. even though there aren't. And the 2
+
+400
+00:54:47.020 --> 00:54:51.210
+Jack: said, your wallet has enough money, and then 2 of em say, your wallet is not
+
+401
+00:54:53.640 --> 00:54:54.780
+Interviewer: one of my
+
+402
+00:54:54.900 --> 00:55:01.820
+Interviewer: each of them were announcing it twice, because one of them was announcing it for the color itself, like there is a
+
+403
+00:55:01.850 --> 00:55:08.009
+Interviewer: image of the color. and then the text and topic is announcing both.
+
+404
+00:55:08.060 --> 00:55:13.400
+Interviewer: There are 4 plans. But it's actually just 2 labels
+
+405
+00:55:13.410 --> 00:55:15.610
+Interviewer: indicating the legend of the
+
+406
+00:55:16.350 --> 00:55:18.189
+Interviewer: just. Okay, I would say
+
+407
+00:55:18.540 --> 00:55:23.069
+I would definitely for that, for many of those reasons, I would definitely reframe from
+
+408
+00:55:23.650 --> 00:55:26.280
+Jack: having color be the only way those are identified.
+
+409
+00:55:28.510 --> 00:55:29.639
+Interviewer: Note it.
+
+410
+00:55:29.980 --> 00:55:36.919
+Interviewer: Let's go to the 2. Analysis. Okay, the application drawer
+
+411
+00:55:36.950 --> 00:55:49.889
+Jack: menu, months, budget analysis. open navigation drawer. But budget analysis, more options. But web view pie chart entitled, your expenses per category this month with 2 points min. Value is 60. Max. Value is 90 article
+
+412
+00:55:50.490 --> 00:55:57.410
+Jack: good, good. Any chart trial version comma link, any chi, any chart trial version comma link, any chart. Javascript chart utilities.
+
+413
+00:55:57.630 --> 00:56:04.500
+Jack: any chart, tile version comma link, any chart. Javascript charts designed to be embedded and integrated. D 8, 4, 2, 1, 9, 2, 4
+
+414
+00:56:04.960 --> 00:56:10.820
+Jack: the trials. The trial screen is that is that just because the apps are prototype or
+
+415
+00:56:12.010 --> 00:56:13.499
+Interviewer: the 8?
+
+416
+00:56:13.530 --> 00:56:27.239
+Interviewer: the Api used for generating the pie chart is using like a trial version. That's what. Yeah. So I thought, like, is it? That's not something that would appear in a like a product in a production build. Right?
+
+417
+00:56:27.500 --> 00:56:30.359
+Jack: Yeah, melodies. Internet and phone
+
+418
+00:56:30.620 --> 00:56:32.880
+Jack: utilities. Well, 0 0
+
+419
+00:56:33.200 --> 00:56:36.530
+Jack: bring more information. Visit our website.
+
+420
+00:56:37.080 --> 00:56:45.390
+Jack: Any chart pie chart, entitled Your Expenses per Category this month, with 2 points in value is 60 Max. Value is 90 article.
+
+421
+00:56:45.940 --> 00:56:51.019
+Jack: It does look like any charts pie chart. It allows for alt text or
+
+422
+00:56:51.600 --> 00:56:54.809
+Jack: has it because it's very descriptive.
+
+423
+00:56:59.900 --> 00:57:03.950
+Interviewer: Got it? Can it go kind of go to the website? It's referring to
+
+424
+00:57:04.780 --> 00:57:08.249
+you enter you 2 0 0. If we want visit our website.
+
+425
+00:57:08.620 --> 00:57:10.649
+Jack: that one, no next heading
+
+426
+00:57:11.080 --> 00:57:14.870
+Jack: talk back menu links, enlist links, website, inlist
+
+427
+00:57:15.320 --> 00:57:24.369
+Jack: 0% progress bar 0%. Chrome Github, not an awesome money manager, app Java android app that can help you manage your budget, track your expenses, pull requests common link.
+
+428
+00:57:25.370 --> 00:57:30.920
+Interviewer: I was saying it was successful in going into the website. Oh, great! Oh, to the Github. Yep.
+
+429
+00:57:31.730 --> 00:57:33.889
+Jack: money manager visit our website.
+
+430
+00:57:34.150 --> 00:57:38.040
+Interviewer: Okay, it's perfect. Let's go to the other analysis page.
+
+431
+00:57:38.200 --> 00:57:42.139
+Jack: Oh, my chart entitled Your Expenses per capita option budget analysis built in navigation.
+
+432
+00:57:42.290 --> 00:57:55.929
+Jack: money, month, expense, budget categories, checked budget, monthly expenses, analysis, monthly expenses, analysis, open navigation, monthly export options, button web view. no next default or web view, no next default accessible.
+
+433
+00:57:56.710 --> 00:57:58.160
+Jack: Just a blank web view.
+
+434
+00:57:59.520 --> 00:58:01.530
+Interviewer: It is the only. So it appears
+
+435
+00:58:02.290 --> 00:58:03.140
+Jack: that was it.
+
+436
+00:58:03.580 --> 00:58:05.990
+Interviewer: And that's the only content in the screen
+
+437
+00:58:06.960 --> 00:58:07.880
+Jack: web view.
+
+438
+00:58:08.540 --> 00:58:11.510
+Yeah. correct. Other than the navigation buttons.
+
+439
+00:58:13.330 --> 00:58:18.549
+Interviewer: I see there is a a button at the very end, but I I'm guessing it cannot access
+
+440
+00:58:19.010 --> 00:58:24.150
+Jack: it. Whatever it is, it does not appear to be a label button or a visible button.
+
+441
+00:58:24.290 --> 00:58:25.230
+Interviewer: Got it.
+
+442
+00:58:26.890 --> 00:58:32.349
+Interviewer: Okay? And lastly, can you edit our category.
+
+443
+00:58:32.960 --> 00:58:36.630
+shortleal obligation. money, months, expensive budget categories
+
+444
+00:58:37.080 --> 00:58:41.960
+Jack: checked open now. But budget drop category, name budget, Internet phone. Enlist
+
+445
+00:58:42.220 --> 00:58:47.430
+Jack: $150 utilities, $100. No. Next, heading utilities.
+
+446
+00:58:47.700 --> 00:58:51.889
+Jack: budget, category info utility characters. Enter not the utilities. Edit box.
+
+447
+00:58:51.930 --> 00:59:06.669
+Jack: you tell you cannot change the Shati tango. Keep character utilities. You cannot change the category. Name screener way, mode. 100 edit. Box 100 period. Clear
+
+448
+00:59:07.070 --> 00:59:08.650
+Jack: comma comma
+
+449
+00:59:08.670 --> 00:59:19.289
+Jack: number 2, 0 keyboard clear. Write the map and come write the maximum amount of money you can spend in this category. I think money manager utilities enlist
+
+450
+00:59:19.780 --> 00:59:22.180
+Jack: $200. Okay, perfect.
+
+451
+00:59:22.270 --> 00:59:26.910
+Jack: I would say. Have the edit box for the category titled, disabled.
+
+452
+00:59:28.180 --> 00:59:30.499
+Jack: so that you cannot accidentally enter it like I just did.
+
+453
+00:59:34.110 --> 00:59:39.810
+Interviewer: And oh, one other thing is like, can you access the settings?
+
+454
+00:59:41.040 --> 00:59:41.980
+Jack: What's up
+
+455
+00:59:42.290 --> 00:59:45.660
+Interviewer: the settings of? Yes, yes.
+
+456
+00:59:47.020 --> 00:59:57.839
+Jack: open navigation drawer, button budget, more options. pop-up window, your wallet heading, come settings. money manager, more options. But category name budget.
+
+457
+00:59:57.960 --> 01:00:02.629
+Jack: Internet, 100 Youtube, 200 detective open budget categories. Open
+
+458
+01:00:02.880 --> 01:00:03.859
+Jack: money, ma'am.
+
+459
+01:00:04.110 --> 01:00:07.099
+Jack: once expense checked, but once more options. But
+
+460
+01:00:07.380 --> 01:00:10.529
+Jack: your wallet inlet. I didn't come. Settings
+
+461
+01:00:11.290 --> 01:00:17.619
+Jack: money manager more options, category. Your expenses. Settings are not up here. Internet and phone
+
+462
+01:00:20.930 --> 01:00:24.330
+Jack: category, name settings are not appearing.
+
+463
+01:00:25.020 --> 01:00:26.000
+Interviewer: I see
+
+464
+01:00:26.400 --> 01:00:28.459
+Jack: okay, unfortunately
+
+465
+01:00:29.030 --> 01:00:35.469
+Interviewer:  alright that was actually all the tests we had for you. So
+
+466
+01:00:35.890 --> 01:00:46.319
+Interviewer: so now, can you list all as much as you remember, all the flexibility issues or usability issues that you face.
+
+467
+01:00:46.680 --> 01:00:52.769
+Jack: Well, the labeled buttons for the added the labels for the edit boxes could be may more descriptive.
+
+468
+01:00:54.660 --> 01:00:56.410
+Jack: the add income button
+
+469
+01:00:56.510 --> 01:00:59.609
+Jack: being the add budget category button. Instead.
+
+470
+01:01:01.180 --> 01:01:11.580
+Jack: the Ed. Boxes that can't be added should be grayed out. The budget plans that can not aren't available should be grayed out.
+
+471
+01:01:13.490 --> 01:01:14.600
+Jack: The
+
+472
+01:01:16.690 --> 01:01:19.060
+Jack: add transaction button
+
+473
+01:01:19.800 --> 01:01:22.829
+Jack: should be on the top right hand corner instead of all the way. The bottom.
+
+474
+01:01:24.340 --> 01:01:25.590
+Jack: the.
+
+475
+01:01:28.070 --> 01:01:39.660
+Jack: and the the biggest thing is the onboarding the categories and th the budget amount and the the wallet amount and the category should all be added before the app is allowed to start
+
+476
+01:01:40.000 --> 01:01:40.930
+Jack: properly.
+
+477
+01:01:45.990 --> 01:01:47.810
+Jack: Does that answer your questions?
+
+478
+01:01:48.810 --> 01:01:54.720
+Interviewer: It wasn't a question. It was mostly like, what what you think with the highlights of the issues.
+
+479
+01:01:54.810 --> 01:02:04.049
+Jack: however, other than that it does seem, it's very nice low frills app, and it does have a what it does do. It does well, accessibility wise.
+
+480
+01:02:06.040 --> 01:02:07.109
+Interviewer: that's good to hear.
+
+481
+01:02:07.650 --> 01:02:13.400
+Interviewer:  We should exit node described. You can also uninstall thereafter.
+
+482
+01:02:14.130 --> 01:02:18.740
+Jack: Pixel money, chrome, close
+
+483
+01:02:19.380 --> 01:02:20.970
+Jack: test people, Google assistant.
+
+484
+01:02:21.330 --> 01:02:24.100
+Jack: close test, node, scrap, close app info
+
+485
+01:02:24.760 --> 01:02:25.850
+Jack: money manager.
+
+486
+01:02:25.890 --> 01:02:34.060
+Jack: app and open on install. But notes cancel. Okay. app info, uninstall button, uninstalled modescribe, pixel, launcher, money manager.
+
+487
+01:02:34.830 --> 01:02:43.670
+Interviewer: Alright, thank you. And just as a disclaimer use today, money manager has been modified by our team
+
+488
+01:02:44.180 --> 01:02:47.680
+Interviewer: just to add a few more facilities
+
+489
+01:02:47.860 --> 01:02:55.850
+Interviewer: for our research purposes of the actual money manager, isn't, you know, doesn't have as much as many problems.
+
+490
+01:02:56.390 --> 01:02:59.720
+Interviewer: Oh, no, no, okay, yeah, no worries I.
+
+491
+01:03:00.000 --> 01:03:08.540
+Jack: just as a disclaimer, but otherwise thank you so much for your very insights. This was very helpful, like you were really insightful.
+
+492
+01:03:08.650 --> 01:03:09.910
+Interviewer: Okay, talk to
+
+493
+01:03:09.990 --> 01:03:13.390
+Interviewer: you're welcome. Point out like what the problem is.
+
+494
+01:03:13.740 --> 01:03:16.849
+Jack: You are very welcome. Thank you all in turn for your time, too.
+
+495
+01:03:17.100 --> 01:03:19.940
+Interviewer: Yeah, alright. Have a good day
+
+496
+01:03:20.160 --> 01:03:21.880
+Jack: that you as well have a good weekend.
+
+497
+01:03:22.730 --> 01:03:23.630
+Interviewer: Bye.
+
+498
+01:03:23.990 --> 01:03:24.969
+Jack: Thank you.

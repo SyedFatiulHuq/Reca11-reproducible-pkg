@@ -1,0 +1,2725 @@
+WEBVTT
+
+1
+00:01:45.770 --> 00:01:46.480
+Nope.
+
+2
+00:01:48.720 --> 00:01:49.540
+Marina: Hello.
+
+3
+00:01:51.080 --> 00:01:52.609
+Interviewer: Hi! There! How are you doing?
+
+4
+00:01:52.780 --> 00:01:54.180
+Marina: I'm doing good.
+
+5
+00:01:55.790 --> 00:01:56.640
+Interviewer: Great!
+
+6
+00:01:57.300 --> 00:02:05.329
+Interviewer:  So before I introduce myself, have you been able to install both the applications. Yes, I have.
+
+7
+00:02:06.100 --> 00:02:07.150
+Interviewer: Okay. Great.
+
+8
+00:02:07.620 --> 00:02:18.569
+Interviewer: Alright. Let me introduce myself. I am <interviewer>. I am <identity>. Today. I want to research on the disability of
+
+9
+00:02:18.720 --> 00:02:21.880
+Interviewer: money manager, an open source android application.
+
+10
+00:02:22.490 --> 00:02:23.610
+Interviewer: So
+
+11
+00:02:23.740 --> 00:02:37.570
+Interviewer: with money manager, you can keep track of your expenses with features like adding income transactions, creating budget plans, and also looking at analysis of your spending. And it.
+
+12
+00:02:38.260 --> 00:02:43.130
+Interviewer: First, I would like you to set up notescribe.
+
+13
+00:02:43.150 --> 00:02:49.689
+Interviewer: which is a background service that will monitor your
+
+14
+00:02:49.710 --> 00:02:51.340
+Interviewer: interaction with
+
+15
+00:02:51.480 --> 00:02:59.779
+Interviewer: money mentioned so, and that is specifically of strictly for our research purposes is not a it's not a app in the market.
+
+16
+00:03:00.650 --> 00:03:01.710
+Marina: Alright.
+
+17
+00:03:02.290 --> 00:03:03.900
+Interviewer: So
+
+18
+00:03:04.050 --> 00:03:11.799
+Interviewer: so if we do screen sharing. I would like to get that going before we begin.
+
+19
+00:03:11.930 --> 00:03:14.440
+Interviewer: Is to be
+
+20
+00:03:15.330 --> 00:03:16.540
+okay. Hi, Chris.
+
+21
+00:03:19.140 --> 00:03:20.169
+if you want so far.
+
+22
+00:03:20.790 --> 00:03:23.160
+Marina: there we go.
+
+23
+00:03:23.550 --> 00:03:26.669
+Marina: Start reporting cancel. Start down
+
+24
+00:03:27.110 --> 00:03:29.860
+Marina: Marshall and Latina. Nova. Seventh
+
+25
+00:03:30.100 --> 00:03:32.469
+Marina: accessibility. Zoom.
+
+26
+00:03:33.740 --> 00:03:37.470
+Marina: Oh. so I'm gonna money manager.
+
+27
+00:03:39.360 --> 00:03:42.490
+Marina: money manager pro zoom.
+
+28
+00:03:43.650 --> 00:03:48.990
+Marina: No zoom to activate was working for me just a moment ago.
+
+29
+00:03:49.120 --> 00:03:50.200
+Marina: Money management.
+
+30
+00:03:51.810 --> 00:03:54.499
+Marina: I do have it on my home screen.
+
+31
+00:04:05.680 --> 00:04:09.310
+Marina: Yeah, stop service, start service, click on start service.
+
+32
+00:04:09.580 --> 00:04:10.910
+Marina: accessibility.
+
+33
+00:04:11.030 --> 00:04:13.090
+Marina: accessibility, search button.
+
+34
+00:04:13.350 --> 00:04:23.070
+Marina: navigate out more option, recommend contact to open visible hearing and interaction advance, instrument accessibility installed apps.
+
+35
+00:04:23.080 --> 00:04:24.429
+Marina: Okay, contact.
+
+36
+00:04:24.870 --> 00:04:30.320
+Interviewer: So when I hit that service it took took took me to screen. So what am I?
+
+37
+00:04:31.160 --> 00:04:38.490
+Interviewer: Yeah, we have to enable the accessibility, permission for noscribe. so kind of go to install that
+
+38
+00:04:38.720 --> 00:04:42.210
+Marina: install that assistant available navigator.
+
+39
+00:04:42.350 --> 00:04:45.380
+Marina: No described service, newly restricted setting
+
+40
+00:04:46.230 --> 00:04:48.070
+Interviewer: restricted right? So
+
+41
+00:04:48.080 --> 00:04:53.260
+Marina: we have to go to your settings volume set to 35% for your security.
+
+42
+00:04:53.340 --> 00:04:55.320
+Marina: The setting is unavailable.
+
+43
+00:04:56.100 --> 00:04:58.360
+Okay? Annotation. Pardon.
+
+44
+00:04:58.560 --> 00:05:01.660
+Marina: Okay. install that.
+
+45
+00:05:02.340 --> 00:05:06.420
+Marina: I'm on a Samsung phone. So what am I supposed to do?
+
+46
+00:05:06.660 --> 00:05:09.190
+Interviewer: Yeah. So you go to your settings
+
+47
+00:05:10.870 --> 00:05:14.160
+Interviewer: and they should be a settings app or a settings menu.
+
+48
+00:05:14.300 --> 00:05:17.200
+Marina: Yes. smart thing.
+
+49
+00:05:17.580 --> 00:05:19.710
+Marina: smart smart set, Sam.
+
+50
+00:05:19.920 --> 00:05:21.150
+Marina: that is.
+
+51
+00:05:21.420 --> 00:05:25.550
+Interviewer: search settings button and then scroll down to apps.
+
+52
+00:05:26.710 --> 00:05:28.330
+Marina: connection.
+
+53
+00:05:29.450 --> 00:05:35.530
+Marina: location, safety and accounts. Google advance
+
+54
+00:05:35.690 --> 00:05:43.190
+Marina: digital wellbeing. And
+
+55
+00:05:43.650 --> 00:05:45.100
+Marina: yeah.
+
+56
+00:05:46.320 --> 00:05:49.470
+Interviewer: and then subscribe
+
+57
+00:05:51.450 --> 00:05:52.770
+Marina: contact
+
+58
+00:05:54.860 --> 00:06:02.020
+Marina: nearby. Divide one drive, 300 point option. No? Described 5.5
+
+59
+00:06:02.150 --> 00:06:03.300
+Marina: staff info
+
+60
+00:06:03.960 --> 00:06:06.979
+and PIN more in some. Yeah. More option.
+
+61
+00:06:07.730 --> 00:06:08.850
+Marina: more options.
+
+62
+00:06:09.280 --> 00:06:10.560
+Interviewer: Hello!
+
+63
+00:06:10.690 --> 00:06:11.850
+Marina: Allow restricted
+
+64
+00:06:13.080 --> 00:06:13.950
+restricted setting.
+
+65
+00:06:14.220 --> 00:06:22.129
+Marina: There we go now. We can go back to accessibility settings and enable it alright. So I think I brought it up when I was using.
+
+66
+00:06:22.410 --> 00:06:26.400
+Marina: Now, do you think I'm gonna jump back in?
+
+67
+00:06:27.200 --> 00:06:32.910
+Interviewer: It's it's on the home page again. But you can click on start service.
+
+68
+00:06:33.670 --> 00:06:34.490
+Marina: sell that
+
+69
+00:06:35.470 --> 00:06:36.190
+and stop
+
+70
+00:06:36.600 --> 00:06:40.750
+Marina: notification. Remap nova no descript, no described.
+
+71
+00:06:41.290 --> 00:06:49.370
+Marina: no described nodescribe service. I'll switch. allow no describe service to have both view and used
+
+72
+00:06:49.900 --> 00:06:50.840
+Marina: uninstalled.
+
+73
+00:06:51.240 --> 00:06:54.869
+Marina: There we go. There we go. Great.
+
+74
+00:06:54.920 --> 00:06:59.199
+Interviewer: And we can go to money manager
+
+75
+00:07:00.270 --> 00:07:06.159
+Marina:  money, man.
+
+76
+00:07:06.170 --> 00:07:07.560
+Marina: so
+
+77
+00:07:07.580 --> 00:07:25.720
+Interviewer: navigation with money, manager, I'll paint a scenario like, you. Install this new app for budget tracking anyone to track your expenses. So let's say, yesterday you bought something from Amazon. Today you went to a restaurant.
+
+78
+00:07:25.820 --> 00:07:40.640
+Interviewer: And you want to buy like a TV next month. So you need a budget plan for it. So think about these things and try to navigate this app and use these functionalities by your own.
+
+79
+00:07:40.840 --> 00:07:51.860
+Interviewer: I will be here, but I won't intervene or intrude upon your navigation. You will try to accomplish all of this and just freestyle, the application.
+
+80
+00:07:52.110 --> 00:07:53.480
+Interviewer: Justice Harris.
+
+81
+00:07:53.950 --> 00:08:04.880
+Marina: and then, just let you know some. You I use a talk back to navigate the app. So if I have to stop to let you know of any issues that come across, I will do that.
+
+82
+00:08:05.060 --> 00:08:10.680
+Interviewer: Not only say it when you come across issues. But also just think aloud
+
+83
+00:08:10.720 --> 00:08:13.060
+Interviewer: when you're clicking something or what you're
+
+84
+00:08:13.130 --> 00:08:17.539
+Interviewer: observer being or what you're listening to, and what that makes you think
+
+85
+00:08:17.680 --> 00:08:19.230
+Marina: okay, perfect
+
+86
+00:08:20.630 --> 00:08:22.970
+Marina: navigation drawer, but
+
+87
+00:08:23.370 --> 00:08:24.840
+Marina: month's expenses.
+
+88
+00:08:25.070 --> 00:08:27.630
+Marina: more options, but category. Name
+
+89
+00:08:27.670 --> 00:08:31.380
+Marina: your expenses this month. Total expenses.
+
+90
+00:08:31.400 --> 00:08:42.540
+Marina: add expense, button, button. 53% accessibility. Expand 53. Press expect 53%
+
+91
+00:08:42.610 --> 00:08:50.800
+Marina: category name.
+
+92
+00:08:51.960 --> 00:08:54.800
+Marina: So I will focus on this
+
+93
+00:08:56.480 --> 00:09:00.589
+Marina: part where I get to add my expenses total, add expense button
+
+94
+00:09:03.130 --> 00:09:09.830
+Marina: and new transaction product category drop down, list detected. I calm down.
+
+95
+00:09:10.790 --> 00:09:18.320
+Marina: Okay. Enter info edit box detected icon product detected icon down dropdown list.
+
+96
+00:09:19.590 --> 00:09:28.650
+Marina: So I'm assuming it's a talkback thing. cause. There is some kind of image recognition that kicked in. So
+
+97
+00:09:31.510 --> 00:09:41.790
+Marina: what it said was detected. Arrow down so sounds like whatever talkback was doing.
+
+98
+00:09:42.160 --> 00:09:48.939
+Marina: I get, you know, like some kind of image recognition thing kicked in. But I already knew it was a drop down, to begin with, so I will activate that
+
+99
+00:09:51.260 --> 00:09:53.189
+Marina: enter detected.
+
+100
+00:09:53.770 --> 00:09:56.560
+Marina: Who? So
+
+101
+00:09:58.140 --> 00:10:03.009
+Marina: I keep double tapping that dropdown thing. But nothing's happening.
+
+102
+00:10:05.150 --> 00:10:07.810
+Interviewer: Why do you think so? That what do you think that's happened?
+
+103
+00:10:09.010 --> 00:10:11.720
+Marina: Detected icon down drop-down list
+
+104
+00:10:11.900 --> 00:10:21.780
+Marina: so like where it's a dropdown. Usually. What I would expect to happen is so talkback, you know, plays a different specific sound to tell you when that buttons been activated.
+
+105
+00:10:25.110 --> 00:10:32.679
+Marina: So yeah, when you use talkback, you have to navigate kind of differently as opposed to how
+
+106
+00:10:33.730 --> 00:10:35.779
+Marina: anyone else uses the screen
+
+107
+00:10:37.200 --> 00:10:42.230
+Marina: to afford a reason on my end when I double tap. Nothing happened, and
+
+108
+00:10:42.390 --> 00:10:51.439
+Marina: September September sixth. Free transaction. Enter info edit box, enter info edit box detected. Icon down dropdown list.
+
+109
+00:10:52.350 --> 00:10:57.629
+Marina: So yeah, noticing nothing's not let me drop down.
+
+110
+00:10:58.050 --> 00:10:59.880
+Marina: But I think I'll be able to.
+
+111
+00:11:00.080 --> 00:11:03.700
+Marina: Yeah on the air category on that product category
+
+112
+00:11:04.270 --> 00:11:11.310
+Marina:  yeah, when I swipe to the right next one over dropdown list.
+
+113
+00:11:11.620 --> 00:11:16.229
+Marina: so you know just at the drop down list. But when I double tap, obviously nothing happens.
+
+114
+00:11:17.260 --> 00:11:19.270
+Marina: Enter info and box.
+
+115
+00:11:20.180 --> 00:11:23.799
+Marina: Then next one over it says, Enter info
+
+116
+00:11:24.830 --> 00:11:29.489
+Marina:  I feel like
+
+117
+00:11:29.590 --> 00:11:34.020
+Marina: wait a minute. I think I know what's going on. Characters entered. 0 of 10.
+
+118
+00:11:34.230 --> 00:11:36.219
+Marina: Enter info, edit box.
+
+119
+00:11:36.380 --> 00:11:43.929
+Marina: transaction date. Enter info edit. Okay? So yeah, I kind of see some confusion here.
+
+120
+00:11:46.280 --> 00:11:49.480
+Interviewer: What, what are you confusing? Enter info edit box
+
+121
+00:11:49.540 --> 00:11:52.010
+Marina: so like it doesn't
+
+122
+00:11:52.220 --> 00:12:00.389
+Marina: give me a lot of info as to what each edit boxes, it just says, Enter info enter info edit.
+
+123
+00:12:01.630 --> 00:12:10.109
+Marina: Oh, my God! So yeah. When I swipe over to that next thing it says, enter info. It doesn't say exactly what that edit box for?
+
+124
+00:12:12.230 --> 00:12:17.590
+Marina: Got it? There's not enough context, yeah, no context or talk back.
+
+125
+00:12:18.100 --> 00:12:20.120
+Marina: Enter info edit box
+
+126
+00:12:20.540 --> 00:12:33.319
+Marina: characters and enter info detected icon down dropdown list. So I don't know if that has any change available. Yeah, I don't know
+
+127
+00:12:33.730 --> 00:12:37.179
+Marina: if it has to do with that dropdown window from earlier.
+
+128
+00:12:38.710 --> 00:12:44.510
+Interviewer: What are you saying like this is completely obstructive to your
+
+129
+00:12:45.340 --> 00:12:48.050
+Interviewer: navigation?
+
+130
+00:12:49.050 --> 00:12:50.020
+Marina: Yeah.
+
+131
+00:12:51.530 --> 00:12:52.810
+Interviewer: Right? Cause
+
+132
+00:12:53.170 --> 00:12:59.500
+Marina: again. with talkback, you know, reads certain things.
+
+133
+00:12:59.960 --> 00:13:10.440
+Marina:  so what I would like to expect to see is, you know, kind of have it. Tell me what what the edit box you know, what I'm supposed to enter in there.
+
+134
+00:13:13.050 --> 00:13:15.700
+Marina: But instead of this, says, enter infill.
+
+135
+00:13:16.990 --> 00:13:19.420
+Interviewer: and that is ambiguous. Yes.
+
+136
+00:13:20.160 --> 00:13:23.360
+Interviewer: okay. So let me let me
+
+137
+00:13:23.750 --> 00:13:29.929
+Interviewer: run through like the stuff. First of all the drop down, menu!
+
+138
+00:13:30.270 --> 00:13:31.250
+Interviewer: It should.
+
+139
+00:13:31.800 --> 00:13:37.339
+Interviewer: It is like empty, and that is why it's not opening up when you're trying to click on it. Right?
+
+140
+00:13:37.500 --> 00:13:40.419
+Interviewer: So you'll have to create
+
+141
+00:13:40.540 --> 00:13:44.180
+Interviewer: product category first, or like a budget category first.
+
+142
+00:13:46.140 --> 00:13:47.690
+Marina: Huh? Okay?
+
+143
+00:13:49.250 --> 00:13:57.309
+Marina: And so basically, from that standpoint. no error messages or nothing popped up, letting me know about that.
+
+144
+00:13:58.620 --> 00:13:59.960
+Interviewer: Yeah.
+
+145
+00:14:01.210 --> 00:14:02.660
+Marina: so
+
+146
+00:14:03.040 --> 00:14:07.550
+Marina: interrupted product category tap. September seventeenth.
+
+147
+00:14:07.820 --> 00:14:16.110
+Marina: So what I will do. Button is back. Navigation bar is back out of this screen
+
+148
+00:14:17.420 --> 00:14:18.989
+Marina: and see what I can
+
+149
+00:14:19.020 --> 00:14:23.600
+Marina: enter. Info edit. September nineteenth. Home, button back
+
+150
+00:14:23.710 --> 00:14:32.200
+Marina: money manager, add expense, button total your expense. Category more options, month open navigation drawer button.
+
+151
+00:14:32.650 --> 00:14:39.140
+Marina: so I'll go through that and see if I can figure out how to add categories.
+
+152
+00:14:41.420 --> 00:14:47.169
+Marina: Come on open navigate and money manager manager budget checked month's expenses.
+
+153
+00:14:47.480 --> 00:14:48.960
+budget categories.
+
+154
+00:14:49.420 --> 00:14:53.399
+Marina: And I see that budget categories, chat budget categories.
+
+155
+00:14:54.660 --> 00:14:56.899
+Marina: more options, category name
+
+156
+00:14:57.100 --> 00:14:58.030
+Marina: project.
+
+157
+00:14:58.320 --> 00:14:59.760
+Marina: unlabeled. Button
+
+158
+00:15:00.070 --> 00:15:14.630
+Marina: discussion. Icon at okay, so even though talkback has its own recognition system. I don't know if you were able to hear what it just did earlier unlabeled button.
+
+159
+00:15:16.610 --> 00:15:27.689
+Marina: Yep, but, detected add button. I think that's what it said. Right? But from a accessibility, standpoint, you know it's still best to you know label, the button.
+
+160
+00:15:31.040 --> 00:15:37.690
+Marina: because sometimes I believe sometimes the image recognition could be inaccurate.
+
+161
+00:15:40.070 --> 00:15:40.740
+Interviewer: Yep.
+
+162
+00:15:41.340 --> 00:15:47.280
+Marina: So it's still best to label the button regardless, anyway. So I'm gonna add budget category info
+
+163
+00:15:47.600 --> 00:15:49.799
+Marina: Category name edit box.
+
+164
+00:15:49.880 --> 00:15:56.809
+Marina: So okay, so I like that. The the edit box is labeled. it's a category name. So I'm gonna
+
+165
+00:15:58.730 --> 00:16:03.020
+Marina: so I'm gonna double tap to bring up the keyboard. English, Us. 40 show
+
+166
+00:16:03.390 --> 00:16:06.080
+Marina: TS. Shift off.
+
+167
+00:16:07.170 --> 00:16:11.800
+Marina: I'm just gonna type in the at a shift off
+
+168
+00:16:12.450 --> 00:16:15.520
+Marina: shift on. So I'm gonna type in a shopping
+
+169
+00:16:15.800 --> 00:16:16.819
+Interviewer: capital. S.
+
+170
+00:16:17.240 --> 00:16:18.660
+Marina: H. 8.
+
+171
+00:16:18.710 --> 00:16:21.079
+Marina: Hi, oh, okay.
+
+172
+00:16:21.150 --> 00:16:23.030
+Marina: Pink PA.
+
+173
+00:16:23.400 --> 00:16:24.350
+Marina: Hey, n.
+
+174
+00:16:25.350 --> 00:16:36.319
+Marina: GG. Next editing budget rate the maximum amount of money you can spend in this category edit box keyboard shown. Okay?
+
+175
+00:16:39.830 --> 00:16:42.680
+So I'm gonna say.
+
+176
+00:16:44.420 --> 00:16:47.840
+Marina: so, I like how that next edit box was labeled.
+
+177
+00:16:53.500 --> 00:16:58.410
+Marina: So I'm gonna type in maybe goodness.
+
+178
+00:16:59.430 --> 00:17:03.860
+Marina: Say, like per month, maybe. Oh, no.
+
+179
+00:17:06.890 --> 00:17:10.449
+Interviewer: You can add whatever budget you want.
+
+180
+00:17:10.730 --> 00:17:12.490
+Marina: Okay, or
+
+181
+00:17:14.140 --> 00:17:17.209
+Marina: 8 0 0 0,
+
+182
+00:17:17.569 --> 00:17:28.839
+Marina: add income button window button. Right? The maximum amount, clear text editing 400 edit box budget. Write the maximum amount of money you can spend in this category.
+
+183
+00:17:30.010 --> 00:17:33.510
+Marina: Characters entered 8 editing clear text, button.
+
+184
+00:17:33.850 --> 00:17:40.330
+Marina: maximum amount of money you can spend in this category. 0 8 0 comma
+
+185
+00:17:41.750 --> 00:17:54.160
+Marina: 0 express that. Write the maximum amount, add income annotation, button window, add income, button window budget category and write the maximum amount of money you can spend in this category.
+
+186
+00:17:54.800 --> 00:18:08.269
+Marina: So this is kinda again, I'm not sure why I have to do so. I'm not exactly sure cause. Next button over says add income. So not sure if that's part of the category.
+
+187
+00:18:08.460 --> 00:18:10.309
+Marina: you know, adding a category.
+
+188
+00:18:12.270 --> 00:18:14.080
+Interviewer: I think that is mislabeled.
+
+189
+00:18:14.340 --> 00:18:17.230
+Marina: Yeah, I think it. That that's a mislabeled button.
+
+190
+00:18:18.780 --> 00:18:20.980
+Interviewer: And you can press on it to add that editor.
+
+191
+00:18:21.550 --> 00:18:27.569
+Marina: Yeah. So yeah, I think that's all. It is. Mislabeled keyboard, hidden money manager.
+
+192
+00:18:27.880 --> 00:18:29.400
+Marina: detective icon. Ed.
+
+193
+00:18:31.110 --> 00:18:32.949
+Marina: $400 in list
+
+194
+00:18:33.200 --> 00:18:39.639
+Marina: shopping. Okay? So yeah, I just swiped over, so left a couple of times
+
+195
+00:18:40.190 --> 00:18:41.610
+Marina: shopping and lists.
+
+196
+00:18:41.680 --> 00:18:47.600
+Marina: $400, detective iconic annotation fund with 2020 30.
+
+197
+00:18:48.260 --> 00:18:50.330
+Marina: So now that I've added
+
+198
+00:18:52.830 --> 00:18:54.710
+Marina: added a category
+
+199
+00:18:56.060 --> 00:19:01.639
+Marina: category name, open navigation drawer button. I'm gonna go back to the
+
+200
+00:19:02.510 --> 00:19:08.709
+Marina: initial. The home Page men. Money checked budget month expenses.
+
+201
+00:19:09.130 --> 00:19:12.630
+Marina: tap to activate the month's expenses.
+
+202
+00:19:13.800 --> 00:19:15.479
+Marina: Check month expenses.
+
+203
+00:19:16.810 --> 00:19:19.000
+Marina: more options. Category. Name
+
+204
+00:19:19.320 --> 00:19:21.030
+Marina: your expenses this month.
+
+205
+00:19:21.420 --> 00:19:24.580
+Marina: Shopping, 0% slide shopping.
+
+206
+00:19:25.760 --> 00:19:32.049
+Marina: 0 $0, 400 total expenses out of list. 0% slider.
+
+207
+00:19:32.400 --> 00:19:37.469
+Marina: Okay? So I do like how
+
+208
+00:19:39.490 --> 00:19:42.219
+Marina: there's a part where it says, you know where it's
+
+209
+00:19:42.620 --> 00:19:51.000
+Marina: talk back is labeling it as a Slider. I do like Howard. You get an idea of where you're at
+
+210
+00:19:51.100 --> 00:19:53.609
+Marina: in that category.
+
+211
+00:19:56.340 --> 00:19:57.170
+Marina: Yep.
+
+212
+00:19:57.690 --> 00:20:00.490
+Marina: 5%. However, Slider.
+
+213
+00:20:00.680 --> 00:20:11.489
+Marina: I don't know. I don't know if it's a talkback bug or some other kind of book I noticed, though it's easy to actually mess with that Slider.
+
+214
+00:20:12.610 --> 00:20:16.070
+Marina: Yeah, as you just saw temporarily. Yep.
+
+215
+00:20:16.620 --> 00:20:18.480
+Interviewer: so I don't know if it's okay, I don't.
+
+216
+00:20:18.760 --> 00:20:23.120
+Marina: So I don't know if it's a talkback bug or what. So maybe instead of it being
+
+217
+00:20:23.530 --> 00:20:32.079
+Marina: Slider, maybe some, some other. some other thing. But still. you know, show what percentage you're at.
+
+218
+00:20:32.740 --> 00:20:33.440
+Interviewer: Yeah.
+
+219
+00:20:35.030 --> 00:20:41.580
+Marina: $0 total expense. Add expense button button.
+
+220
+00:20:41.920 --> 00:20:45.460
+Marina: Alright. So I'm gonna hit that button at expense
+
+221
+00:20:45.520 --> 00:20:48.360
+Marina: again, like how this is labeled
+
+222
+00:20:48.960 --> 00:20:54.370
+Marina: Adult tap shopping. Add new transaction product, category
+
+223
+00:20:54.620 --> 00:20:57.810
+Marina: Detective. I come down, drop down list shopping
+
+224
+00:20:58.120 --> 00:21:03.300
+Marina: alright. I didn't add any other categories. So. But I'm still gonna
+
+225
+00:21:03.360 --> 00:21:05.370
+Marina: see what happens, anyway.
+
+226
+00:21:06.470 --> 00:21:09.310
+Marina: Pop-up, window shopping and lists.
+
+227
+00:21:09.420 --> 00:21:13.870
+Marina: annotation, shopping and add new transaction 20.
+
+228
+00:21:14.180 --> 00:21:16.390
+Marina: And that pop-up does work.
+
+229
+00:21:17.540 --> 00:21:19.669
+Interviewer: So you just need to be populated
+
+230
+00:21:20.350 --> 00:21:28.929
+Marina: right? So what I mean is, you know, what I wanted to check out is to see if the pop-up window, or whatever whatever it was going to bring up. If that works.
+
+231
+00:21:31.870 --> 00:21:42.159
+Marina: Okay. So now that's enter info edit box detected, icon down. Enter info edit box. So again, the
+
+232
+00:21:42.170 --> 00:21:48.689
+Marina: edit box, the first one that I'm on it just says, Enter info! It doesn't give me any context.
+
+233
+00:21:51.170 --> 00:22:00.159
+Interviewer: What do you think it could be? Any context clues you can use? Name my product, name, product, name.
+
+234
+00:22:00.850 --> 00:22:07.110
+Marina: I will double tap. Great, just lost my place
+
+235
+00:22:17.210 --> 00:22:25.950
+Marina: expand toolbar. Alright. So I'm gonna say. and just be simple here and type in shoes.
+
+236
+00:22:26.240 --> 00:22:34.919
+Marina: Shift off shift. Capital d capital HE. Oh, oh, stop share. R.
+
+237
+00:22:35.170 --> 00:22:39.159
+Marina: EESS. Here, next
+
+238
+00:22:40.010 --> 00:22:43.770
+Marina: editing, enter info edit. Box keyboard. Shown
+
+239
+00:22:44.480 --> 00:22:48.499
+Marina: 8, 9. Okay. So even though
+
+240
+00:22:48.810 --> 00:22:57.359
+Marina: period button comma resends button window navigation bar, tap, and hold to long press.
+
+241
+00:22:58.100 --> 00:23:00.089
+Marina: So even though
+
+242
+00:23:01.260 --> 00:23:03.690
+Marina: It only said, Enter info
+
+243
+00:23:03.860 --> 00:23:11.590
+Marina: again on that next edit box. I was able to tell that this is where I'd enter my
+
+244
+00:23:13.100 --> 00:23:15.150
+Marina: you know. Enter how much it was
+
+245
+00:23:17.260 --> 00:23:18.240
+Interviewer: based on
+
+246
+00:23:21.100 --> 00:23:23.940
+Marina: based on the keyboard that popped up.
+
+247
+00:23:24.510 --> 00:23:28.180
+Interviewer: I see, like a number keeper.
+
+248
+00:23:29.350 --> 00:23:31.339
+Marina: but you know, just for
+
+249
+00:23:32.430 --> 00:23:36.099
+Marina: future, and it would be best to have that.
+
+250
+00:23:36.540 --> 00:23:41.250
+Marina: you know. Have those edit boxes labeled like the like. They were on the
+
+251
+00:23:42.390 --> 00:23:44.769
+Marina: on the ad category screen.
+
+252
+00:23:46.000 --> 00:23:47.010
+Interviewer: But
+
+253
+00:23:48.440 --> 00:23:51.849
+Interviewer: so I'm gonna yeah, put in whatever I want.
+
+254
+00:23:54.020 --> 00:23:57.550
+Interviewer: So I'm gonna enter an amount. I'm gonna say
+
+255
+00:23:57.810 --> 00:24:04.860
+Marina: 1, 4, no. One. 106, 58 0.
+
+256
+00:24:06.050 --> 00:24:09.530
+Marina: It's 8, 9, 0 0
+
+257
+00:24:10.080 --> 00:24:13.090
+Marina: editing 50 edit box. Here in comma
+
+258
+00:24:13.600 --> 00:24:15.580
+Marina: tier 9 done
+
+259
+00:24:16.090 --> 00:24:17.110
+Marina: backspace.
+
+260
+00:24:17.710 --> 00:24:22.120
+Marina: Delete, deleted, made a mistake here. 1, one.
+
+261
+00:24:22.240 --> 00:24:23.120
+Marina: 6,
+
+262
+00:24:24.090 --> 00:24:27.549
+Marina: 9, 8, 0, 0.
+
+263
+00:24:28.140 --> 00:24:34.130
+Marina: Choose edit, box, enter characters and editing 150, edit. Box, enter Info
+
+264
+00:24:34.250 --> 00:24:38.570
+Marina: dollar, sign. clear text. transaction date
+
+265
+00:24:39.350 --> 00:24:40.830
+Marina: 2023,
+
+266
+00:24:42.500 --> 00:24:44.520
+Marina: 3, 2023
+
+267
+00:24:46.360 --> 00:24:49.679
+Marina: free. So previous, free. September fifteenth
+
+268
+00:24:50.820 --> 00:24:55.909
+Marina: previous month. Button 3, 20, 2023.
+
+269
+00:24:56.040 --> 00:25:02.370
+Marina: Okay? Oh, okay, let's see what's going on. Transaction 2023
+
+270
+00:25:03.030 --> 00:25:04.390
+Marina: tap to activate.
+
+271
+00:25:04.720 --> 00:25:06.579
+Marina: Huh? That's weird, huh?
+
+272
+00:25:06.810 --> 00:25:08.739
+Marina: So the first time it
+
+273
+00:25:08.940 --> 00:25:18.879
+Marina: on the talk back side of things. It said something about tap to change within second time. Right? It said something different. So I'm not sure again, if that's a talk back issue.
+
+274
+00:25:19.740 --> 00:25:20.890
+Marina: And then
+
+275
+00:25:21.000 --> 00:25:27.599
+Marina: I noticed also. So you have this distinguished 2023, and then next one over. When I swipe right
+
+276
+00:25:27.610 --> 00:25:31.499
+Marina: free. September fifteenth, we're not to activate.
+
+277
+00:25:31.840 --> 00:25:33.819
+Marina: It says, today's date.
+
+278
+00:25:35.130 --> 00:25:40.059
+Marina: So II guess what I was thinking would happen is it would actually have
+
+279
+00:25:40.080 --> 00:25:43.909
+Marina: the full date in there with the month, day and year
+
+280
+00:25:44.810 --> 00:25:46.230
+Marina: on one button.
+
+281
+00:25:50.270 --> 00:25:54.110
+Interviewer: So I'm not gonna learn then the day and then
+
+282
+00:25:54.690 --> 00:26:01.270
+Interviewer: say, you want, say, you wanted to add this expense a day later. So
+
+283
+00:26:01.920 --> 00:26:04.960
+Interviewer: you would want to do it like fourteenth September.
+
+284
+00:26:06.560 --> 00:26:08.539
+Marina: So yesterday's date.
+
+285
+00:26:09.620 --> 00:26:10.590
+Marina: Okay.
+
+286
+00:26:11.990 --> 00:26:13.200
+Marina: some
+
+287
+00:26:13.250 --> 00:26:15.940
+Marina: 2023 September fifteenth.
+
+288
+00:26:16.440 --> 00:26:21.180
+Marina: I'm going to activate. I'm going to double tap on that on the todays date
+
+289
+00:26:21.360 --> 00:26:22.849
+Marina: select month and day.
+
+290
+00:26:25.250 --> 00:26:27.790
+Marina: 3, 6, 3, 6,
+
+291
+00:26:28.020 --> 00:26:29.320
+Marina: 9,
+
+292
+00:26:31.080 --> 00:26:32.300
+Marina: 8, tattoo.
+
+293
+00:26:34.360 --> 00:26:36.740
+Marina: September 6, 2023,
+
+294
+00:26:36.900 --> 00:26:53.549
+Marina: September, September twentieth, 2020 September, September fourteenth, September, September fourteenth, 2023 have to activate town to activate. Okay, so what I do like is on the upper part of the screen we have a calendar view, which is.
+
+295
+00:26:54.180 --> 00:27:00.199
+Marina: I guess, what I was expecting. However, what's kind of confusing is. There's also a number keyboard
+
+296
+00:27:00.740 --> 00:27:04.169
+Marina: on the lower half of the screen. So I'm not sure what that's about.
+
+297
+00:27:04.860 --> 00:27:10.040
+Interviewer: Think the number keyword appeared when you edit the expense.
+
+298
+00:27:10.080 --> 00:27:11.830
+Marina: and it didn't hide
+
+299
+00:27:11.890 --> 00:27:13.350
+Interviewer: second.
+
+300
+00:27:13.360 --> 00:27:15.750
+Marina: okay, so it must be a bug
+
+301
+00:27:16.540 --> 00:27:17.599
+Interviewer: could be, yeah.
+
+302
+00:27:18.590 --> 00:27:21.030
+Marina: September fourteenth, 2023,
+
+303
+00:27:22.040 --> 00:27:24.869
+Marina: Thursday, September fourteenth, 2023.
+
+304
+00:27:25.120 --> 00:27:28.199
+Marina: So like September September twelfth, 20.
+
+305
+00:27:28.800 --> 00:27:31.279
+Marina: So I'm gonna back out of that screen
+
+306
+00:27:33.000 --> 00:27:34.090
+Marina: keyboard hidden
+
+307
+00:27:35.550 --> 00:27:41.650
+Marina: the previous month. But who? September 2020. Transaction.
+
+308
+00:27:41.910 --> 00:27:43.200
+Interviewer: 100 information
+
+309
+00:27:43.880 --> 00:27:48.090
+Marina: here, choose, detect product, add new transaction.
+
+310
+00:27:48.270 --> 00:27:54.169
+Marina: September 9, 23. On September sixth, 150, edit. Box, entering
+
+311
+00:27:54.260 --> 00:27:55.720
+Marina: product, category
+
+312
+00:27:56.010 --> 00:27:59.950
+Marina: tap, choose, edit, detect, product, add view, transaction.
+
+313
+00:28:01.610 --> 00:28:10.319
+Marina: stop, share, stop share annotation. September 6. Today, September sixteenth, to selected September Thursday, September fourteenth.
+
+314
+00:28:11.100 --> 00:28:19.339
+Marina: September sixth back, button
+
+315
+00:28:19.660 --> 00:28:20.910
+Marina: add expense, button
+
+316
+00:28:20.940 --> 00:28:27.209
+Marina: total expense, annotation button at total $0, or $100 in list.
+
+317
+00:28:27.930 --> 00:28:30.000
+Marina: Okay? So when I hit that.
+
+318
+00:28:31.230 --> 00:28:32.110
+Interviewer: no, go ahead.
+
+319
+00:28:32.300 --> 00:28:40.559
+Marina: So when I hit that button there's nothing II was expecting the calendar view to go away and back me, you know. Put me back on the Add screen.
+
+320
+00:28:42.180 --> 00:28:46.539
+Interviewer: The calendar view was actually part of the air screen.
+
+321
+00:28:48.170 --> 00:28:49.010
+Marina: and
+
+322
+00:28:50.050 --> 00:28:57.910
+Interviewer: so when you backed out, you backed out of the adding screen. So now you're in the homepage event, and the things didn't save
+
+323
+00:28:58.330 --> 00:29:02.789
+Marina: Frank. So I guess what I was expecting to happen.
+
+324
+00:29:03.450 --> 00:29:07.860
+Marina: But the the calendar view is kind of its own separate window.
+
+325
+00:29:08.050 --> 00:29:10.930
+Marina: Total, $0 2020.
+
+326
+00:29:11.260 --> 00:29:13.059
+Marina: So we'll add it again
+
+327
+00:29:13.350 --> 00:29:17.099
+Marina: total at expense. Annotate. Add expense shopping.
+
+328
+00:29:17.200 --> 00:29:18.620
+Marina: Add new transaction.
+
+329
+00:29:18.730 --> 00:29:21.199
+Marina: detect. Enter info edit box.
+
+330
+00:29:21.560 --> 00:29:24.250
+Marina: Detect it. Icon crossmark, E.
+
+331
+00:29:24.560 --> 00:29:26.650
+Marina: SA. Shipped off.
+
+332
+00:29:27.520 --> 00:29:28.270
+Marina: Sure.
+
+333
+00:29:28.410 --> 00:29:29.340
+Capital S.
+
+334
+00:29:29.730 --> 00:29:33.649
+Marina: H. 5. Oh, oh, R.
+
+335
+00:29:33.870 --> 00:29:36.370
+Marina: EESS.
+
+336
+00:29:38.890 --> 00:29:41.390
+Marina: Editing. Enter info, edit. Box.
+
+337
+00:29:41.640 --> 00:29:43.030
+Marina: key work, 5,
+
+338
+00:29:43.350 --> 00:29:44.100
+Marina: one.
+
+339
+00:29:45.090 --> 00:29:48.010
+Marina: 1, 4, 1, one.
+
+340
+00:29:50.340 --> 00:29:53.169
+Marina: 9, 8, 0 0
+
+341
+00:29:54.040 --> 00:29:57.079
+Marina: editing, dollar. Sign, clear text.
+
+342
+00:29:57.230 --> 00:30:00.800
+Marina: Transaction date 2023,
+
+343
+00:30:01.070 --> 00:30:04.190
+Marina: free, September fifth, select month and day
+
+344
+00:30:05.000 --> 00:30:11.999
+Marina: selected, September September fourteenth, 2023, Thursday, September 1420, 23
+
+345
+00:30:12.250 --> 00:30:13.270
+Marina: selected
+
+346
+00:30:14.570 --> 00:30:20.860
+Marina: and another thing, too, that I guess I would have expected to happen would be a calendar view.
+
+347
+00:30:21.110 --> 00:30:25.470
+Marina: maybe. Going away once you select selected the date.
+
+348
+00:30:28.120 --> 00:30:32.540
+Interviewer: The calendar view is always here. By the way.
+
+349
+00:30:32.630 --> 00:30:33.950
+Interviewer: right do you
+
+350
+00:30:34.450 --> 00:30:40.160
+Interviewer: have you pressed any button to think that it appeared
+
+351
+00:30:41.550 --> 00:30:44.849
+Interviewer: or right? So what I mean is that it was here.
+
+352
+00:30:45.290 --> 00:30:47.880
+Marina: Alright. So what I mean is, I selected the
+
+353
+00:30:49.330 --> 00:30:51.620
+Marina: I said I could be
+
+354
+00:30:52.020 --> 00:30:56.869
+Marina: but they you know, it was showing today's dates. I selected that to bring up the calendar view.
+
+355
+00:30:58.580 --> 00:31:11.010
+Interviewer: I see. II think that is where talkback is miss guiding you because the calendar view is actually there, and on the
+
+356
+00:31:11.180 --> 00:31:19.980
+Marina: today's date, like it was already there. You didn't have to press today's, but but you had mentioned that I was that I should select yesterday's date.
+
+357
+00:31:20.490 --> 00:31:21.390
+Interviewer: Yeah.
+
+358
+00:31:24.120 --> 00:31:29.249
+Interviewer:  oh, I thought I thought when it was
+
+359
+00:31:29.930 --> 00:31:35.660
+Interviewer: saying that you can choose a day and a date
+
+360
+00:31:35.720 --> 00:31:40.799
+Interviewer: that you clicked on it, but it's like, not a functionality.
+
+361
+00:31:42.760 --> 00:31:50.380
+Marina: September. Let's not. Let's not confuse ourselves. But you can. Save this transaction. Now.
+
+362
+00:31:50.650 --> 00:31:52.060
+Marina: battery 52.
+
+363
+00:31:52.780 --> 00:31:57.549
+Marina: So September September sixth, 2023 to September fourteenth.
+
+364
+00:31:57.830 --> 00:32:07.000
+Marina: tap previous month. Foo 2020 foo select month, and day previous foo so select month and day previous. 5
+
+365
+00:32:07.800 --> 00:32:08.480
+Marina: comma
+
+366
+00:32:08.660 --> 00:32:11.650
+Marina: recess button went top done. Backspace
+
+367
+00:32:11.780 --> 00:32:14.430
+Marina: done. Keyboard hidden.
+
+368
+00:32:14.580 --> 00:32:25.300
+Marina: September 26. Add transaction. But to activate your wallet is empty. You cannot buy anything for now. Money manager, annotation, button zoom.
+
+369
+00:32:26.380 --> 00:32:31.939
+Marina: hold on something kind of not right here. Shopping.
+
+370
+00:32:32.120 --> 00:32:33.819
+Marina: 0% slider.
+
+371
+00:32:34.160 --> 00:32:38.560
+Marina: $0, 400 total expense. Add expense, button button.
+
+372
+00:32:38.660 --> 00:32:47.329
+Marina: annotation, add expense. Button. Okay? So I did all this work, and it still did not add, my.
+
+373
+00:32:48.530 --> 00:32:50.910
+Marina: I don't know what I'm doing wrong here.
+
+374
+00:32:51.160 --> 00:32:56.449
+Interviewer: Did you hear the the? Yes, I did. I heard it
+
+375
+00:32:56.630 --> 00:33:00.180
+Marina: so, I think. Forgotten to add something else.
+
+376
+00:33:00.440 --> 00:33:06.670
+Interviewer: No, you, Jim, you're you're good, it's not. It's not you. Don't worry. It's the app
+
+377
+00:33:07.480 --> 00:33:12.030
+Interviewer: requiring certain information, but it's not giving you
+
+378
+00:33:12.090 --> 00:33:17.490
+Interviewer: the information before. So what the problem here is is that
+
+379
+00:33:17.920 --> 00:33:23.010
+Interviewer: you have to add income to your wallet first before
+
+380
+00:33:23.180 --> 00:33:28.659
+Interviewer: you can add a transaction. So can you try finding a way to add income
+
+381
+00:33:29.000 --> 00:33:31.780
+Marina: shopping and lists, open navigation
+
+382
+00:33:31.880 --> 00:33:36.690
+Marina: money manager, manage your budget, track your expenses and control your plans.
+
+383
+00:33:37.470 --> 00:33:45.190
+Marina: checked month's expenses, budget categories, budget analysis. monthly expenses, analysis budget plans.
+
+384
+00:33:45.520 --> 00:33:50.590
+Marina: annotation button windows, zoom, budget, monthly expenses and budget plans.
+
+385
+00:33:51.880 --> 00:33:55.360
+Marina: month, budget, analysis. budget categories.
+
+386
+00:33:55.460 --> 00:33:58.280
+Marina: checked month's expenses, money management.
+
+387
+00:34:00.430 --> 00:34:06.200
+Marina: Nova 7 tap to come on one year. Money manager, money manager
+
+388
+00:34:08.739 --> 00:34:20.899
+Marina: stop sharing. Hmm and project plans. Window money manager. No. So I'm gonna stop here because what I'm because I on talk back, you know, there are different gestures
+
+389
+00:34:21.300 --> 00:34:25.190
+Marina: that you can use. And so I was using this one that
+
+390
+00:34:25.639 --> 00:34:39.940
+Marina: basically it's like, make writing a backwards. Now, I think enough to go ask to go back next, to go back to screen, and what it did was obviously took me back to the home screen as opposed to taking me out of the menu
+
+391
+00:34:40.449 --> 00:34:44.199
+Marina: and put me back on the previous screen I was on.
+
+392
+00:34:45.989 --> 00:34:51.130
+Interviewer: So the so the bank gesture is being registered, but it is exiting the app.
+
+393
+00:34:51.290 --> 00:34:55.770
+Interviewer: So if you want to go back to the homes, can you have to click on month expense.
+
+394
+00:34:56.489 --> 00:35:04.139
+Marina: money management budget category checked month expense, checked months expense. more options. Pop up window
+
+395
+00:35:04.380 --> 00:35:12.279
+Marina: your wallet in list. add income. add income. There it is. So I'm gonna do that wallet.
+
+396
+00:35:12.620 --> 00:35:14.839
+Marina: add income button out of list
+
+397
+00:35:15.360 --> 00:35:17.180
+Marina: money amount, edit box.
+
+398
+00:35:18.470 --> 00:35:22.969
+Marina: annotation, button money, add income button. Add to your wallet.
+
+399
+00:35:23.740 --> 00:35:30.150
+Marina: Okay? And I have to do some good contacts. Close here.
+
+400
+00:35:30.590 --> 00:35:45.520
+Marina: Battery, 51%. Add to money, amount edit box. Add to your wallet. tap to edit money, amount, edit box annotation, add in some button. So from a talkback perspective on. The first thing I've noticed
+
+401
+00:35:46.100 --> 00:35:48.019
+Marina: is that the
+
+402
+00:35:48.760 --> 00:35:53.160
+Marina: money add income button. There's an add income button
+
+403
+00:35:55.190 --> 00:35:56.750
+Marina: and then
+
+404
+00:35:56.770 --> 00:36:06.110
+Marina: when I swipe right money box. You've got the label edit box group. I guess what I was expecting to see would be the
+
+405
+00:36:06.640 --> 00:36:14.079
+Marina: add add amounts edit box, and then follow it, and then, when I swipe right. the near adding, Come, button.
+
+406
+00:36:15.720 --> 00:36:18.470
+Interviewer: so like the traversal order is reversed.
+
+407
+00:36:18.560 --> 00:36:20.100
+Marina: Right? That's what I was
+
+408
+00:36:20.210 --> 00:36:24.789
+Marina: right. So what it looks like right now is, you know, the order is reversed.
+
+409
+00:36:26.570 --> 00:36:33.350
+Marina: I see what that can assume right now. So I'm going to add.
+
+410
+00:36:33.850 --> 00:36:35.869
+Marina: detected icon crossmark.
+
+411
+00:36:36.160 --> 00:36:44.420
+Marina: keyboard, shown expand toolbar. So I'm gonna say. one like
+
+412
+00:36:49.340 --> 00:36:50.440
+Marina: goodness.
+
+413
+00:36:52.910 --> 00:36:54.809
+Marina: I'm thinking.
+
+414
+00:36:59.600 --> 00:37:07.440
+Marina: 6, 5, 4, one share audio set done 6 tap to activate, tap and hold to long press.
+
+415
+00:37:08.360 --> 00:37:10.450
+Marina: You're done backspace.
+
+416
+00:37:10.480 --> 00:37:11.570
+Marina: Excuse me.
+
+417
+00:37:11.960 --> 00:37:15.880
+Marina: 6, 6, 9, 0 0
+
+418
+00:37:16.290 --> 00:37:18.109
+Marina: 0 0.
+
+419
+00:37:18.120 --> 00:37:20.250
+Marina: What I'm gonna do
+
+420
+00:37:21.790 --> 00:37:28.879
+Marina: add income button window. Add to your wallet your wallet contains now 600.0 money manager.
+
+421
+00:37:29.060 --> 00:37:33.780
+Marina: keyboard, hidden money manager. more options. Button.
+
+422
+00:37:35.080 --> 00:37:40.209
+Marina: Okay? So I see what's up now. So I added that in category. Name
+
+423
+00:37:41.100 --> 00:37:45.920
+Marina: your expenses this month have more options, month's expenses.
+
+424
+00:37:45.940 --> 00:37:49.129
+Marina: One's expensive. Everything's good there.
+
+425
+00:37:50.000 --> 00:37:56.719
+Marina: more options category. You're expensive. 2020 shopping, 0% slider.
+
+426
+00:37:57.490 --> 00:38:01.019
+Marina: swipe $0, total expense, add expense, button
+
+427
+00:38:01.500 --> 00:38:05.930
+Marina: shopping. add new transactions. Product category
+
+428
+00:38:06.180 --> 00:38:12.460
+Marina: detected. Icon down, drop down, list shopping. perfect tact. Enter info edit box
+
+429
+00:38:13.520 --> 00:38:15.610
+Marina: detected. IS.
+
+430
+00:38:15.860 --> 00:38:18.810
+Marina: Windows set at HHI.
+
+431
+00:38:19.050 --> 00:38:20.960
+Marina: Oh, oh, R.
+
+432
+00:38:21.290 --> 00:38:24.810
+Marina: 3 EESS.
+
+433
+00:38:26.300 --> 00:38:33.500
+Marina: Editing clear text characters and enter info edit box detected icon 1, 2,
+
+434
+00:38:33.610 --> 00:38:35.020
+Marina: 1, one.
+
+435
+00:38:36.020 --> 00:38:37.010
+Marina: 9
+
+436
+00:38:37.480 --> 00:38:38.960
+Marina: 0 0
+
+437
+00:38:39.240 --> 00:38:39.950
+Marina: tap.
+
+438
+00:38:40.510 --> 00:38:44.919
+Marina: Choose edit. But character editing dollar, sign, clear text.
+
+439
+00:38:45.260 --> 00:38:46.660
+Marina: transaction, date
+
+440
+00:38:47.280 --> 00:38:50.669
+Marina: 2023, instead of putting you up to date.
+
+441
+00:38:51.080 --> 00:38:56.710
+Marina: And so, and instead of putting a yesterday's date, I'm just going to keep it on today's date
+
+442
+00:38:59.980 --> 00:39:03.940
+Marina: free. So previous month, next month, September.
+
+443
+00:39:04.020 --> 00:39:14.420
+Marina: September, I kind of see where you were going about the calendar.
+
+444
+00:39:16.310 --> 00:39:19.060
+Marina: Now, that's kind of confusing. There.
+
+445
+00:39:19.420 --> 00:39:27.129
+Interviewer: Yeah, I'm not a good explainer. But yeah, that was that's kind of a confusing way out.
+
+446
+00:39:29.300 --> 00:39:34.470
+Marina: Translate button backspace done. Period done.
+
+447
+00:39:34.490 --> 00:39:35.910
+Marina: September fifth.
+
+448
+00:39:36.410 --> 00:39:50.270
+Marina: rest. Add transaction, button window transaction. Budget category equals one product. Name equals shoes. Price equals 150.0 by date equals free. September 1513, 3 5 5 0 P. Dt. 2,023 money manager.
+
+449
+00:39:50.460 --> 00:39:51.769
+Marina: money manager.
+
+450
+00:39:52.070 --> 00:39:54.010
+Marina: add expense button button
+
+451
+00:39:54.260 --> 00:39:55.640
+Marina: have to activate.
+
+452
+00:39:56.720 --> 00:39:58.760
+Marina: So and appear would hear all that.
+
+453
+00:39:59.340 --> 00:40:03.550
+Interviewer: Yeah, I did. what do you think about
+
+454
+00:40:03.880 --> 00:40:05.570
+Interviewer: the process so far?
+
+455
+00:40:06.810 --> 00:40:09.900
+Marina:  very yeah.
+
+456
+00:40:10.810 --> 00:40:15.139
+Marina: that's probably gonna be a little harsh there, but a little cumbersome.
+
+457
+00:40:15.530 --> 00:40:17.440
+Interviewer: You can be harsh, is not my app.
+
+458
+00:40:17.760 --> 00:40:28.179
+Marina: Oh, I'm sorry. Okay, good. Good. Yeah, it's a little on a cumbersome, because there's no straightforward way to get the budget set up to begin with.
+
+459
+00:40:29.710 --> 00:40:39.310
+Marina: So it didn't. It didn't explain. It didn't say oh, first, you need to add. you know, income, or how much money you have in your wallet.
+
+460
+00:40:40.340 --> 00:40:49.620
+Marina: and next thing you need to add a category, you know a few categories, and then you can start adding your expenses. It just drops you right into the main screen.
+
+461
+00:40:52.300 --> 00:40:57.050
+Interviewer: Got it so there has to be some kind of configuration done beforehand.
+
+462
+00:40:57.060 --> 00:41:05.270
+Marina: But you don't have to keep on doing it all over again. you know, like a first time setup type of thing
+
+463
+00:41:08.250 --> 00:41:12.060
+Interviewer: in terms of the accessibility.
+
+464
+00:41:12.310 --> 00:41:21.500
+Marina: So in terms of accessibility. I stated the on the add expense screen. There was no
+
+465
+00:41:21.850 --> 00:41:25.830
+Marina: The edit boxes were not so labeled
+
+466
+00:41:26.870 --> 00:41:29.830
+Marina: correctly that just said, Enter info
+
+467
+00:41:31.520 --> 00:41:37.169
+Marina: as with the other screens, though it did tell me what was on each edit box.
+
+468
+00:41:43.220 --> 00:41:44.550
+Got it. Okay?
+
+469
+00:41:44.690 --> 00:41:48.070
+Interviewer: Let's try to add a budget plan.
+
+470
+00:41:49.510 --> 00:41:50.510
+Marina: Okay.
+
+471
+00:41:51.960 --> 00:41:56.770
+Marina: charging started battery. So I just put my phone in here. So
+
+472
+00:41:56.800 --> 00:42:02.360
+Marina: open category name tap to activate open navigation drawer button.
+
+473
+00:42:02.630 --> 00:42:05.209
+Marina: So I'm gonna open the menu
+
+474
+00:42:06.170 --> 00:42:12.809
+Marina: money manager, manager budget track your budget plans. I'm gonna do budget plans click on that
+
+475
+00:42:12.940 --> 00:42:22.859
+Marina: check budget plans more options. Your wallet contains enough money for this plan. Your wallet contains enough money for this plan.
+
+476
+00:42:23.290 --> 00:42:28.359
+Marina: The deadline of this plan has passed. The deadline of this plan has passed.
+
+477
+00:42:28.590 --> 00:42:30.700
+Marina: Detective icon, add button
+
+478
+00:42:33.380 --> 00:42:38.060
+Marina: annotation button detected, icon, add button window money manager.
+
+479
+00:42:38.230 --> 00:42:41.590
+Marina: So this main screen before I hit the add button.
+
+480
+00:42:42.400 --> 00:42:52.200
+Marina:  that was kind of confusing there, because it made it sound like there was already a budget plan. To begin with.
+
+481
+00:42:53.340 --> 00:42:56.379
+Marina: 7 given up context
+
+482
+00:42:57.180 --> 00:42:59.920
+Marina: as to any due dates.
+
+483
+00:43:04.310 --> 00:43:06.919
+Marina: So I'm going to now add.
+
+484
+00:43:07.210 --> 00:43:16.539
+Marina: deposit plan. The detective, I, Hannah. and notice here talkback. The image description kicked in.
+
+485
+00:43:17.100 --> 00:43:20.320
+Marina: Since that button was not labeled
+
+486
+00:43:24.210 --> 00:43:25.279
+Marina: Plan info
+
+487
+00:43:25.570 --> 00:43:27.470
+Marina: plan, title, edit, box.
+
+488
+00:43:28.200 --> 00:43:30.480
+Marina: Okay, plan, title.
+
+489
+00:43:30.990 --> 00:43:33.250
+Marina: Detect it, icon, crossmark.
+
+490
+00:43:33.530 --> 00:43:35.700
+Marina: English, Us. Courty scholar.
+
+491
+00:43:35.930 --> 00:43:37.240
+Marina: expand toolbar.
+
+492
+00:43:37.380 --> 00:43:40.450
+Marina: So I'm going to just call it budget
+
+493
+00:43:40.560 --> 00:43:42.770
+Marina: chef, z shift off
+
+494
+00:43:43.400 --> 00:43:45.210
+Marina: shift capital b
+
+495
+00:43:45.400 --> 00:43:50.069
+Marina: yup UUDD GGR
+
+496
+00:43:50.220 --> 00:43:53.280
+Marina: EERT. Ting
+
+497
+00:43:54.080 --> 00:43:57.060
+Marina: plan. But plan description, edit box.
+
+498
+00:43:57.160 --> 00:44:07.710
+Marina: tap to edit, text, tap, and hold to long press. Here. Editing budget, edit, box, character, plan, description, edit characters, entered plans, budget, edit, box.
+
+499
+00:44:07.910 --> 00:44:11.189
+Marina: So plans. Budget.
+
+500
+00:44:12.740 --> 00:44:16.150
+Marina: Goodness gracious! Detected icon crossmark.
+
+501
+00:44:16.250 --> 00:44:18.920
+Marina: dollar sign. keyboard shone.
+
+502
+00:44:20.830 --> 00:44:28.379
+Marina:  How about? I don't know.
+
+503
+00:44:28.830 --> 00:44:31.020
+Interviewer: Let's say, $600.
+
+504
+00:44:31.150 --> 00:44:35.410
+Marina: Oh, wait! That was that was the income. So let's say, 400,
+
+505
+00:44:35.910 --> 00:44:38.359
+Marina: 4, 4, 0
+
+506
+00:44:38.550 --> 00:44:40.269
+Marina: 0 0
+
+507
+00:44:40.690 --> 00:44:43.980
+Marina: and editing 100 and for budget
+
+508
+00:44:44.170 --> 00:44:50.440
+Marina: level, 49% dollar sign edit, clear text, button plan, deadline date
+
+509
+00:44:50.990 --> 00:44:52.470
+2023
+
+510
+00:44:52.820 --> 00:45:00.109
+Marina: free previous month, but tap to activate. So what does he ask for which state?
+
+511
+00:45:00.400 --> 00:45:02.540
+Interviewer: October thirtieth
+
+512
+00:45:03.270 --> 00:45:04.920
+Marina: next month? But
+
+513
+00:45:06.080 --> 00:45:09.539
+Marina: previous month free, September Preview.
+
+514
+00:45:10.190 --> 00:45:12.069
+Marina: 2 settings, button.
+
+515
+00:45:12.820 --> 00:45:20.940
+Marina: October October 20, fifth, October, October twentieth, 2020, October 20 seventh, 20, October 20 eighth, 20
+
+516
+00:45:20.970 --> 00:45:26.950
+Marina: October 20 ninth, 20 October thirtieth, 20, Monday, October thirtieth, 2023.
+
+517
+00:45:27.240 --> 00:45:28.270
+Marina: Selected
+
+518
+00:45:29.630 --> 00:45:31.989
+Marina: backspace, expand, toolbar.
+
+519
+00:45:32.350 --> 00:45:35.980
+Marina: search, button specific backspace done.
+
+520
+00:45:36.700 --> 00:45:42.640
+Marina: tap to activate, tap and hold to long. October 20 fifth, 2020 add plan, button
+
+521
+00:45:42.910 --> 00:45:47.900
+Marina: tap to activate. tap to activate. So I'm gonna hit. Add plan.
+
+522
+00:45:48.960 --> 00:45:55.670
+Marina: Your plan added successfully. Money manager. money manager. detective. I'm Khanna Usk
+
+523
+00:45:55.970 --> 00:45:59.949
+Marina: tap to activate labels available. Use tap with 3 fingers to view.
+
+524
+00:46:00.480 --> 00:46:06.169
+Marina: Alright. So I'm gonna start at the top of the screen again.
+
+525
+00:46:06.470 --> 00:46:11.000
+Marina: The deadline of this plan has passed. Your wallet contains enough money for this plan.
+
+526
+00:46:11.650 --> 00:46:17.760
+Marina: So again, it's shown me that screen that I was seeing earlier, that something about a past deadline.
+
+527
+00:46:18.710 --> 00:46:31.229
+Marina: I'm just gonna keep on swiping to see what else is here. The deadline of this plan has passed. The deadline of this plan has passed budget mon. October thirtieth, $2,023400. Enlist
+
+528
+00:46:31.970 --> 00:46:40.689
+Marina: detective Icon add, but budget. On October thirtieth 100 and list. So before we down to activate.
+
+529
+00:46:40.980 --> 00:46:50.659
+Marina: Sorry. So before we move on I'm not sure why there's all this extraneous info on the top before actually starts listing
+
+530
+00:46:51.240 --> 00:46:55.189
+Marina: any budgets that on the screen.
+
+531
+00:46:56.330 --> 00:47:00.780
+Interviewer: What is your best as to what those info are?
+
+532
+00:47:02.230 --> 00:47:03.679
+Marina: What was that?
+
+533
+00:47:04.950 --> 00:47:09.530
+Interviewer: What, sir? Like best? Guess on what that information is trying to convey.
+
+534
+00:47:11.440 --> 00:47:20.589
+Marina: Well, I'm not exactly sure what it's trying to convey, because. you know, there's no context. So I don't know if it's trying to
+
+535
+00:47:20.970 --> 00:47:23.940
+Marina: show how the feature works.
+
+536
+00:47:25.520 --> 00:47:32.640
+Interviewer: So what it actually is doing is very visual. So it is like color coding the plants
+
+537
+00:47:32.850 --> 00:47:38.320
+Interviewer: that you will list. So it is. There is a green color, and it's
+
+538
+00:47:38.460 --> 00:47:41.850
+Interviewer: depicting. Your wallet contains enough money.
+
+539
+00:47:41.910 --> 00:47:46.410
+Interviewer: and there's a red color that is depicting the deadline of this color has passed.
+
+540
+00:47:46.970 --> 00:47:50.730
+Interviewer: and then the rest of the earliest, Rosan.
+
+541
+00:47:52.010 --> 00:48:00.550
+Marina: Okay, so. But I don't know why. It would show that even when I you know, even before I added a budget plan.
+
+542
+00:48:01.610 --> 00:48:03.900
+Interviewer: It's it's kind of like
+
+543
+00:48:04.750 --> 00:48:12.019
+Interviewer: labeling like a legend of this page that is trying to convey that. But because it is
+
+544
+00:48:12.540 --> 00:48:14.669
+Interviewer: yeah, because it is color-coded.
+
+545
+00:48:14.680 --> 00:48:17.580
+Interviewer: It is not conveying any info to you.
+
+546
+00:48:18.110 --> 00:48:20.120
+Marina: Okay, so
+
+547
+00:48:21.030 --> 00:48:28.379
+Marina:  I'm not exactly sure how this would work for talkback users.
+
+548
+00:48:31.040 --> 00:48:35.290
+Marina: for I'm thinking, have some kind of a
+
+549
+00:48:36.930 --> 00:48:39.819
+Marina: color code, you know, color code systems that.
+
+550
+00:48:40.180 --> 00:48:44.519
+Marina: or at least some kind of system that works specifically with talk back like.
+
+551
+00:48:44.750 --> 00:48:46.609
+Marina: you know, like an asterisk.
+
+552
+00:48:48.780 --> 00:48:51.110
+Marina: the notes
+
+553
+00:48:51.290 --> 00:48:54.679
+Marina: the due date being passed, and I don't know what else.
+
+554
+00:48:56.370 --> 00:48:59.399
+Interviewer: Some kind of alternative way to convey that link.
+
+555
+00:48:59.500 --> 00:49:06.059
+Marina: Yes, that's what I'm trying to look at is a an alternative way to convey the same information.
+
+556
+00:49:09.090 --> 00:49:19.139
+Interviewer: Okay, next, there are 2 ways that the app is analyzing your data. So can we go into the and analysis.
+
+557
+00:49:20.170 --> 00:49:29.140
+Marina: the depth, your wallet, open navigation drawer, button money manager months expenses, budget categories, budget analysis.
+
+558
+00:49:29.860 --> 00:49:35.889
+Marina: So this, what? I'm so is this the first one? Yeah, this is the first one
+
+559
+00:49:36.790 --> 00:49:43.890
+Marina: chat budget analysis. Okay, so this is gonna be tricky, because if there are charts involved
+
+560
+00:49:44.240 --> 00:49:50.579
+Marina: with my experiences with the charts, information is not really conveyed. Well.
+
+561
+00:49:51.100 --> 00:49:53.730
+Interviewer: how do you know that there's charts involved?
+
+562
+00:49:54.160 --> 00:49:56.389
+Marina: Well, because of the
+
+563
+00:49:57.070 --> 00:50:03.170
+Marina: contacts clues. You know it said, budget analysis. So my impression is that I'm gonna be
+
+564
+00:50:03.250 --> 00:50:07.100
+Marina: coming across a chart. Once I double tap.
+
+565
+00:50:09.580 --> 00:50:13.699
+Marina: So let's see how this goes.
+
+566
+00:50:14.250 --> 00:50:18.289
+Marina: I chart, entitled, Your Expenses per Category this month, with one points
+
+567
+00:50:18.600 --> 00:50:23.070
+Marina: min. Value is 150. Max value is 150 article.
+
+568
+00:50:23.810 --> 00:50:25.410
+Marina: the chart trial version.
+
+569
+00:50:25.790 --> 00:50:32.150
+Marina: lengthy chart Javascript charts designed to be embedded and integrated, d. 8.4 point 2.1, 9, 2, 4
+
+570
+00:50:32.960 --> 00:50:41.069
+Marina: shopping. shopping. 0 slash. 0 for more information is an hour.
+
+571
+00:50:41.540 --> 00:50:46.619
+Marina: annotation, fun, window zoom. tap to activate, visit, hour.
+
+572
+00:50:46.890 --> 00:50:49.770
+Marina: website. window money, manager
+
+573
+00:50:50.510 --> 00:50:53.599
+Marina: links available. Use tab with 3 fingers to view.
+
+574
+00:50:54.730 --> 00:50:56.860
+Interviewer: So how do you feel that?
+
+575
+00:50:58.720 --> 00:50:59.729
+Marina: What was that?
+
+576
+00:51:00.240 --> 00:51:01.889
+Interviewer: Can you view that website?
+
+577
+00:51:03.120 --> 00:51:11.330
+Marina:  yes, I believe I can go there here links and like links.
+
+578
+00:51:11.620 --> 00:51:13.120
+Marina: website and list
+
+579
+00:51:13.850 --> 00:51:14.560
+Marina: problem.
+
+580
+00:51:14.930 --> 00:51:25.729
+Marina: Github, money manager, app Java android app manager, budget track your expenses and control tap to activate, tap and hold settings. Money manager.
+
+581
+00:51:25.840 --> 00:51:28.370
+Marina: money manager visit our.
+
+582
+00:51:29.430 --> 00:51:31.600
+Marina: Okay. So I just stop speech.
+
+583
+00:51:32.600 --> 00:51:33.990
+Marina: So
+
+584
+00:51:35.520 --> 00:51:38.020
+Marina: so just as I.
+
+585
+00:51:38.680 --> 00:51:41.460
+Marina: So this is, I thought the chart
+
+586
+00:51:42.720 --> 00:51:47.269
+Marina: even though, you know, I've only added one entry. So it's kinda
+
+587
+00:51:47.470 --> 00:51:51.260
+Marina: hard to figure out what's going on. But
+
+588
+00:51:52.540 --> 00:51:58.749
+Marina: at the beginning it sounded promising, because, you know, was telling me. Hey, there's one data point.
+
+589
+00:52:00.520 --> 00:52:04.409
+Marina: And then, as I moved on as I swept right.
+
+590
+00:52:06.690 --> 00:52:10.150
+Marina: it's just sounds like it was just reading a bunch of numbers.
+
+591
+00:52:10.690 --> 00:52:15.080
+Marina: you know, without me knowing what those numbers are. or how to
+
+592
+00:52:16.090 --> 00:52:18.879
+Marina: used in calculating the budget, or whatever.
+
+593
+00:52:20.480 --> 00:52:23.060
+Interviewer: What do you think a better alternative would be
+
+594
+00:52:24.330 --> 00:52:26.710
+Marina:  So
+
+595
+00:52:26.850 --> 00:52:32.180
+Marina: I've discovered at least a few times like these. A.
+
+596
+00:52:33.210 --> 00:52:35.849
+Marina: There's these charts out there
+
+597
+00:52:36.340 --> 00:52:41.860
+Marina: where I guess, somehow, notice. If you're a screen reader user, it describes the chart in detail.
+
+598
+00:52:44.280 --> 00:52:46.660
+Marina: I'm not exactly sure what it's called
+
+599
+00:52:48.090 --> 00:52:49.360
+Marina: right?
+
+600
+00:52:50.520 --> 00:52:58.120
+Marina: Yeah, I guess the alternative would be somehow just describe the the chart, basically in text form.
+
+601
+00:53:02.380 --> 00:53:03.140
+Interviewer: Got it?
+
+602
+00:53:04.250 --> 00:53:07.640
+Interviewer: Oh. can you go to the other analysis?
+
+603
+00:53:08.930 --> 00:53:12.360
+Marina: I turn entitled Your expensive open Navigation drawer, button
+
+604
+00:53:13.010 --> 00:53:14.790
+Marina: money manager man.
+
+605
+00:53:15.130 --> 00:53:18.949
+Marina: but monthly expenses, analysis tap to activate.
+
+606
+00:53:19.030 --> 00:53:23.360
+Marina: So I'm gonna click monthly, expensive expenses, announces.
+
+607
+00:53:23.490 --> 00:53:26.059
+Marina: chat, monthly expenses, analysis.
+
+608
+00:53:27.440 --> 00:53:30.330
+Marina: more options, button Wednesday.
+
+609
+00:53:30.800 --> 00:53:40.699
+Marina: annotation, button, windowzoom, web view window money manager. stop share button window zoom. Okay. So right from the get. Go
+
+610
+00:53:40.920 --> 00:53:44.820
+Marina: for for talk back.
+
+611
+00:53:45.220 --> 00:53:57.490
+Marina: it just said Web View. It didn't display anything else. It didn't read anything else out loud. It's this red red. It just read Web View. And then when I swiped to the right. This brought me to the screen sharing window
+
+612
+00:53:58.630 --> 00:54:04.680
+Interviewer: there is a, button in the screen. But it is not accessed by clockwork. It's it seems
+
+613
+00:54:04.720 --> 00:54:06.150
+Marina: right.
+
+614
+00:54:06.630 --> 00:54:08.370
+Marina: unfortunately.
+
+615
+00:54:09.450 --> 00:54:11.710
+Interviewer: let's go to the settings.
+
+616
+00:54:14.730 --> 00:54:20.460
+Marina: More options. Button window money, manager, open navigation, drawer, button
+
+617
+00:54:21.550 --> 00:54:24.809
+Marina: ma money, manager. budget plans
+
+618
+00:54:25.280 --> 00:54:32.230
+Marina: checked budget annotation, but check budget analysis, but months expenses check.
+
+619
+00:54:32.390 --> 00:54:35.919
+Marina: You're expecting more options. Pop up window
+
+620
+00:54:36.100 --> 00:54:38.599
+Marina: your wallet in list. Add income
+
+621
+00:54:38.720 --> 00:54:48.450
+Marina: settings. Okay. money manager. more options. Button out of list. Category names. Your expenses this month.
+
+622
+00:54:48.550 --> 00:54:51.649
+Marina: Shopping, 38% shopping.
+
+623
+00:54:52.100 --> 00:54:54.680
+Marina: Huh? 3,100.
+
+624
+00:54:54.690 --> 00:55:01.929
+Marina: Hold on! Hold on! Hold on! Share, audio. Stop share! Hold on to activate. Something's not right.
+
+625
+00:55:02.000 --> 00:55:07.849
+Marina: So hit the more options your expenses this month. More options, button, window money manager.
+
+626
+00:55:08.830 --> 00:55:09.970
+Marina: How about window?
+
+627
+00:55:10.210 --> 00:55:12.819
+Marina: Your wallet in the added settings.
+
+628
+00:55:14.010 --> 00:55:20.630
+Marina: and I'm highlighting settings. I'm going to double tap money manager. More options.
+
+629
+00:55:21.820 --> 00:55:28.299
+Marina: unfortunately, didn't take me to a setting screen.
+
+630
+00:55:29.570 --> 00:55:31.449
+Interviewer: Just like to think I said, screen.
+
+631
+00:55:31.890 --> 00:55:35.630
+Marina: no, I'm still on the home screen. I'm still on the monthly expenses
+
+632
+00:55:37.950 --> 00:55:40.700
+Interviewer: because the button is not working.
+
+633
+00:55:40.910 --> 00:55:43.140
+Interviewer: Yeah for settings.
+
+634
+00:55:45.440 --> 00:55:46.280
+Interviewer: Okay?
+
+635
+00:55:46.400 --> 00:55:50.949
+Interviewer: Well, that was it for a test today. Thank you, Marina.
+
+636
+00:55:50.970 --> 00:55:56.360
+Interviewer: You're welcome before we end it. Can you uninstall the notes? Right?
+
+637
+00:55:57.230 --> 00:55:58.750
+Marina: Yes, I can
+
+638
+00:56:00.360 --> 00:56:05.549
+Marina: gonna do it from this home screen tap to activate my 5 touch in mic clock
+
+639
+00:56:06.100 --> 00:56:10.740
+Marina: Nova settings. Translucent record. Gmail. No describe.
+
+640
+00:56:11.320 --> 00:56:12.629
+Marina: Talk back menu
+
+641
+00:56:12.930 --> 00:56:17.880
+Marina: actions, read actions, actions. shortcuts removed
+
+642
+00:56:18.370 --> 00:56:23.369
+Marina: uninstall, uninstall. No describe. Do you want to uninstall this app
+
+643
+00:56:23.520 --> 00:56:26.920
+Marina: cancel? Okay, button. I'm go ahead. Okay?
+
+644
+00:56:27.090 --> 00:56:31.280
+Marina: Uninstalled nodescribe. Nova 7. Gmail.
+
+645
+00:56:33.080 --> 00:56:46.760
+Interviewer: Can you can you list me some of the like. You already listed some of the excellent issues from like adding transaction. Can you list again afterwards, like what other issues you face afterwards.
+
+646
+00:56:48.970 --> 00:56:56.139
+Marina: So do we need me to stop screen sharing, or
+
+647
+00:56:56.240 --> 00:56:59.350
+Interviewer: we're still we don't. We don't need that. We don't need this
+
+648
+00:56:59.530 --> 00:57:06.919
+Marina: okay screen off. Bring her silent. Okay, so so what was your question again?
+
+649
+00:57:07.580 --> 00:57:10.339
+Interviewer: So what's your review of that?
+
+650
+00:57:11.630 --> 00:57:12.920
+Marina: So
+
+651
+00:57:13.240 --> 00:57:20.279
+Marina:  my review is a although it's a pretty good.
+
+652
+00:57:20.560 --> 00:57:23.110
+Marina: Yeah, although it's a good app.
+
+653
+00:57:24.590 --> 00:57:27.560
+Marina: I noticed talking like I noticed that
+
+654
+00:57:28.030 --> 00:57:31.700
+Marina: it's there's no
+
+655
+00:57:31.950 --> 00:57:34.610
+Marina: onboarding or introduction.
+
+656
+00:57:35.620 --> 00:57:47.180
+Marina: like, you know. But you know, hey? You need to add some things before you know you can start adding expenses. It just drops you into the monthly expenses, screen
+
+657
+00:57:49.050 --> 00:57:54.059
+Marina:  and then, on the accessibility side of things.
+
+658
+00:57:54.650 --> 00:58:00.169
+Marina: I don't like how I'm not able to view the charts in an accessible manner.
+
+659
+00:58:00.900 --> 00:58:10.109
+Marina:  I'm also don't like how the monthly expenses. Analysis, how I'm not able to use that at all.
+
+660
+00:58:12.790 --> 00:58:18.199
+Marina: Like, basically, if I was really serious about budget tracking, I'd have to go through whatever means
+
+661
+00:58:18.520 --> 00:58:19.900
+Marina: to a
+
+662
+00:58:19.920 --> 00:58:24.529
+Marina: like. I'd be better off just using that an excel spreadsheet.
+
+663
+00:58:25.540 --> 00:58:29.840
+Marina: for if I wanted to get an in-depth analysis of my budget.
+
+664
+00:58:33.510 --> 00:58:42.540
+Marina: but other than that, at least. What I do like, though, is on the monthly expenses. How it kind of gives you a visual
+
+665
+00:58:42.620 --> 00:58:46.129
+Marina: overview of where you're at for each category
+
+666
+00:58:46.410 --> 00:58:54.100
+Marina: so like a shopping category. Once I entered the choose and get price and all that I like how to
+
+667
+00:58:55.160 --> 00:58:58.560
+Marina: attracts how it told me. Oh, you're
+
+668
+00:59:00.070 --> 00:59:06.649
+Marina: at 38, you know, per cents. This is from a talk back point of view. So I like how you know. It shows that
+
+669
+00:59:07.750 --> 00:59:14.539
+Marina: although the part I found interesting is because it uses a slider as opposed to something else.
+
+670
+00:59:15.180 --> 00:59:18.730
+Marina: That you could just change the Slider.
+
+671
+00:59:22.480 --> 00:59:30.899
+Marina: Yeah, that's like the main thing I like about it. And then, when it comes to the analysis. you know, so I'm not able to
+
+672
+00:59:31.900 --> 00:59:34.039
+Marina: fully utilize that feature.
+
+673
+00:59:36.950 --> 00:59:37.790
+Interviewer: Got it
+
+674
+00:59:40.340 --> 00:59:41.889
+Interviewer: there. Anything else? Or
+
+675
+00:59:42.090 --> 00:59:44.010
+Marina: I think that's it.
+
+676
+00:59:44.310 --> 00:59:46.780
+Interviewer: Okay, great. Thank you so much.
+
+677
+00:59:47.010 --> 00:59:55.390
+Interviewer: And just as a disclaimer this app is open source. So we modified it a bit. And there.
+
+678
+00:59:55.580 --> 00:59:59.860
+Interviewer: the main app doesn't have as many exclusive issues. So
+
+679
+01:00:00.410 --> 01:00:15.079
+Interviewer: I'm sure you want to use that app or buzzer tracking and give it a try. Alright correct. And thank you for your time and the valuable insights. Hope you have a great day and a great weekend
+
+680
+01:00:15.880 --> 01:00:16.540
+Interviewer: right
+
+681
+01:00:16.690 --> 01:00:17.750
+Marina: right?
