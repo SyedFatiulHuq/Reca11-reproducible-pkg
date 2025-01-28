@@ -8,7 +8,7 @@ import utility as util
 import report_selection
 
 
-PROJECTS = ['money manager', 'goose sighting', 'fable']
+PROJECTS = ['money manager', 'goose sighting']
 RUN_NUM = 5  # the number of runs per transcript
 CAPTION_NUM = 100  # the number of captions per chunk
 
